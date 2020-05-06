@@ -1,0 +1,56 @@
+<h1>L’exploitation et l’entretien font-ils partie de votre processus de mise en service?</h1>
+<div class="col-md-12">
+	<div class="instructions">
+		<div class="circle_icon video"></div>
+		<p class="content">Visionnez la vidéo suivante pour savoir si l’exploitation et l’entretien font partie de votre processus de mise en service.</p>
+	</div>
+    <div class="video_player col-sm-10 col-sm-offset-1">
+		<div class="ipad-camera"></div>
+        <figure class="wb-mltmd col-sm-10  col-sm-offset-1">
+            <video poster="content/medias/videos/posters/poster_2_fr.png" tabindex="-1" title="L’exploitation et l’entretien font-ils partie de votre processus de mise en service?">
+                <source type="video/mp4" src="content/medias/videos/M726_Video_2_FR.mp4" />
+                <track data-type="application/ttml+xml" kind="captions" label="French" src="content/medias/videos/subtitles/M726_video_2_O_M_FR.xml" srclang="fr">
+            </video>
+            <figcaption>
+                <div class="accordion vertical">
+                    <details id="inline-captions">
+                        <summary><span class="glyphicon glyphicon-plus"></span>Transcription</summary>
+                        <div class="tgl-panel">
+                            <h2>L’exploitation et l’entretien font-ils partie de votre processus de mise en service? - Transcription de la vidéo</h2>
+                            <p>La première question que vous devez vous poser est la suivante : L’exploitation et l’entretien font-ils partie de notre processus de mise en service? Si ce n’est pas le cas, vous devez les intégrer. Je vous expliquerai pourquoi dans les prochaines diapositives.</p>
+							<p>Tout d’abord, qu’est-ce que la mise en service? La mise en service est le processus qui consiste à vérifier que les composantes des systèmes de nos installations fonctionnent comme elles le devraient, conformément aux attentes prévues à l’étape de conception.</p>
+							<p>Il est également important de comprendre la différence entre la mise en service, la mise en service rétroactive et la remise au point. </p>
+							<p>La mise en service est le processus d’assurance de la qualité qui s’enclenche au cours de la phase de conception d’un nouveau bâtiment, pour se poursuivre lors de la construction, de l’occupation et de l’exploitation de celui-ci.</p>
+							<p>Si un bâtiment n’a pas fait l’objet d’une mise en service lors de sa construction, on peut appliquer ultérieurement une mise en service rétroactive.</p>
+							<p>Finalement, la remise au point est un processus de réoptimisation pour les bâtiments ayant déjà fait l’objet d’une mise en service. On y a recours pour s’assurer que les appareils et les systèmes du bâtiment fonctionnent de manière optimale afin de répondre aux besoins actuels des occupants.</p>
+							<p>S’ils fonctionnent conformément à ce qui était prévu à la conception, pendant combien de temps continueront-ils de fonctionner ainsi?</p>
+							<p>Sans une exploitation et un entretien adéquats, la réponse sera inévitablement : « Pas très longtemps! »</p>
+							<p>Un programme d’exploitation et d’entretien bien conçu est essentiel à la mise en service.</p>
+							<p>Il est primordial pour maintenir le rendement du système, prolonger la durée de vie des appareils et des composantes, et éviter des coûts. Cet évitement de coûts porte d’une part sur le plan énergétique, un élément manifestement essentiel, et d’autre part, il évite d’avoir à remplacer des composantes et du matériel dans vos installations.</p>
+                        </div>
+                    </details>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="clearfix"></div>
+	<div class="transcript-clearfix"></div>
+</div>
+<script>
+
+	$(".video_player figcaption details").on("toggle", function(){
+		if($(this).prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+		else{
+			$(".transcript-clearfix").css({marginTop: 0});
+		}
+	});
+	
+	$(window).resize(function(){
+		if($(".video_player figcaption details").prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+	});
+	
+</script>

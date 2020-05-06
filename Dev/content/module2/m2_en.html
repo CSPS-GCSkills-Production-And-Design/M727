@@ -1,0 +1,57 @@
+<h1>Is Operations & Maintenance (O&M) part of your commissioning?</h1>
+<div class="col-md-12">
+	<div class="instructions">
+		<div class="circle_icon video"></div>
+		<p class="content">Watch the following video to learn if Operations & Maintenance is part of your commissioning.</p>
+	</div>
+    <div class="video_player col-sm-10 col-sm-offset-1">
+		<div class="ipad-camera"></div>
+        <figure class="wb-mltmd col-sm-10  col-sm-offset-1">
+            <video poster="content/medias/videos/posters/poster_2_en.png" tabindex="-1" title="Is Operations & Maintenance (O&M) part of your commissioning?">
+                <source type="video/mp4" src="content/medias/videos/M726_video_2_O_M_EN.mp4" />
+                <track data-type="application/ttml+xml" kind="captions" label="English" src="content/medias/videos/subtitles/M726_video_2_O_M_EN.xml" srclang="en">
+            </video>
+            <figcaption>
+                <div class="accordion vertical">
+                    <details id="inline-captions">
+                        <summary><span class="glyphicon glyphicon-plus"></span>Transcript</summary>
+                        <div class="tgl-panel">
+                            <h2>Is Operations & Maintenance (O&M) part of your commissioning? - Video transcript</h2>
+							<p>The first question you need to ask is this: Is Operations and Maintenance part of your commissioning process? If not, you need to incorporate it.  In the next few slides, I’ll explain why.</p>
+							<p>First, what is commissioning? Commissioning is the process of verifying that the components of the systems (i.e., HVAC, Electrical, Fire Safety, etc,…) within our facilities operate as they should, in accordance with design expectations.</p>
+							<p>It’s also important to understand the difference between commissioning, retro commissioning and recommissioning.</p>
+							<p>Commissioning is the quality assurance process that begins during the design of a new building and continues through construction, occupancy, and operation.</p>
+							<p>If a building was not commissioned originally, retro commissioning can occur later.</p>
+							<p>Retro commissioning: Commissioning process that applies to existing buildings that were not commissioned originally.</p>
+							<p>Finally, recommissioning is a re-optimization process for existing buildings that have already been either commissioned or retro commissioned. It is done to ensure that building equipment and systems are operating optimally to meet current occupant needs.</p>
+							<p>If they do operate according to design, how long are they going to operate that way?</p>
+							<p>Well, without proper <abbr>O&M</abbr>, it has been shown that the answer is “Not for very long”!</p>
+							<p>A well-designed <abbr>O&M</abbr> program is critical to commissioning.</p>
+							<p>It's critical to maintaining system performance, to extending the equipment and component operational life and for cost-avoidance. Both the cost-avoidance from an energy standpoint, which obviously is key, but also cost-avoidance from having to replace the components and material at your facilities, and maintaining system efficiency.</p>
+                        </div>
+                    </details>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+	<div class="clearfix"></div>
+    <div class="transcript-clearfix"></div>
+</div>
+<script>
+
+	$(".video_player figcaption details").on("toggle", function(){
+		if($(this).prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+		else{
+			$(".transcript-clearfix").css({marginTop: 0});
+		}
+	});
+	
+	$(window).resize(function(){
+		if($(".video_player figcaption details").prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+	});
+	
+</script>

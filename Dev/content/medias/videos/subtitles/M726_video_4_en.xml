@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+	<body>
+		<div xml:lang="en">
+         <p begin="1.183" end="3.383">How do you measure the quality of your O&amp;M program?</p>
+<p begin="4.17" end="8.97">Well, there are various metrics you can use, and here are just a few examples. They're not all-inclusive.</p>
+<p begin="9.42" end="14.52">Work orders generated and closed out, backlog of corrective maintenance, records of</p>
+<p begin="14.77" end="20.77">preventive maintenance, your safety records, and energy use. I mentioned that a few seconds ago.</p>
+<p begin="20.84" end="24.84">You can also look at metrics like your percentage of reactive maintenance vs. preventive maintenance,</p>
+<p begin="25.02" end="31.02">your overtime hours and dollars. The cost of parts, your replacement cost, and things like this.</p>
+<p begin="31.59" end="35.89">And now we'll discuss effective operations and maintenance, and program management OMETA</p>
+<p begin="37.23" end="41.23">Operations maintenance is not just operations, and not just maintenance, but it's comprised of</p>
+<p begin="41.32" end="46.5">operations, maintenance, engineering support, training, and administration. Each of those entities are</p>
+<p begin="46.7" end="49.13">just as important as the other.</p>
+<p begin="49.24" end="53.06">You need to look at your operations and maintenance support and training administration and</p>
+<p begin="53.26" end="56.26">evaluate their effectiveness, and identify any gaps that might exist, so that</p>
+<p begin="56.39" end="59.89">you can improve your process, and improve your own end-program.</p>
+<p begin="61.07" end="64.77">Here are a few examples you might want to evaluate within your operations structure:</p>
+<p begin="66.13" end="72.13">1) Organizational structure. Does everyone understand it? Is it well documented?</p>
+<p begin="72.92" end="78.12">Is the interface of your operations program interfaced with other entities? They could be interfaced with the</p>
+<p begin="78.43" end="81.23">engineering support, with maintenance, and with administration.</p>
+<p begin="82.35" end="86.65">Is it understood, is it documented, and is it well-defined?</p>
+<p begin="86.84" end="91.84">Situations can arise where maintenance on specific components or systems is not performed properly,</p>
+<p begin="92.38" end="97.38">because no one understands the job duty or whose responsibility it is to maintain and/or operate</p>
+<p begin="97.48" end="99.58">that piece of equipment.</p>
+<p begin="99.7" end="105.7">2) Plant evolutions and testing. Are they authorized and controlled? Is someone in charge?</p>
+<p begin="106.32" end="111.52">Are testing and evolutions looked at to ensure that those processes, when they're performed, don't cause a safety</p>
+<p begin="111.66" end="114.76">concern, and they don't cause degradation to your equipment?</p>
+<p begin="115.81" end="120.96">Use approved procedures. Procedures are very important in operating a plant to ensure that the</p>
+<p begin="121.16" end="125.61">configuration of the plant is as it should be, that operations are performed in accordance with best</p>
+<p begin="125.81" end="130.81">practices, that you're maintaining your equipment, or you're operating your equipment in a manner that</p>
+<p begin="131.03" end="134.03">the designer intended those components to be operated on.</p>
+<p begin="134.44" end="136.44">And we'll talk more about that when we talk about life cycle.</p>
+<p begin="137.61" end="143.51">3) Operating conditions effectively monitored. This ties into what conditions you're looking at, what parameters</p>
+<p begin="143.61" end="149.31">you look at, and who looks at these parameters? Operations staff are the ones going out and</p>
+<p begin="149.44" end="153.44">getting the information from the plant, and then logging it. It's very important that you look at various</p>
+<p begin="153.87" end="159.87">parameters, perhaps across heat exchangers, or the O2 level in the combustion process for a boiler, these</p>
+<p begin="160.21" end="165.21">types of things. You should define which are parameters are important to your systems, to your energy</p>
+<p begin="165.3" end="167.9">consumption, and to the health and welfare of your components.</p>
+<p begin="169.81" end="176.81">4) Maintenance. Is there a work priority system? Or do you just react to what's broke on any given day?</p>
+<p begin="176.9" end="181.6">Do you have work documentation? Do you maintain records related to your machinery history and your</p>
+<p begin="181.62" end="186.52">work activities that you can access downstream to determine what type of maintenance activities are</p>
+<p begin="186.62" end="191.92">being performed, what are the bulk of maintenance activities and are these activities reactive or proactive?</p>
+<p begin="193.31" end="198.31">5) Maintenance program implemented. Is the maintenance program implemented, or does</p>
+<p begin="198.32" end="203.32">maintenance come to work every day, trying to figure out what fire they need to put out on that particular day?</p>
+<p begin="204.56" end="211.26">6) Engineering support. The facility may be too small to have a specific engineering department but if that's the</p>
+<p begin="211.33" end="217.33">case they may able to rely on a larger facility. In any case, engineering support still needs to be part</p>
+<p begin="217.48" end="219.48">of an O&amp;M program. You need to have sufficient staff</p>
+<p begin="220.89" end="226.1">and resources, either contracted or within your own facility to be able to look at design and modification</p>
+<p begin="226.3" end="232.3">needs, to interface with operations and maintenance personnel. For the most part, operations and</p>
+<p begin="232.59" end="237.59">maintenance personnel know where all the problems are in the facility. They've operated it and they've maintained</p>
+<p begin="238.07" end="243.07">it for quite some time. But occasionally the engineering department might come in and define a modification</p>
+<p begin="243.6" end="248.14">or a plant system change without interfacing with the maintenance and the operation staff.</p>
+<p begin="248.64" end="254.17">They could find out very quickly, for example, that their proposed solution is not the one that's going to work.</p>
+<p begin="255.37" end="260.97">This connection needs to be made. The data collected and trended needs to be reviewed. As well, the</p>
+<p begin="261.93" end="266.68">information that operations is collecting needs to be defined and used effectively to determine whether</p>
+<p begin="266.88" end="269.22">or not the facility is operating efficiently,</p>
+<p begin="269.42" end="271.42">or whether there are problems with equipment.</p>
+<p begin="272.22" end="277.62">Often, there are facilities where operations do a great job at collecting information, they rigorously</p>
+<p begin="277.82" end="283.07">log information every four hours or more. They change the charts on the recorders, and file them, and when</p>
+<p begin="283.27" end="288.83">a certain time period passes, those records are archived and the process starts over. Rarely does anyone</p>
+<p begin="289.03" end="293.74">look at the information. It may have been years since anyone thought about what they recorded and why.</p>
+<p begin="294.14" end="299.8">What does that mean for the energy use or the health and welfare of the equipment? You need to take time</p>
+<p begin="300" end="304.48">to reflect on what you are recording, and how is it helping your plant to achieve energy efficiency,</p>
+<p begin="304.68" end="306.68">or extend the life of your equipment?</p>
+<p begin="308.26" end="315.42">7) Configuration control. Again, engineering or technical support expertise is often required to define the matrix</p>
+<p begin="315.62" end="317.62">of equipment that you need to operate.</p>
+<p begin="318.41" end="326.41">8) Training. Do you have training at your facilities? It's a key element in good O&amp;M. Your operations staff need</p>
+<p begin="326.48" end="331.78">to be trained for their jobs, otherwise, they'll shorten the life of equipment, and you won't operate efficiently.</p>
+<p begin="331.88" end="334.98">Do they understand why certain data points are being logged?</p>
+<p begin="336.87" end="342.87">9) The same goes for maintenance staff. Maintenance and operations staff want to do a good job but often are</p>
+<p begin="342.9" end="348.45">not given the tools they need to effectively do their jobs, and they end up operating the building or maintaining</p>
+<p begin="348.65" end="352.65">the plant in a way that shortens the life of the equipment or throws energy dollars away.</p>
+<p begin="354.11" end="358.86">You'll need continuing training and some initial training, and one of the key things when you define this training</p>
+<p begin="359.06" end="365.06">is - does it do what it needs to do? Is it compatible with what the job is, with what the maintenance job is,</p>
+<p begin="365.64" end="367.64">or with the operations job?</p>
+<p begin="368.62" end="372.72">And then how do you evaluate whether or not the training you have given is adequate, be it on the job,</p>
+<p begin="372.92" end="376.92">classroom training or just reading the manual related to a piece of equipment?</p>
+<p begin="378.09" end="382.77">You need to have continuous training. Sometimes, the engineering department may change a new</p>
+<p begin="382.97" end="388.16">pump or a new motor or a boiler with the latest technology and then not provide the operations staff</p>
+<p begin="388.36" end="392.63">and maintenance staff the training they need to be able to do maintenance on that piece of equipment</p>
+<p begin="392.83" end="394.83">or to operate that piece of equipment.</p>
+<p begin="396.78" end="402">10) Administration program. Do you have a program in place to document how you do business,</p>
+<p begin="402.2" end="408.99">what your O&amp;M program really is? Is work control documented? Is there some place or some entity</p>
+<p begin="409.09" end="414.13">involved that maintains these records? And configuration control. The job isn't done until the</p>
+<p begin="414.33" end="419.73">paperwork's done. As discussed earlier, you need to take all the paperwork and organize, track</p>
+<p begin="419.93" end="425.51">and maintain those records so that they're accessible in 10 or 20 years. It should be available in case someone</p>
+<p begin="425.71" end="430.38">in the future wants to look back, and ask, "how did that boiler operate 10 or 20 years ago when it was</p>
+<p begin="430.58" end="436.82">first installed?" Or "How does that compare to where I am today? How much fuel usage do I have today vs.</p>
+<p begin="437.02" end="439.02">10 years ago and why?"</p>
+<p begin="439.33" end="444.69">A good O&amp;M program has an integrated structure with strong ties between operations maintenance,</p>
+<p begin="444.89" end="449.41">engineering, training, and administration. Operations and maintenance are not just a</p>
+<p begin="449.61" end="451.61">microcosm unto themselves.</p>
+<p begin="452.36" end="458.36">If we don't operate like this our O&amp;M program is going to not be as efficient or as effective as we'd like.</p>
+<p begin="458.53" end="460.53">Next, we'll be going over the maintenance program.</p>
+    </div>
+  </body>
+</tt>

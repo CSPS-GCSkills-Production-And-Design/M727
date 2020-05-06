@@ -1,0 +1,59 @@
+<h1>Why Change?</h1>
+<div class="col-md-12">
+	<div class="instructions">
+		<div class="circle_icon video"></div>
+		<p class="content">Watch the following video to understand why change is necessary.</p>
+	</div>
+	<p><em>The links to the “Resources to Get You Started” found in the video have been updated in the “Resources” icon at the top right of your screen.</em></p>
+    <div class="video_player col-sm-10 col-sm-offset-1">
+		<div class="ipad-camera"></div>
+        <figure class="wb-mltmd col-sm-10  col-sm-offset-1">
+            <video poster="content/medias/videos/posters/poster_6_en.png" tabindex="-1" title="Why Change?">
+                <source type="video/mp4" src="content/medias/videos/M726_video_6_en.mp4" />
+                <track data-type="application/ttml+xml" kind="captions" label="English" src="content/medias/videos/subtitles/M726_video_6_en.xml" srclang="en">
+            </video>
+            <figcaption>
+                <div class="accordion vertical">
+                    <details id="inline-captions">
+                        <summary><span class="glyphicon glyphicon-plus"></span>Transcript</summary>
+                        <div class="tgl-panel">
+                            <h2>Why Change? - Video transcript</h2>
+                            <p>So, why change?</p>
+							<p>It could be cost savings. This example shows that a plant with 100 steam traps and a 20% failure rate can easily lead to costs of over $150,000 per year.</p>
+							<p>It could be something else. It could be maintaining continuity of <abbr>R&D</abbr> efforts or plant safety. You can’t have 50 percent reactive maintenance and have a safe and reliable system.   Reactive maintenance requires extra inventory, it costs downtime, it costs energy, overtime, and unplanned equipment failure. The bottom line is, reactive maintenance is not the way to go.</p>
+							<p>So, in conclusion, to have successful operations and maintenance, you’ll want to follow these principles: start your program and development early. Recognize program entities, OMETA, that operations is not just operations, and maintenance is not just maintenance. Operations, maintenance, engineering, training, and administration have to be all equal parts of your <abbr>O&M</abbr> program. Evaluate your needs. For some equipment, reactive maintenance is fine. For some equipment, you'll have to go to predictive to maintain its optimum reliability. And document your program results; documentation is key to maintaining your system and maintaining your <abbr>O&M</abbr> program. </p>
+							<p>Here are a few resources to get you started. We have provided the <abbr>US</abbr> department of energy’s <abbr>O&M</abbr> Best Practices Guide, as well as NRCan’s guides to commissioning, recommissioning and ongoing commissioning.</p>
+							<p>-- -Text on screen</p>
+							<p>FEMP O&M Best Practices Guide:<br>
+							<a href="https://www.energy.gov/sites/prod/files/2013/10/f3/omguide_complete.pdf" target="_blank">https://energy.gov/sites/prod/files/2013/10/f3/omguide_complete.pdf</a></p>
+							<p>NRCan Commissioning Guide<br>
+							<a href="https://www.nrcan.gc.ca/energy/efficiency/data-research-and-insights-energy-efficiency/buildings-innovation/building-optimization/commissioning-new-buildings/3825" target="_blank">http://www.nrcan.gc.ca/energy/efficiency/buildings/research/optimization/3827</a></p>
+							<p>NRCan Recommissioning Guide<br>
+							<a href="https://www.nrcan.gc.ca/energy/efficiency/buildings/research/optimization/recommissioning/3795" target="_blank">http://www.nrcan.gc.ca/energy/efficiency/buildings/research/optimization/recommissioning/3795</a></p>
+                        </div>
+                    </details>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+	<div class="clearfix"></div>
+    <div class="transcript-clearfix"></div>
+</div>
+<script>
+
+	$(".video_player figcaption details").on("toggle", function(){
+		if($(this).prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+		else{
+			$(".transcript-clearfix").css({marginTop: 0});
+		}
+	});
+	
+	$(window).resize(function(){
+		if($(".video_player figcaption details").prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+	});
+	
+</script>

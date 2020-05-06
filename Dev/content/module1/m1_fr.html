@@ -1,0 +1,65 @@
+<h1>Introduction</h1>
+<div class="col-md-12">
+	<div class="instructions">
+		<div class="circle_icon video"></div>
+		<p class="content">Visionnez la vidéo suivante, qui offre une introduction au cours.</p>
+	</div>
+    <div class="video_player col-sm-10 col-sm-offset-1">
+		<div class="ipad-camera"></div>
+        <figure class="wb-mltmd col-sm-10  col-sm-offset-1">
+            <video poster="content/medias/videos/posters/poster_1_fr.png" tabindex="-1" title="Introduction">
+                <source type="video/mp4" src="content/medias/videos/M726_Video_1_Intro_FR.mp4" />
+                <track data-type="application/ttml+xml" kind="captions" label="French" src="content/medias/videos/subtitles/M726_video_1_Intro_FR.xml" srclang="fr">
+            </video>
+            <figcaption>
+                <div class="accordion vertical">
+                    <details id="inline-captions">
+                        <summary><span class="glyphicon glyphicon-plus"></span>Transcription</summary>
+                        <div class="tgl-panel">
+                            <h2>Introduction - Transcription de la vidéo</h2>
+                            <p>Bonjour, et bienvenue au module de formation en ligne de Ressources naturelles Canada portant sur l’exploitation, l’entretien et la mise en service.</p>
+							<p>Ce cours a été adapté à partir du programme fédéral de gestion de l’énergie du département de l’Énergie américain portant sur l’exploitation, l’entretien et la mise en service. La présente formation est dispensée par le Service de soutien pour un gouvernement vert de Ressources naturelles Canada qui a pour objet d’aider les ministères et organismes fédéraux à planifier et à mettre en œuvre des projets qui permettent de réduire l’utilisation d’énergie et les émissions de gaz à effet de serre dans leurs bâtiments, laboratoires, autres installations et parcs de véhicules.</p>
+							<p>Au fil des ans, Ressources naturelles Canada a réussi à mettre au point des méthodes, des pratiques et des outils complets pour réduire la consommation énergétique et les émissions de gaz à effet de serre pour les secteurs privé et public, y compris le gouvernement fédéral.</p>
+							<p>Depuis 1991, Ressources naturelles Canada propose également un soutien technique élargi aux organismes du gouvernement du Canada qui cherchent à poser des actes ambitieux en vue de réduire les émissions de gaz à effet de serre de leurs bâtiments et des activités de leur parc/flotte de véhicules.</p>
+							<p>Cette formation fournira un appui aux organisations fédérales pour qu’elles respectent leurs engagements et qu’elles donnent l’exemple. Comme l’indique la Stratégie fédérale de développement durable 2016 à 2019, les installations fédérales se sont engagées à réduire de 40 % les émissions générées par leurs activités par rapport aux niveaux de 2005 d’ici 2030, et de 80 % d’ici 2050.</p>
+							<p>Cette initiative appuie également l’engagement des premiers ministres canadiens des paliers fédéral, provincial et territorial en vue d’intensifier leurs efforts pour passer à des bâtiments à haut rendement énergétique et à des flottes de véhicules à émission zéro, comme le prévoit le Cadre pancanadien sur la croissance propre et les changements climatiques.</p>
+							<p>J’aimerais commencer en abordant les objectifs de la journée. À la fin de ce séminaire, vous serez en mesure de faire ce qui suit :</p>
+							<ul>
+								<li>donner une définition à jour de l’exploitation et de l’entretien;</li>
+								<li>expliquer la relation de l’exploitation et de l’entretien sur la mise en service;</li>
+								<li>discuter des avantages d’un programme d’exploitation et d’entretien bien géré;</li>
+								<li>expliquer certains des obstacles courants à l’exploitation et à l’entretien, et savoir comment les surmonter;</li>
+								<li>énumérer cinq mesures de rendement d’un programme d’exploitation et d’entretien efficace;</li>
+								<li>expliquer le terme <abbr>EEIFA;</abbr></li>
+								<li>expliquer les conséquences du cycle de vie d’un programme d’exploitation et d’entretien, de la conception d’une nouvelle composante au remplacement;</li>
+								<li>discuter des avantages de chacun des types d’entretien suivants : réactif, préventif, prédictif et axé sur la fiabilité; et</li>
+								<li>situer les ressources pour vous aider lors de l’élaboration de vos programmes d’exploitation et d’entretien.</li>
+							</ul>
+							<p>Le cours est divisé en segments suivants</p>
+                        </div>
+                    </details>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="clearfix"></div>
+	<div class="transcript-clearfix"></div>
+</div>
+<script>
+
+	$(".video_player figcaption details").on("toggle", function(){
+		if($(this).prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+		else{
+			$(".transcript-clearfix").css({marginTop: 0});
+		}
+	});
+	
+	$(window).resize(function(){
+		if($(".video_player figcaption details").prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+	});
+	
+</script>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+	<body>
+		<div xml:lang="en">
+         <p begin="0.821" end="6.083">The first question you need to ask is this: Is Operations and Maintenance part of your commissioning process?</p>
+<p begin="6.283" end="12.083">If not, you need to incorporate it. In the next few slides, I'll explain why.</p>
+<p begin="12.283" end="17.652">First, what is commissioning? Commissioning is the process of verifying that the components</p>
+<p begin="17.852" end="23.852">of the systems within our facilities operate as they should, in accordance with design expectations.</p>
+<p begin="24.052" end="26.052">It's also important to understand the difference between commissioning,</p>
+<p begin="26.252" end="29.758">retro commissioning and recommissioning.</p>
+<p begin="29.958" end="34.02">Commissioning is the quality assurance process that begins during the design of a new building</p>
+<p begin="34.22" end="38.22">and continues through construction, occupancy, and operation.</p>
+<p begin="38.42" end="43.42">If a building was not commissioned originally, retro commissioning can occur later.</p>
+<p begin="43.62" end="49.62">Finally, recommissioning is a re-optimization process for buildings that have already been commissioned.</p>
+<p begin="49.82" end="53.895">It is done to ensure that building equipment and systems are operating optimally to</p>
+<p begin="54.095" end="56.095">meet current occupant needs.</p>
+<p begin="56.295" end="61.2">If they do operate according to design, how long are they going to operate that way?</p>
+<p begin="61.4" end="66.4">Well, without proper O&amp;M, it has been shown that the answer is "Not for very long"!</p>
+<p begin="66.6" end="70.6">A well-designed O&amp;M program is critical to commissioning.</p>
+<p begin="70.8" end="74.6">It's critical to maintaining system performance, to extending the equipment and</p>
+<p begin="74.8" end="78">component operational life and for cost-avoidance.</p>
+<p begin="78.2" end="82.48">Both the cost-avoidance from an energy standpoint, which obviously is key,</p>
+<p begin="82.68" end="87">but also cost-avoidance from having to replace the components and material at your facilities.</p>
+    </div>
+  </body>
+</tt>

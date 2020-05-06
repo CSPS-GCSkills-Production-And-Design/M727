@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+	<body>
+		<div xml:lang="en">
+         <p begin="0.53" end="5.89">Before getting into maintenance programs, we're going to go over the component life cycle.</p>
+<p begin="6.09" end="10.9">What is the component life cycle? It's something we don't think about very often, but it's why we do business,</p>
+<p begin="11.1" end="17.3">it's why we operate the way we operate. It's why we maintain components. Here's a very rudimentary</p>
+<p begin="17.5" end="22.16">life cycle. Just a simple diagram to get the point across.</p>
+<p begin="22.36" end="27.64">At some point in time, there is a new component. The designer intended that component to operate in a</p>
+<p begin="27.84" end="34.27">specific operational environment, with a specific temperature, pressure, clearances, vibration, etc.</p>
+<p begin="34.47" end="40.11">The component gets installed, and hopefully, the design basis is used when the component is operated.</p>
+<p begin="40.31" end="45.24">Hopefully it's operated within the envelope that the designer intended it to be.</p>
+<p begin="45.44" end="51.86">The designer recognizes, however, that no component, no system lasts forever. It's going to undergo some level</p>
+<p begin="52.06" end="57.85">of degradation. If the component is maintained correctly, it will maintain the rate of degradation that the</p>
+<p begin="57.95" end="59.85">designer intended.</p>
+<p begin="60.05" end="64.55">There are some other things that have to be done to maintain that degradation rate. We have to perform</p>
+<p begin="64.75" end="69.83">various maintenance activities that the designer intended to be performed on that component.</p>
+<p begin="70.03" end="75.11">Similar to the design of your car, which intended you to change oil every so often, the designer of most</p>
+<p begin="75.31" end="80.28">components intended you to perform some level of preventive maintenance on a regular basis.</p>
+<p begin="80.38" end="86.91">There's also repair refurbishment. Wheel bearings don't last forever. Fan belts don't last forever. So, we have to</p>
+<p begin="87.11" end="91.97">refurbish or repair various parts of most components we talk about to maintain that component,</p>
+<p begin="92.07" end="95.13">and get the design life out of that component.</p>
+<p begin="95.33" end="101.33">At some point in time, at the end of the design life, it will no longer be cost-effective to refurbish the component.</p>
+<p begin="102.27" end="107.45">It's worn out. At that point in time, the component is replaced and the cycle starts all over.</p>
+<p begin="108.35" end="113.02">But what happens when things go wrong, if we don't operate, or maintain that component?</p>
+<p begin="113.22" end="115.22">Well, we'll shorten its life.</p>
+<p begin="116.14" end="121.38">We could use a component in an incorrect application and induce stressors in that component that wouldn't</p>
+<p begin="121.58" end="127.29">normally exist. We could operate that component in an off-normal operation, outside the envelope that the</p>
+<p begin="127.49" end="129.49">designer originally intended.</p>
+<p begin="130.19" end="134.28">We could perform maintenance on that component, there could be improper maintenance, or we just don't</p>
+<p begin="134.48" end="139.97">do the maintenance that's required. All these things can add up and change the rate of degradation that that</p>
+<p begin="140.17" end="144.76">component experiences and leads to premature failure.</p>
+<p begin="144.96" end="149.96">Now we're going to talk about maintenance programs and practices. What are maintenance programs?</p>
+<p begin="150.21" end="154.89">And what are maintenance practices? Well, basically, maintenance is trying to minimize the degradation</p>
+<p begin="155.09" end="159.89">of a piece of equipment and extend its life to design, to what the designer intended.</p>
+<p begin="160.56" end="165.79">There are various maintenance program options. There's reactive maintenance, preventive</p>
+<p begin="165.99" end="172.29">maintenance, predictive maintenance, and reliability-centered maintenance. And we'll talk about each</p>
+<p begin="172.49" end="175.49">of these in a little bit more detail.</p>
+<p begin="175.69" end="179.79">Reactive maintenance is the predominant method of maintenance, but does very little to get the life out of a</p>
+<p begin="179.99" end="186.99">component that the designer intended. Reactive maintenance, basically just says: "Run it until it breaks."</p>
+<p begin="187.59" end="191.62">It's been the typical mode of maintenance for not only the federal sector, but also the private sector,</p>
+<p begin="191.72" end="193.82">for quite some time.</p>
+<p begin="193.96" end="199.99">Reactive maintenance advantages. This should really "Perceived advantages". If nothing's breaking and there</p>
+<p begin="200.19" end="204.66">aren't any major issues at the facility, reactive maintenance could be perceived as an advantage,</p>
+<p begin="204.86" end="209.45">since it costs less, both in terms of staff and capital costs.</p>
+<p begin="209.65" end="215.39">In reality, it's the opposite. Reactive maintenance programs lead to unplanned downtime.</p>
+<p begin="215.59" end="220.02">You're not going to have a reliable building. You could also see increased labor costs if something</p>
+<p begin="220.22" end="222.22">breaks down outside of regular work hours.</p>
+<p begin="223.51" end="228.72">Repair and replacement costs. There are obvious costs associated with the component in replacing or</p>
+<p begin="228.92" end="234.03">repairing it. Also, there are going to be costs associated with trying to maintain parts inventory on</p>
+<p begin="234.23" end="236.23">stock to keep all the components working.</p>
+<p begin="237.82" end="243.09">With secondary equipment damage, when something breaks, it often causes something else to break.</p>
+<p begin="243.29" end="249.58">As an example, cars generally have some type of timing belt, or timing gear. In many cars, this only costs a few</p>
+<p begin="249.78" end="255.19">hundred dollars to replace, and should be done, say, every 100,000, 150,000 km, depending on the car</p>
+<p begin="255.39" end="261.12">manufacturer's recommendations. But if we wait, in some cases, this belt can fail and cause secondary</p>
+<p begin="261.32" end="265.02">damage of the engine, and which may cost many thousands of dollars.</p>
+<p begin="265.15" end="270.92">It's a case of the primary component, the belt or the chain, a breakage causes secondary damage</p>
+<p begin="271.12" end="276.77">and inefficient use of staff resources. Reactive maintenance is just inefficient.</p>
+<p begin="276.97" end="281.45">The next maintenance option we have is a preventive maintenance program. What we are trying to do with any preventive</p>
+<p begin="281.65" end="287.08">maintenance program, other than reactive maintenance, is to extend the life of a component to its design life,</p>
+<p begin="287.28" end="292.23">while trying to maintain energy efficiency, and optimum operation of our plant.</p>
+<p begin="292.43" end="297.56">Preventive maintenance type tasks that we talked about in the design or life cycle design are things like</p>
+<p begin="297.76" end="302.98">changing oil, and replacing filters, and greasing bearings, these types of things.</p>
+<p begin="303.18" end="308.06">And these tasks are done periodically. Their maintenance period can be marked by calendar days,</p>
+<p begin="308.26" end="314">run time, or parts produced. These maintenance activities are not performed based on the actual</p>
+<p begin="314.2" end="319.2">condition of the machine. They're performed through recommendations and engineering experience.</p>
+<p begin="322.5" end="328.89">These maintenance activities are useful against degradation type modes of wear, fatigue, and corrosion,</p>
+<p begin="329.09" end="333.31">and you might think of it is as analogous to the automobile schedule of maintenance. We all know that</p>
+<p begin="333.51" end="338.81">when we purchase our new car, and it's warrantied for 50,000 km, or 100,000 km and that warranty is</p>
+<p begin="339.01" end="343.34">contingent on performing preventive maintenance. When you open the manual, it will have a maintenance</p>
+<p begin="343.54" end="351.31">schedule that says, "Every 5,000 km do this, or 10,000 km do this." The car manufacturer is confident that if</p>
+<p begin="351.51" end="356.38">you perform the preventive maintenance tasks, and operate the car correctly, the warranty is going to last</p>
+<p begin="356.58" end="359.38">and you'll get the design life out of the vehicle.</p>
+<p begin="359.58" end="364.55">It's the same way at our facilities. If preventive maintenance is performed correctly, it extends the life</p>
+<p begin="364.75" end="369.49">of the components and the system, and saves money due to energy consumption.</p>
+<p begin="369.69" end="376.05">What are the advantages of Preventive Maintenance? We've already touched on a few. It's cost effective.</p>
+<p begin="376.25" end="381.25">It can extend the life of our components. It helps save energy, increases the component life cycle,</p>
+<p begin="382.28" end="389.19">and increases the reliability of the plant. Also, preventive maintenance is flexible; it's flexible in that you might</p>
+<p begin="389.39" end="396.38">schedule a task for one time frame, but still have flexibility to move it. If I change oil every 5,000 km,</p>
+<p begin="396.58" end="404.58">in one case I might change it every 4,800 km in another case, or I might wait until 5,500 km before I change the oil. It does have flexibility.</p>
+<p begin="408.01" end="412.27">There are some disadvantages, though, especially compared to predictive maintenance. You're still likely</p>
+<p begin="412.47" end="417.78">to have failures. Preventive maintenance won't take care of and mitigate all the failures you might experience</p>
+<p begin="417.98" end="423.9">within a plant or a plant's equipment. It's labor-intensive and if things aren't breaking, you probably don't need someone to go around</p>
+<p begin="424.1" end="431.13">someone to go around and do preventive maintenance in the near-term. But in the longer-term it does pay-off.</p>
+<p begin="431.33" end="436.4">Another disadvantage is the performance of unneeded maintenance. In some cases, if maintenance is being</p>
+<p begin="436.6" end="442.33">done based on a schedule, and not based on the actual condition or the machine, we can perform unneeded</p>
+<p begin="442.53" end="448.26">maintenance. We might change a belt on a fan that doesn't need changing or change oil in a large oil</p>
+<p begin="448.46" end="453.46">reservoir that doesn't need be changed. It may just be fine chemically.</p>
+<p begin="453.89" end="459.21">There can be incidental damage to components through poor maintenance practices. Many of us have seen the</p>
+<p begin="459.41" end="465.27">bathtub curve related to the probability of an equipment failure shortly after a major maintenance overhaul.</p>
+<p begin="465.47" end="470.27">We can, in fact, through preventive maintenance, actually cause damage to our components. This is</p>
+<p begin="470.47" end="475.66">where some of the other key entities and key elements that I spoke of earlier in OMETA, can assist, and are</p>
+<p begin="475.86" end="482.02">very important. Do we have adequate documentation to support the maintenance staff during this overhaul or</p>
+<p begin="482.22" end="487.36">during this maintenance activity? Do they have the proper manufacturers' guidelines?</p>
+<p begin="487.56" end="492.14">Are they properly trained? Do they know what to do and how to do it?</p>
+<p begin="492.34" end="497.1">So, how do you build a preventive maintenance program? Well, first of all, you need a master</p>
+<p begin="497.3" end="502.38">equipment list. This list is important, whether you're talking preventive maintenance, predictive maintenance,</p>
+<p begin="502.58" end="504.58">or Reliability Centered Maintenance.</p>
+<p begin="505.17" end="510.58">You have to know what's under your umbrella, and a key time to do that is at building commissioning stage.</p>
+<p begin="510.78" end="514.42">This is when you'll have everyone involved in building operations together and you'll have all the</p>
+<p begin="514.62" end="520.23">documentation on hand. Put all the documentation together and make sure that that's collected and stored,</p>
+<p begin="520.43" end="526.24">and filed so you can access it in, say, 30 years. You should also have drawings of the facility, and know how</p>
+<p begin="526.44" end="532.32">it should be operated. Assign components into logical groups and prioritize components based on importance</p>
+<p begin="532.52" end="538.16">to the process. We'll talk more about some prioritization of equipment importance when we get to reliability</p>
+<p begin="538.36" end="543.58">centered maintenance, but it's still important in a preventive maintenance program. You need to look at</p>
+<p begin="543.78" end="548.78">the components with respect to their importance to the process, and their importance to energy efficiency.</p>
+<p begin="549.08" end="553.08">Then you have to determine the type of maintenance staff required to perform most</p>
+<p begin="553.28" end="555.28">maintenance tasks on the equipment.</p>
+<p begin="557.64" end="562.54">You also have to determine how frequently the maintenance tasks are going to be performed. Will it</p>
+<p begin="562.6" end="573.19">be daily, weekly, quarterly, or annually? Maybe every six weeks? Maybe every six years? You can use technical manuals, machinery history,</p>
+<p begin="573.19" end="579.19">your engineering department, good engineering judgment, or root-cause analysis to make this decision.</p>
+<p begin="579.31" end="583.45">If you have the foresight to maintain good equipment history and machinery history, you can look at the</p>
+<p begin="583.65" end="589.26">failures in the past, hopefully to figure out why it failed, and take actions to change how you do business,</p>
+<p begin="589.46" end="592.34">how your maintenance is performed so you can decrease the failure rate of that</p>
+<p begin="592.54" end="594.54">specific equipment or component.</p>
+<p begin="595.4" end="599.58">Prepare a schedule of maintenance activities to perform during outages, recognizing that outages</p>
+<p begin="599.78" end="606.9">and the tasks during outages fall outside of the daily, weekly, monthly type activity. If possible, incorporate a</p>
+<p begin="607.1" end="613.83">schedule in a computer-based management system. It's more accurate, it eases the report generating process,</p>
+<p begin="614.03" end="618.69">and it's easy to update your system. Some studies have shown that such a system can increase the</p>
+<p begin="618.89" end="624.77">maintenance productivity, can decrease the equipment downtime, while decreasing the parts inventory.</p>
+<p begin="624.97" end="626.97">And it also saves on material costs.</p>
+<p begin="628.07" end="632.92">Provide a method to monitor your maintenance performance, using the metrics talked about earlier, as far as</p>
+<p begin="633.12" end="637.84">downtime and how much reactive maintenance you're doing vs. preventive maintenance, the reliability</p>
+<p begin="638.04" end="640.04">at your facility, its energy use, etc.</p>
+<p begin="641.75" end="645.69">Predictive maintenance is different than preventive maintenance since it assesses the condition of the</p>
+<p begin="645.89" end="652.89">machine or the components through measurements. It doesn't rely on a schedule. It asks the questions:</p>
+<p begin="652.97" end="657.52">"What type of condition is this machine in? Are there stresses that exist within this component that are</p>
+<p begin="657.72" end="662.97">degrading this machine at a rate greater than design? Am I operating this machine in such a way that I'm</p>
+<p begin="663.17" end="668.17">shortening its life?" If I am, then I want to take the action necessary to mitigate the stresses.</p>
+<p begin="669.17" end="673.71">In a predictive maintenance program, you would measure the component stress levels before they can</p>
+<p begin="673.91" end="678.03">can cause a problem. You can measure component stresses through vibration,</p>
+<p begin="678.23" end="682.75">thermography and oil analysis. You can measure the degradation mechanism and evaluate</p>
+<p begin="682.95" end="684.95">component performance through its power consumption.</p>
+<p begin="685.91" end="691.47">Are there advantages to predictive maintenance over preventive maintenance? Yes, very much so.</p>
+<p begin="691.67" end="696.99">It can increase component operational life and availability. We're no longer guessing if stresses exist</p>
+<p begin="697.19" end="703.57">and taking maintenance actions. We're actually measuring whether they do or not. Because of that,</p>
+<p begin="703.77" end="709.8">it provides us the flexibility to say when and how we need to do maintenance. What tasks do we need to do,</p>
+<p begin="710" end="714.55">and we can schedule these tasks? Since you know the condition of the machine, you can plan when you do the</p>
+<p begin="714.75" end="720.29">maintenance task accordingly. This makes it easier to schedule maintenance hours. You can schedule it</p>
+<p begin="720.49" end="725.5">during the day, and you don't have to schedule overtime hours and associated costs.</p>
+<p begin="725.7" end="730.5">At the same time, you can order your parts. You know when you're going to do maintenance, so you no longer</p>
+<p begin="730.7" end="737.17">need to maintain that inventory, that stockpile of parts, you can let your distributor maintain that themselves.</p>
+<p begin="737.37" end="743.7">This results in significant cost savings in many cases. And if things are operating optimally, if your plant is</p>
+<p begin="743.9" end="748.95">operating at a high degree of reliability and things aren't breaking, you have a safe environment, and your worker</p>
+<p begin="749.15" end="755.8">morale improves as well. There are also energy savings. If the plant is operating as it should be, the components</p>
+<p begin="756" end="760.42">are running efficiently and effectively, you won't have steam leaks, you won't be blowing through the steam</p>
+<p begin="760.62" end="763.65">traps and the boilers will operate at a higher thermal efficiency, because</p>
+<p begin="763.85" end="765.85">you've taken care of issues like scaling.</p>
+<p begin="767.25" end="772.87">Are there disadvantages? Yes, of course. Predictive maintenance technologies are expensive.</p>
+<p begin="773.07" end="777.93">Diagnostic equipment can cost thousands of dollars. One could easily spend tens of thousands of dollars</p>
+<p begin="778.28" end="784.1">on an infrared camera for example. There's also increased investment and training of staff. Predictive</p>
+<p begin="784.3" end="790.21">maintenance technologies are not only costly; they're not intuitive. They require some training to be able to</p>
+<p begin="790.41" end="796.55">use. Different technologies require different levels of training, but none of them are off-the-shelf.</p>
+<p begin="796.75" end="801.62">They all require some level of training and there's a cost associated with that.</p>
+<p begin="801.82" end="806.99">Often the savings potentials are not readily seen by management. It's a hard sell to go to management,</p>
+<p begin="807.19" end="813.74">and say, "I want to buy an IR camera for $60,000." It probably won't be in the budget unless you can</p>
+<p begin="813.94" end="820.88">substantiate that with some payback, some return on investment, it's viable. In some cases, you can, depending on the</p>
+<p begin="821.08" end="825.03">type of facility that you have, and the type of maintenance that you perform with that infrared camera</p>
+<p begin="825.23" end="831.03">or predictive maintenance. In many cases though, you can't. And in those cases, you may be able to contract</p>
+<p begin="831.23" end="837.33">the services instead. That $60,000 for an infrared camera just turned into a periodic inspection by</p>
+<p begin="837.53" end="844">contract services for $1,200 to $1,500 a day, maybe once or twice a year. So, you can glean a</p>
+<p begin="844.2" end="848.86">report and the information necessary to define the health of the equipment or your systems, and use that</p>
+<p begin="849.06" end="853.06">to generate your needed maintenance activities downstream, and prioritize them.</p>
+<p begin="854.09" end="857.09">With reliability-centered maintenance, we take predictive maintenance a step further.</p>
+<p begin="857.636" end="860.7">We recognize that predictive maintenance is costly,</p>
+<p begin="860.9" end="862.9">as far as equipment and resources, training, and people, etc.</p>
+<p begin="863.673" end="868.673">We also realize that reactive maintenance across the board is not a good way to do business.</p>
+<p begin="868.87" end="873.125">We understand that some equipment is critical to our mission and critical to, say,</p>
+<p begin="873.325" end="876.325">energy efficiency, or in many cases, safety.</p>
+<p begin="876.433" end="881.824">Once we understand and recognize this, reliability-centered maintenance then says,</p>
+<p begin="882.024" end="885.06">"Let's mold our O&amp;M program around these differences.</p>
+<p begin="885.26" end="887.719">Let's do reactive maintenance where it makes sense."</p>
+<p begin="887.919" end="892.035">You'll have to prioritize your equipment based on its importance.</p>
+<p begin="892.235" end="896.27">Reliability-centered maintenance looks at the type of failures that are likely to occur</p>
+<p begin="896.47" end="900.77">with your key components or with mission important components as you define them.</p>
+<p begin="900.97" end="904.73">These components generally have some type of failure rate associated with them,</p>
+<p begin="904.93" end="908.49">just because of the nature of their function and how often they are used.</p>
+<p begin="908.69" end="913.71">The failures will have some type of effect upon your mission and upon what you deem as important.</p>
+<p begin="913.91" end="917.383">So, what reliability-centered maintenance does is try to aim resources</p>
+<p begin="917.583" end="921.481">at predicting the failures that have the greatest impact to your mission or system.</p>
+<p begin="921.681" end="925.757">This includes aspects of reactive preventive maintenance concepts.</p>
+<p begin="925.957" end="929.3">With some equipment, you may just perform preventive maintenance.</p>
+<p begin="929.5" end="933.53">With other equipment, you'll perform a combination of preventive and predictive maintenance.</p>
+<p begin="933.73" end="940.366">Reliability-centered maintenance was pioneered by industries that need to be reliable, otherwise, people's lives are lost.</p>
+<p begin="940.566" end="946.056">For example, Nuclear power plants, airline industries and fossil fuel power plants.</p>
+<p begin="946.256" end="952.342">These are the types of industries that need a high degree of reliability, but still have limited resources.</p>
+<p begin="952.542" end="956.12">So, they need to define which equipment and which systems are important</p>
+<p begin="956.32" end="962.98">to maintain to keep the highest degree of reliability. And they do that with the reliability-centered concept.</p>
+<p begin="963.18" end="968.778">There are three tasks for reliability centered maintenance. First, you define what's important,</p>
+<p begin="968.978" end="974.501">you define what type of failure modes exist, and the effect of those failure modes on your process.</p>
+<p begin="974.701" end="978.793">Then, identify effective maintenance tasks or mitigation strategies.</p>
+<p begin="978.993" end="984.759">Based on that, you determine what maintenance activities you can perform so that those failures don't occur.</p>
+<p begin="984.959" end="988.995">Then you would integrate that into your existing maintenance program.</p>
+<p begin="989.195" end="994.055">There are many of the same advantages that we see with predictive maintenance technologies.</p>
+<p begin="994.255" end="998.412">There's increased reliability, reduced chance of sudden equipment failure</p>
+<p begin="998.612" end="1002.325">and lower costs by eliminating unnecessary maintenance or overhauls.</p>
+<p begin="1002.525" end="1006.453">You're also able to focus maintenance activities on critical components,</p>
+<p begin="1006.653" end="1011.161">increase component reliability and incorporate root cause analysis.</p>
+<p begin="1011.361" end="1017.905">Are there disadvantages? Yes. The disadvantages include: work force, equipment, and training.</p>
+<p begin="1018.105" end="1022.469">Many of the same disadvantages we see in predictive maintenance technologies,</p>
+<p begin="1022.669" end="1027.109">because reliability-centered maintenance is so predictive maintenance technology heavy.</p>
+<p begin="1027.309" end="1032.398">The reliability-centered maintenance, is a premier program, and you can integrate its principles</p>
+<p begin="1032.598" end="1036.598">and backfit your own maintenance program. However, it will take some time and effort.</p>
+    </div>
+  </body>
+</tt>

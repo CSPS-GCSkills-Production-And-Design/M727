@@ -1,0 +1,59 @@
+<h1>Pourquoi changer?</h1>
+<div class="col-md-12">
+	<div class="instructions">
+		<div class="circle_icon video"></div>
+		<p class="content">Visionnez la vidéo suivante pour comprendre pourquoi faire des changements.</p>
+	</div>
+	<p><em>Les liens vers les “Ressources qui vous éclaireront” de la vidéo ont été mis à jour dans l’icône “Ressources” situé dans le haut de la page.</em></p>
+    <div class="video_player col-sm-10 col-sm-offset-1">
+		<div class="ipad-camera"></div>
+        <figure class="wb-mltmd col-sm-10  col-sm-offset-1">
+            <video poster="content/medias/videos/posters/poster_6_fr.png" tabindex="-1" title="Pourquoi changer?">
+                <source type="video/mp4" src="content/medias/videos/M726_Video_6_FR.mp4" />
+                <track data-type="application/ttml+xml" kind="captions" label="French" src="content/medias/videos/subtitles/M726_video_6_fr.xml" srclang="fr">
+            </video>
+            <figcaption>
+                <div class="accordion vertical">
+                    <details id="inline-captions">
+                        <summary><span class="glyphicon glyphicon-plus"></span>Transcription</summary>
+                        <div class="tgl-panel">
+                            <h2>Pourquoi changer? - Transcription de la vidéo</h2>
+							<p>Donc, pourquoi changer?</p>
+							<p>Vous pourriez économiser de l’argent. Cet exemple montre qu’une usine ayant 100 purgeurs de vapeur et un taux de défaillance de 20 % peut engendrer facilement des coûts de 150 000 $ par année.</p>
+							<p>Ou encore pour une autre raison. Vous pourriez vouloir préserver la continuité des efforts relatifs à la recherche et développement ou veiller à la sécurité de l’usine. Vous pouvez avoir 50 % d’entretien réactif et avoir un système sécuritaire et fiable. L’entretien réactif nécessite des stocks supplémentaires, il engendre des coûts au chapitre du temps d’arrêt, de l’énergie, des heures supplémentaires et de la défaillance des appareils. Au bout du compte, l’entretien réactif n’est pas une méthode à employer.</p>
+							<p>En conclusion, pour réussir au chapitre de l’exploitation et de l’entretien, vous devrez suivre ces principes : commencez votre programme et le développement tôt. Reconnaissez les entités du programme <abbr>EEIFA</abbr>, soit que le concept d’exploitation et d’entretien ne signifie pas seulement l’exploitation ou seulement l’entretien. L’exploitation, l’entretien, l’ingénierie, la formation et l’administration jouent tous un rôle égal dans votre programme d’exploitation et d’entretien. Évaluez vos besoins. L’entretien réactif convient pour certains appareils. Pour d’autres, vous devrez employer l’approche préventive pour maintenir une fiabilité optimale. Et documentez les résultats de votre programme; la documentation est essentielle pour maintenir votre système et votre programme en la matière. </p>
+							<p>Voici quelques ressources qui vous éclaireront. Nous vous avons fourni le guide des pratiques exemplaires en matière d’exploitation et d’entretien du département de l’Énergie américain, ainsi que les guides de Ressources naturelles Canada portant sur la mise en service, la remise au point et la mise en service en continu.</p>
+							<p>-- -Texte sur l'écran</p>
+							<p>FEMP O&M Best Practices Guide (en anglais seulement):<br>
+							<a href="https://www.energy.gov/sites/prod/files/2013/10/f3/omguide_complete.pdf" target="_blank">https://energy.gov/sites/prod/files/2013/10/f3/omguide_complete.pdf</a></p>
+							<p>Guide de commissioning pour les nouveaux bâtiments de RNCan<br>
+							<a href="https://www.rncan.gc.ca/energie/efficacite/donnees-recherche-et-connaissance-sur-lefficacite-energetique/innovation-des-batiments/optimisation-des-batiments/commissioning-des-nouveaux-batiments/3826" target="_blank">http://www.rncan.gc.ca/energie/efficacite/batiments/recherche/optimisation/3828</a></p>
+							<p>Guide RCx de RNCan<br>
+							<a href="https://www.rncan.gc.ca/energie/efficacite/donnees-recherche-et-connaissance-sur-lefficacite-energetique/innovation-des-batiments/optimisation-des-batiments/recommissioning/guide-rcx/3796" target="_blank">http://www.rncan.gc.ca/energie/efficacite/batiments/recherche/optimisation/recommissioning/3796</a></p>
+                        </div>
+                    </details>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="clearfix"></div>
+	<div class="transcript-clearfix"></div>
+</div>
+<script>
+
+	$(".video_player figcaption details").on("toggle", function(){
+		if($(this).prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+		else{
+			$(".transcript-clearfix").css({marginTop: 0});
+		}
+	});
+	
+	$(window).resize(function(){
+		if($(".video_player figcaption details").prop("open")){
+			$(".transcript-clearfix").css({marginTop: $(".video_player figcaption").outerHeight()});
+		}
+	});
+	
+</script>

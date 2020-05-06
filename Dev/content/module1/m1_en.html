@@ -1,0 +1,67 @@
+<h1>Introduction</h1>
+<div class="col-md-12">
+    <div class="instructions">
+        <div class="circle_icon video"></div>
+        <p class="content">Watch the following video, which is an introduction to the course.</p>
+    </div>
+    <div class="video_player col-sm-10 col-sm-offset-1">
+        <div class="ipad-camera"></div>
+        <figure class="wb-mltmd col-sm-10  col-sm-offset-1">
+            <video poster="content/medias/videos/posters/poster_1_en.png" title="Introduction" tabindex="-1">
+                <source type="video/mp4" src="content/medias/videos/M726_video_1_Intro_EN.mp4" />
+                <track data-type="application/ttml+xml" kind="captions" label="English" src="content/medias/videos/subtitles/M726_video_1_Intro_EN.xml" srclang="en">
+            </video>
+            <figcaption>
+                <div class="accordion vertical">
+                    <details id="inline-captions">
+                        <summary><span class="glyphicon glyphicon-plus"></span>Transcript</summary>
+                        <div class="tgl-panel">
+                            <h2>Introduction - Video transcript</h2>
+                            <p>Hello everyone and welcome to Natural Resources Canada&rsquo;s eTraining course on Sustainable Strategies for Existing Federal Facilities.</p>
+                            <p>This course has been adapted from the US Department of Energy&rsquo;s Federal Energy Management Program training material on sustainable strategies for existing federal facilities. This training is being delivered through the Natural Resources Canada Greening Government Services, to help federal departments and agencies plan and implement projects that reduce the energy use and greenhouse gas (GHG) emissions in their buildings, laboratories, other facilities and vehicle fleets.</p>
+                            <p>Over the years, Natural Resources Canada has been successfully developing comprehensive methodologies, practices and tools to reduce energy consumption and greenhouse gas emissions for the private and public sectors, including the federal government. </p>
+                            <p> Since 1991, NRCan has provided enhanced technical support to Government of Canada organizations seeking ambitious greenhouse gas emission reduction actions from their building and fleet operations. </p>
+                            <p> This training will support federal organizations to meet their commitments and lead by example. The Federal Government has committed to reducing emissions from its operations by 40% below 2005 levels by 2030 and by 80% by 2050, as outlined in the 2016-19 Federal Sustainable Development Strategy and in the Greening Government Strategy. It is important to note that Federal buildings represent almost 90% of the Government's GHGs.</p>
+                            <p> This initiative also supports the commitment by Canada&rsquo;s federal, provincial and territorial first ministers to scale up efforts to transition to highly efficient buildings and zero-emission vehicle fleets, as specified in the Pan-Canadian Framework on Clean Growth and Climate Change.</p>
+                            <p>This training course has 5 modules:</p>
+                            <p><strong>Module 1: More than Efficient &ndash; Achieving High Performance in Federal Buildings.</strong></p>
+                            <p>The first module is an introduction of what sustainability means for Federal facilities and the critical roles that energy and facility managers play.</p>
+                            <p><strong>Module 2: Identifying Sustainability Opportunities</strong>,</p>
+                            <p>This module will discuss the importance of baselining and benchmarking sustainability measures to align with Federal objectives and validate progress.</p>
+                            <p><strong>Module 3: Engaging Your Organization for Maximum Impact</strong>,</p>
+                            <p>In this module, we will explore best practices for setting up a &ldquo;Sustainability&rdquo; or &ldquo;Green&rdquo; Team to strategize and implement sustainability measures and engage building users.</p>
+                            <p><strong>Module 4: Developing, Evaluating, and Implementing Sustainability Measures</strong></p>
+                            <p>This is where we will learn the methods and best practices for measuring performance.</p>
+                            <p><strong>Module 5: Sustainability as a Cycle for Continuous Improvement.</strong></p>
+                            <p>The final module will discuss best practices for keeping individuals and organizations engaged in a long-term sustainability effort.</p>
+                            <p>The learning objectives of this course will provide you with the competencies to:</p>
+                            <ul>
+                                <li>Identify and implement sustainable operations and maintenance practices in the areas of energy, water, materials management, and indoor environmental quality;</li>
+                                <li>Apply tools such as the Energy Star Portfolio Manager or RETScreen to baseline and benchmark facilities, assess existing conditions, identify areas of improvement, and establish implementation plans to improve the sustainability of a building;</li>
+                                <li>Recognize decision points and opportunities to implements sustainable strategies to achieve integrated and holistic improvements that are cost effective; and</li>
+                                <li>Engage an organizational team in a sustainable operations plans to ensure continuous improvement to building performance.</li>
+                            </ul>
+                        </div>
+                    </details>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="clearfix"></div>
+    <div class="transcript-clearfix"></div>
+</div>
+<script>
+$(".video_player figcaption details").on("toggle", function() {
+    if ($(this).prop("open")) {
+        $(".transcript-clearfix").css({ marginTop: $(".video_player figcaption").outerHeight() });
+    } else {
+        $(".transcript-clearfix").css({ marginTop: 0 });
+    }
+});
+
+$(window).resize(function() {
+    if ($(".video_player figcaption details").prop("open")) {
+        $(".transcript-clearfix").css({ marginTop: $(".video_player figcaption").outerHeight() });
+    }
+});
+</script>

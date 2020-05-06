@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+	<body>
+		<div xml:lang="en">
+         <p begin="0" end="2">So, why change?</p>
+<p begin="3.96" end="8.087">It could be cost savings. This example shows that a plant with 100 steam traps</p>
+<p begin="8.287" end="14.956">and a 20% failure rate can easily lead to costs of over $150,000 per year.</p>
+<p begin="16.772" end="22.285">It could be something else. It could be maintaining continuity of R&amp;D efforts or plant safety.</p>
+<p begin="22.485" end="26.485">You can't have 50 percent reactive maintenance and have a safe and reliable system.</p>
+<p begin="27.34" end="32.45">Reactive maintenance requires extra inventory, it costs downtime, it costs energy, overtime,</p>
+<p begin="32.65" end="37.65">and unplanned equipment failure. The bottom line is, reactive maintenance is not the way to go.</p>
+<p begin="38.79" end="43.906">So, in conclusion, to have successful operations and maintenance, you'll want to follow these principles:</p>
+<p begin="44.106" end="49.436">start your program and development early. Recognize program entities, OMETA,</p>
+<p begin="49.636" end="53.978">that operations is not just operations, and maintenance is not just maintenance.</p>
+<p begin="54.178" end="60.178">Operations, maintenance, engineering, training, and administration have to be all equal parts of your O&amp;M program.</p>
+<p begin="60.791" end="65.383">Evaluate your needs. For some equipment, reactive maintenance is fine.</p>
+<p begin="65.583" end="69.491">For some equipment, you'll have to go to predictive to maintain its optimum reliability.</p>
+<p begin="69.691" end="76.691">And document your program results; documentation is key to maintaining your system and maintaining your O&amp;M program.</p>
+<p begin="76.965" end="83.98">Here are a few resources to get you started. We have provided the US department of energy's O&amp;M Best Practices Guide,</p>
+<p begin="84.18" end="88.18">as well as NRCan's guides to commissioning, recommissioning and ongoing commissioning.</p>
+    </div>
+  </body>
+</tt>
