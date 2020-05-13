@@ -20,374 +20,374 @@
     </layout>
   </head>
   <body style="s0">
-    <div>
-      <p begin="0.0s" xml:id="p0" end="2.44s">In this module, we will<br />discuss best practices</p>
-      <p begin="2.44s" xml:id="p1" end="5.63s">for translating your baseline<br />and benchmarking datasets</p>
-      <p begin="5.63s" xml:id="p2" end="8.74s">into clear, metric-based<br />sustainability goals.</p>
-      <p begin="8.74s" xml:id="p3" end="10.76s">From there, your team<br />will be well informed</p>
-      <p begin="10.76s" xml:id="p4" end="13.18s">to select and implement<br />sustainability measures</p>
-      <p begin="13.18s" xml:id="p5" end="15.27s">that meet your facility's specific needs</p>
-      <p begin="15.27s" xml:id="p6" end="18.1s">and provide opportunities<br />for continuous improvement.</p>
-      <p begin="19.66s" xml:id="p7" end="21.84s">The slides that follow<br />will explain methods</p>
-      <p begin="21.84s" xml:id="p8" end="24.76s">for analyzing data and<br />setting sustainability goals,</p>
-      <p begin="24.76s" xml:id="p9" end="26.95s">evaluating different<br />sustainability measures,</p>
-      <p begin="26.95s" xml:id="p10" end="29.8s">and developing a<br />sustainability action plan.</p>
-      <p begin="29.8s" xml:id="p11" end="31.36s">The data produced by benchmarking</p>
-      <p begin="31.36s" xml:id="p12" end="33.21s">will provide your team with information</p>
-      <p begin="33.21s" xml:id="p13" end="35.61s">to formulate operational performance plans</p>
-      <p begin="35.61s" xml:id="p14" end="37.638s">for each of the four<br />fundamentals individually</p>
-      <p begin="37.638s" xml:id="p15" end="39.54s">and in combination.</p>
-      <p begin="39.54s" xml:id="p16" end="42.04s">As a next step, analyze<br />the benchmarking data</p>
-      <p begin="42.04s" xml:id="p17" end="44.46s">to determine trends in<br />resource consumption</p>
-      <p begin="44.46s" xml:id="p18" end="46.84s">and to estimate the<br />potential for improvements.</p>
-      <p begin="46.84s" xml:id="p19" end="49.66s">Benchmarking data can be<br />used to rank facilities</p>
-      <p begin="49.66s" xml:id="p20" end="52.39s">by performance in<br />different compliance areas,</p>
-      <p begin="52.39s" xml:id="p21" end="54.43s">identify high-performing facilities</p>
-      <p begin="54.43s" xml:id="p22" end="56.04s">for replicable practices,</p>
-      <p begin="56.04s" xml:id="p23" end="58.12s">prioritize poor-performing facilities</p>
-      <p begin="58.12s" xml:id="p24" end="59.37s">for immediate improvement,</p>
-      <p begin="59.37s" xml:id="p25" end="62.76s">and identify opportunities<br />to save resources and costs.</p>
-      <p begin="62.76s" xml:id="p26" end="65.1s">Within Portfolio Manager it is possible</p>
-      <p begin="65.1s" xml:id="p27" end="67.95s">to generate progress reports<br />on individual facilities</p>
-      <p begin="67.95s" xml:id="p28" end="69.76s">and entire portfolios.</p>
-      <p begin="70.06s" xml:id="p29" end="72.68s">The value of benchmarking<br />data becomes apparent</p>
-      <p begin="72.68s" xml:id="p30" end="75.89s">once it's analyzed for resource<br />use patterns and trends.</p>
-      <p begin="75.89s" xml:id="p31" end="77.23s">Your team will need to determine</p>
-      <p begin="77.23s" xml:id="p32" end="79.29s">which combination of analysis methods</p>
-      <p begin="79.29s" xml:id="p33" end="81.47s">best fit your facility's needs.</p>
-      <p begin="81.47s" xml:id="p34" end="83.12s">Analyzing quantitative data</p>
-      <p begin="83.12s" xml:id="p35" end="85.64s">will allow you to compare<br />consumption and cost data</p>
-      <p begin="85.64s" xml:id="p36" end="89.0s">across utilities over time<br />and will reveal trends.</p>
-      <p begin="89.0s" xml:id="p37" end="90.38s">This knowledge is critical</p>
-      <p begin="90.38s" xml:id="p38" end="93.53s">to incorporate into strategic<br />planning and action.</p>
-      <p begin="93.53s" xml:id="p39" end="96.0s">Use profiles to identify<br />energy consumption</p>
-      <p begin="96.0s" xml:id="p40" end="98.51s">peaks and valleys, and to<br />determine how they relate</p>
-      <p begin="98.51s" xml:id="p41" end="100.63s">to operations or key events.</p>
-      <p begin="100.63s" xml:id="p42" end="102.22s">Performance comparisons:</p>
-      <p begin="102.22s" xml:id="p43" end="105.35s">Compare the use and performance<br />data of similar facilities</p>
-      <p begin="105.35s" xml:id="p44" end="108.17s">within your campus or<br />across your department.</p>
-      <p begin="108.17s" xml:id="p45" end="109.78s">Financial impact assessments:</p>
-      <p begin="109.78s" xml:id="p46" end="113.217s">Identify areas of high-cost resource use.</p>
-      <p begin="113.217s" xml:id="p47" end="116.23s">Analyzing qualitative<br />data will review feedback</p>
-      <p begin="116.23s" xml:id="p48" end="117.42s">from building occupants</p>
-      <p begin="117.42s" xml:id="p49" end="119.7s">and incorporate preferences and behaviors</p>
-      <p begin="119.7s" xml:id="p50" end="123.2s">into sustainable organizational<br />values and procedures.</p>
-      <p begin="123.2s" xml:id="p51" end="124.68s">This will influence outcomes</p>
-      <p begin="124.68s" xml:id="p52" end="126.93s">and reveal sustainability choices.</p>
-      <p begin="126.93s" xml:id="p53" end="128.87s">It will also enable continual improvement</p>
-      <p begin="128.87s" xml:id="p54" end="131.19s">and ensure adaptive management.</p>
-      <p begin="131.19s" xml:id="p55" end="133.7s">Interviews can be used<br />to document opinions,</p>
-      <p begin="133.7s" xml:id="p56" end="136.66s">experiences, and best<br />practices from building staff,</p>
-      <p begin="136.66s" xml:id="p57" end="140.23s">occupants, and others about<br />how building systems are used.</p>
-      <p begin="140.23s" xml:id="p58" end="141.96s">Policies and procedure reviews</p>
-      <p begin="141.96s" xml:id="p59" end="145.23s">examine how organizational<br />policies and operating procedures</p>
-      <p begin="145.23s" xml:id="p60" end="149.3s">positively or negatively<br />impact resource use.</p>
-      <p begin="150.42s" xml:id="p61" end="152.82s">How do you set sustainability goals?</p>
-      <p begin="152.83s" xml:id="p62" end="155.793s">The best way is to start with<br />accurate benchmarking data.</p>
-      <p begin="155.793s" xml:id="p63" end="158.49s">With accurate data,<br />the sustainability team</p>
-      <p begin="158.49s" xml:id="p64" end="160.28s">can set actionable performance goals</p>
-      <p begin="160.28s" xml:id="p65" end="162.96s">that take into account<br />benchmarking results,</p>
-      <p begin="162.96s" xml:id="p66" end="165.16s">federal requirements and mandates,</p>
-      <p begin="165.16s" xml:id="p67" end="168.18s">departmental strategic<br />sustainability goals,</p>
-      <p begin="168.18s" xml:id="p68" end="170.32s">facility priorities based on the results</p>
-      <p begin="170.32s" xml:id="p69" end="172.39s">from technical assessments and audits,</p>
-      <p begin="172.39s" xml:id="p70" end="175.2s">and performance goals<br />of similar facilities.</p>
-      <p begin="175.2s" xml:id="p71" end="176.33s">It is helpful to create</p>
-      <p begin="176.33s" xml:id="p72" end="178.75s">a table of sustainability<br />performance goals</p>
-      <p begin="178.75s" xml:id="p73" end="182.62s">in order to have one list<br />incorporating all potential goals.</p>
-      <p begin="182.62s" xml:id="p74" end="185.23s">This table will make it<br />easier to share progress</p>
-      <p begin="185.23s" xml:id="p75" end="188.0s">and status updates with<br />external stakeholders.</p>
-      <p begin="191.1s" xml:id="p76" end="193.32s">To set meaningful goals with buy-in,</p>
-      <p begin="193.32s" xml:id="p77" end="196.09s">now is a good time to<br />actively engage the team.</p>
-      <p begin="196.09s" xml:id="p78" end="197.59s">Schedule a series of meetings</p>
-      <p begin="197.59s" xml:id="p79" end="200.84s">to review data analysis results,<br />discuss performance gaps,</p>
-      <p begin="200.84s" xml:id="p80" end="203.43s">and brainstorm improvement strategies.</p>
-      <p begin="203.43s" xml:id="p81" end="205.58s">First, establish a vision statement</p>
-      <p begin="205.58s" xml:id="p82" end="209.16s">to articulate exactly how<br />sustainability helps the facility</p>
-      <p begin="209.16s" xml:id="p83" end="211.13s">and department meet its mission.</p>
-      <p begin="211.13s" xml:id="p84" end="213.99s">Next, develop a set of<br />sustainability priorities</p>
-      <p begin="213.99s" xml:id="p85" end="217.33s">to identify specific focus<br />areas or high-priority items</p>
-      <p begin="217.33s" xml:id="p86" end="219.14s">that are unique to your site.</p>
-      <p begin="219.14s" xml:id="p87" end="221.04s">Finally, link performance goals</p>
-      <p begin="221.04s" xml:id="p88" end="222.69s">to priorities with clear metrics</p>
-      <p begin="222.69s" xml:id="p89" end="224.91s">that correspond to each priority.</p>
-      <p begin="224.91s" xml:id="p90" end="226.64s">When you establish a clear vision,</p>
-      <p begin="226.64s" xml:id="p91" end="229.54s">your objectives should naturally<br />flow out of this vision,</p>
-      <p begin="229.54s" xml:id="p92" end="232.02s">then your criteria emerge<br />from those objectives.</p>
-      <p begin="232.02s" xml:id="p93" end="234.72s">Next, you can benchmark<br />against that criteria.</p>
-      <p begin="234.72s" xml:id="p94" end="238.013s">And finally, you can establish<br />methods to track results.</p>
-      <p begin="239.42s" xml:id="p95" end="241.91s">Work with your team to<br />develop effective strategies</p>
-      <p begin="241.91s" xml:id="p96" end="244.13s">and track progress using SMART goals</p>
-      <p begin="244.13s" xml:id="p97" end="248.84s">that are specific, measurable<br />and monitored, achievable,</p>
-      <p begin="248.84s" xml:id="p98" end="251.64s">realistic, and time-bound.</p>
-      <p begin="251.64s" xml:id="p99" end="253.95s">Common ways to express<br />sustainability goals</p>
-      <p begin="253.95s" xml:id="p100" end="256.79s">include defined reduction<br />where goals expressed</p>
-      <p begin="256.79s" xml:id="p101" end="260.15s">in terms of a specific<br />quantity or percentage decrease</p>
-      <p begin="260.15s" xml:id="p102" end="263.96s">such as a 10% water reduction<br />or an annual energy reduction</p>
-      <p begin="263.96s" xml:id="p103" end="265.62s">of 300 kilowatt hours;</p>
-      <p begin="265.62s" xml:id="p104" end="267.76s">best-in-class, where goals are expressed</p>
-      <p begin="267.76s" xml:id="p105" end="269.29s">as a certain level of performance</p>
-      <p begin="269.29s" xml:id="p106" end="271.21s">compared to an established benchmark;</p>
-      <p begin="271.21s" xml:id="p107" end="273.48s">efficiency improvement<br />where goals are expressed</p>
-      <p begin="273.48s" xml:id="p108" end="276.08s">as a function of reducing<br />the resource use intensity</p>
-      <p begin="276.08s" xml:id="p109" end="278.34s">of a specific performance indicator;</p>
-      <p begin="278.34s" xml:id="p110" end="280.96s">environmental improvement<br />where goals are translated</p>
-      <p begin="280.96s" xml:id="p111" end="283.56s">as savings presented in<br />pollution prevention targets</p>
-      <p begin="283.56s" xml:id="p112" end="285.94s">or materials avoidance units.</p>
-      <p begin="285.94s" xml:id="p113" end="288.63s">Additionally, your<br />facility may find it useful</p>
-      <p begin="288.63s" xml:id="p114" end="291.63s">to establish threshold goals<br />where goals are expressed</p>
-      <p begin="291.63s" xml:id="p115" end="294.1s">as a minimum acceptable<br />level of performance</p>
-      <p begin="294.1s" xml:id="p116" end="296.15s">and stretch goals where<br />goals are expressed</p>
-      <p begin="296.15s" xml:id="p117" end="298.06s">as levels beyond typical targets</p>
-      <p begin="298.06s" xml:id="p118" end="300.92s">to create an incentive<br />for greater achievement.</p>
-      <p begin="302.02s" xml:id="p119" end="304.36s">With performance goals firmly established,</p>
-      <p begin="304.36s" xml:id="p120" end="306.67s">your team can now<br />develop an integrated set</p>
-      <p begin="306.67s" xml:id="p121" end="308.3s">of sustainability measures.</p>
-      <p begin="308.3s" xml:id="p122" end="310.83s">Sustainability measures<br />can include projects,</p>
-      <p begin="310.83s" xml:id="p123" end="312.74s">policies, and procedures.</p>
-      <p begin="312.74s" xml:id="p124" end="315.94s">In many cases, your team will<br />want to strategically combine</p>
-      <p begin="315.94s" xml:id="p125" end="318.79s">several sustainability<br />measures to achieve a goal.</p>
-      <p begin="318.79s" xml:id="p126" end="321.23s">Take advantage up front<br />of the low-hanging fruit,</p>
-      <p begin="321.23s" xml:id="p127" end="324.35s">or no-cost, low-cost<br />measures, such as repairs</p>
-      <p begin="324.35s" xml:id="p128" end="326.74s">and scheduled preventative<br />maintenance to building systems;</p>
-      <p begin="326.74s" xml:id="p129" end="329.32s">policy revisions to<br />operations and maintenance;</p>
-      <p begin="329.32s" xml:id="p130" end="331.358s">purchasing and property<br />management policies;</p>
-      <p begin="331.36s" xml:id="p131" end="335.06s">or efficiency upgrades for<br />lighting and water fixtures.</p>
-      <p begin="335.06s" xml:id="p132" end="337.14s">Occupant behavior changes are another way</p>
-      <p begin="337.15s" xml:id="p133" end="339.61s">to improve the sustainability<br />of your facility.</p>
-      <p begin="339.61s" xml:id="p134" end="341.47s">Building occupants'<br />behavior has been shown</p>
-      <p begin="341.47s" xml:id="p135" end="345.4s">to directly impact up to 30%<br />of facility resource use.</p>
-      <p begin="345.4s" xml:id="p136" end="348.44s">Include sustainability measures<br />that strategically target</p>
-      <p begin="348.44s" xml:id="p137" end="350.96s">the behavior of building<br />users and operators.</p>
-      <p begin="350.96s" xml:id="p138" end="353.86s">Training for building operators<br />including property managers,</p>
-      <p begin="353.86s" xml:id="p139" end="357.18s">O&amp;M staff, and cleaning<br />crew can have big payoffs.</p>
-      <p begin="357.18s" xml:id="p140" end="359.68s">Educating occupants about<br />resource consumption</p>
-      <p begin="359.68s" xml:id="p141" end="361.2s">can yield big savings.</p>
-      <p begin="361.21s" xml:id="p142" end="364.72s">Examples of beneficial behavior<br />include turning off lights</p>
-      <p begin="364.72s" xml:id="p143" end="366.94s">and shared technology when not in use,</p>
-      <p begin="366.94s" xml:id="p144" end="370.01s">using double-sided printing<br />options throughout the building,</p>
-      <p begin="370.01s" xml:id="p145" end="373.31s">reducing plug loads by unplugging<br />equipment at the strip,</p>
-      <p begin="373.31s" xml:id="p146" end="375.96s">taking stairs for short<br />trips between floors,</p>
-      <p begin="375.96s" xml:id="p147" end="378.2s">using water from the tap or water cooler</p>
-      <p begin="378.2s" xml:id="p148" end="379.56s">instead of bottled water,</p>
-      <p begin="379.56s" xml:id="p149" end="381.94s">and ride sharing or using public transit.</p>
-      <p begin="381.94s" xml:id="p150" end="383.85s">After exploring low-hanging fruit</p>
-      <p begin="383.85s" xml:id="p151" end="385.59s">and occupant behavior changes,</p>
-      <p begin="385.59s" xml:id="p152" end="387.85s">consider integrating<br />sustainability measures</p>
-      <p begin="387.85s" xml:id="p153" end="389.87s">into capital improvement projects.</p>
-      <p begin="389.87s" xml:id="p154" end="392.32s">Ensure that all equipment<br />is tuned up, commissioned,</p>
-      <p begin="392.32s" xml:id="p155" end="394.58s">calibrated, and operating efficiently.</p>
-      <p begin="394.58s" xml:id="p156" end="397.72s">Assess current needs and right<br />size replacement equipment;</p>
-      <p begin="397.72s" xml:id="p157" end="400.82s">specify the most energy-efficient<br />components and models</p>
-      <p begin="400.82s" xml:id="p158" end="402.12s">when replacing equipment;</p>
-      <p begin="402.12s" xml:id="p159" end="404.46s">and integrate sustainability<br />design features</p>
-      <p begin="404.46s" xml:id="p160" end="405.41s">into the project</p>
-      <p begin="405.41s" xml:id="p161" end="408.64s">such as performance-oriented<br />siding and landscaping,</p>
-      <p begin="408.64s" xml:id="p162" end="412.44s">day lighting, recycled content,<br />design for disassembly,</p>
-      <p begin="412.44s" xml:id="p163" end="414.3s">and passive heating and cooling.</p>
-      <p begin="414.3s" xml:id="p164" end="416.61s">Measures that are life<br />cycle cost-effective</p>
-      <p begin="416.61s" xml:id="p165" end="419.36s">have estimated savings that<br />exceed the estimated cost</p>
-      <p begin="419.36s" xml:id="p166" end="420.75s">over their lifespan.</p>
-      <p begin="420.75s" xml:id="p167" end="422.99s">In economic terms, a building design</p>
-      <p begin="422.99s" xml:id="p168" end="425.36s">is deemed to be cost<br />effective if it results</p>
-      <p begin="425.36s" xml:id="p169" end="427.97s">in benefits equal to<br />those of alternate designs</p>
-      <p begin="427.97s" xml:id="p170" end="431.81s">and has a lower whole-life cost<br />or total cost of ownership.</p>
-      <p begin="431.81s" xml:id="p171" end="433.3s">For your team's first project,</p>
-      <p begin="433.3s" xml:id="p172" end="435.67s">it is important to identify simple actions</p>
-      <p begin="435.67s" xml:id="p173" end="438.58s">that could be made to show<br />quick progress or payback.</p>
-      <p begin="439.72s" xml:id="p174" end="441.98s">Let's explore some<br />energy-efficiency measures</p>
-      <p begin="441.98s" xml:id="p175" end="443.67s">that can lead to a more sustainable</p>
-      <p begin="443.67s" xml:id="p176" end="445.68s">and enjoyable office environment.</p>
-      <p begin="445.68s" xml:id="p177" end="448.18s">One example is to align<br />daylight harvesting</p>
-      <p begin="448.18s" xml:id="p178" end="450.13s">with space function to reduce the need</p>
-      <p begin="450.13s" xml:id="p179" end="452.73s">for electric lighting, and<br />heating and cooling loads.</p>
-      <p begin="452.73s" xml:id="p180" end="454.91s">There are several ways to<br />implement this measure.</p>
-      <p begin="454.91s" xml:id="p181" end="457.05s">For example, by installing light shelves</p>
-      <p begin="457.05s" xml:id="p182" end="459.39s">to increase reflectivity<br />at window openings</p>
-      <p begin="459.39s" xml:id="p183" end="461.21s">to increase daylight penetration.</p>
-      <p begin="461.21s" xml:id="p184" end="462.79s">Running light tubes through ceilings</p>
-      <p begin="462.79s" xml:id="p185" end="465.07s">to supply more natural<br />light from the roof.</p>
-      <p begin="465.07s" xml:id="p186" end="467.31s">Installing window<br />shadings and glare filters</p>
-      <p begin="467.31s" xml:id="p187" end="469.3s">to reduce glare on workstations.</p>
-      <p begin="469.3s" xml:id="p188" end="472.36s">Lowering workstation walls to<br />one meter to provide privacy</p>
-      <p begin="472.36s" xml:id="p189" end="474.98s">while transmitting light<br />across office space.</p>
-      <p begin="474.98s" xml:id="p190" end="477.34s">Maximizing access to outdoor views</p>
-      <p begin="477.34s" xml:id="p191" end="479.28s">and light to increase<br />the occupant comfort,</p>
-      <p begin="479.28s" xml:id="p192" end="481.3s">satisfaction, and productivity</p>
-      <p begin="481.3s" xml:id="p193" end="483.37s">and providing controls for window shades</p>
-      <p begin="483.37s" xml:id="p194" end="485.41s">to empower occupants to manage the glare</p>
-      <p begin="485.41s" xml:id="p195" end="487.46s">and heat emitted into the workspace.</p>
-      <p begin="489.22s" xml:id="p196" end="491.16s">HVAC systems typically comprise</p>
-      <p begin="491.16s" xml:id="p197" end="493.1s">the largest energy-using component</p>
-      <p begin="493.1s" xml:id="p198" end="494.56s">of any building or facility,</p>
-      <p begin="494.56s" xml:id="p199" end="497.26s">and have the greatest<br />energy savings opportunity.</p>
-      <p begin="497.26s" xml:id="p200" end="500.038s">In new buildings, design<br />buildings to site HVAC systems</p>
-      <p begin="500.038s" xml:id="p201" end="501.69s">towards the center of the building</p>
-      <p begin="501.69s" xml:id="p202" end="503.88s">to keep conditioned air near workspaces</p>
-      <p begin="503.88s" xml:id="p203" end="506.19s">and avoid loss through exterior walls.</p>
-      <p begin="506.19s" xml:id="p204" end="508.97s">In existing buildings, look<br />for component replacements</p>
-      <p begin="508.97s" xml:id="p205" end="511.8s">to optimize performance<br />of the overall system.</p>
-      <p begin="511.8s" xml:id="p206" end="514.96s">Actions that can be taken to<br />capitalize on this opportunity</p>
-      <p begin="514.96s" xml:id="p207" end="518.66s">include upgrading insulation,<br />building envelope sealants,</p>
-      <p begin="518.66s" xml:id="p208" end="520.99s">and windows to downsize the HVAC system</p>
-      <p begin="520.99s" xml:id="p209" end="522.74s">and lower energy consumption.</p>
-      <p begin="522.74s" xml:id="p210" end="525.378s">Increasing ventilation rates<br />to replace contaminated air</p>
-      <p begin="525.378s" xml:id="p211" end="527.42s">with filtered air from the outdoors</p>
-      <p begin="527.42s" xml:id="p212" end="529.78s">to improve work performance<br />and occupant health.</p>
-      <p begin="529.78s" xml:id="p213" end="532.36s">Taking advantage of<br />opportunities to re-commission</p>
-      <p begin="532.36s" xml:id="p214" end="534.92s">or retro-commission HVAC systems to ensure</p>
-      <p begin="534.92s" xml:id="p215" end="538.55s">they are operating using<br />ASHRAE-90.1 recommended settings,</p>
-      <p begin="538.55s" xml:id="p216" end="540.7s">and where possible display HVAC</p>
-      <p begin="540.7s" xml:id="p217" end="542.87s">and other resource-using<br />system information</p>
-      <p begin="542.87s" xml:id="p218" end="545.9s">in common areas to educate<br />building occupants.</p>
-      <p begin="547.02s" xml:id="p219" end="549.14s">Water efficiency measures are another way</p>
-      <p begin="549.15s" xml:id="p220" end="551.57s">of improving the<br />sustainability of a facility.</p>
-      <p begin="551.57s" xml:id="p221" end="554.28s">Rainwater harvesting<br />systems capture and reuse</p>
-      <p begin="554.28s" xml:id="p222" end="556.16s">non-potable, onsite water,</p>
-      <p begin="556.16s" xml:id="p223" end="558.28s">that can be used for landscape irrigation</p>
-      <p begin="558.28s" xml:id="p224" end="561.38s">and reduce potable water and<br />non-potable water consumption.</p>
-      <p begin="561.38s" xml:id="p225" end="563.54s">This measure presents<br />the following benefits</p>
-      <p begin="563.55s" xml:id="p226" end="565.56s">related to improved sustainability.</p>
-      <p begin="565.56s" xml:id="p227" end="567.93s">Green roofs substantially reduce heat loss</p>
-      <p begin="567.93s" xml:id="p228" end="569.3s">through the roof membrane.</p>
-      <p begin="569.3s" xml:id="p229" end="571.69s">Stormwater collection<br />and retention systems</p>
-      <p begin="571.69s" xml:id="p230" end="574.46s">reduce the energy required<br />to pump and process water</p>
-      <p begin="574.46s" xml:id="p231" end="575.81s">at the municipal level.</p>
-      <p begin="575.81s" xml:id="p232" end="578.386s">Wetland plant species<br />can enhance water quality</p>
-      <p begin="578.386s" xml:id="p233" end="581.07s">through bio-digestion of pollutants.</p>
-      <p begin="581.07s" xml:id="p234" end="582.24s">For health reasons,</p>
-      <p begin="582.24s" xml:id="p235" end="584.71s">gray water and storm<br />water harvesting systems</p>
-      <p begin="584.71s" xml:id="p236" end="587.22s">must comply with local building codes.</p>
-      <p begin="589.3s" xml:id="p237" end="591.14s">Restrooms present opportunities</p>
-      <p begin="591.14s" xml:id="p238" end="593.42s">to improve the water<br />efficiency of a facility.</p>
-      <p begin="593.42s" xml:id="p239" end="594.86s">Here are some measures to consider</p>
-      <p begin="594.86s" xml:id="p240" end="597.86s">when looking to improve the<br />water efficiency of restrooms.</p>
-      <p begin="597.86s" xml:id="p241" end="600.68s">Implement a fixture<br />replacement and retrofit policy</p>
-      <p begin="600.69s" xml:id="p242" end="603.9s">with technologically advanced<br />water-efficient alternatives</p>
-      <p begin="603.9s" xml:id="p243" end="605.32s">to conventional fixtures.</p>
-      <p begin="605.32s" xml:id="p244" end="607.33s">Use waterless urinals where appropriate</p>
-      <p begin="607.33s" xml:id="p245" end="610.5s">and convert faucets to automated<br />and sensor-driven fixtures</p>
-      <p begin="610.5s" xml:id="p246" end="611.82s">for greater efficiency.</p>
-      <p begin="611.82s" xml:id="p247" end="613.75s">Use condensate from the HVAC unit</p>
-      <p begin="613.75s" xml:id="p248" end="615.39s">as a non-potable water source</p>
-      <p begin="615.39s" xml:id="p249" end="617.21s">for flushing toilets and urinals.</p>
-      <p begin="617.21s" xml:id="p250" end="619.85s">Set up a leak detection<br />program to provide occupants</p>
-      <p begin="619.85s" xml:id="p251" end="621.8s">an easy way to report leaks.</p>
-      <p begin="621.8s" xml:id="p252" end="624.18s">The benefits of implementing<br />sustainability measures</p>
-      <p begin="624.18s" xml:id="p253" end="627.21s">in restrooms includes<br />automated electric hand dryers</p>
-      <p begin="627.21s" xml:id="p254" end="629.27s">to eliminate the need for paper products,</p>
-      <p begin="629.27s" xml:id="p255" end="631.49s">waste heat from HVAC systems can be used</p>
-      <p begin="631.49s" xml:id="p256" end="635.11s">to preheat domestic hot water;<br />automated sensor faucets</p>
-      <p begin="635.11s" xml:id="p257" end="637.88s">limit the passing of germs<br />from occupant to occupant.</p>
-      <p begin="639.62s" xml:id="p258" end="641.7s">Selecting the right renovation materials</p>
-      <p begin="641.71s" xml:id="p259" end="644.35s">can help contribute to a<br />more sustainable operation.</p>
-      <p begin="644.35s" xml:id="p260" end="646.93s">Procure durable,<br />environmentally-preferable,</p>
-      <p begin="646.93s" xml:id="p261" end="648.34s">and long-lasting materials</p>
-      <p begin="648.34s" xml:id="p262" end="650.6s">specified from local suppliers and vendors</p>
-      <p begin="650.6s" xml:id="p263" end="652.68s">when undergoing a major renovation.</p>
-      <p begin="652.68s" xml:id="p264" end="654.73s">Actions related to this efficiency measure</p>
-      <p begin="654.73s" xml:id="p265" end="657.37s">include selecting<br />locally sourced materials</p>
-      <p begin="657.37s" xml:id="p266" end="658.88s">that require less transportation</p>
-      <p begin="658.88s" xml:id="p267" end="663.18s">and support local economies,<br />specify low-emitting materials</p>
-      <p begin="663.18s" xml:id="p268" end="665.58s">to create healthy indoor air quality.</p>
-      <p begin="667.36s" xml:id="p269" end="669.75s">Composting organic<br />waste is another measure</p>
-      <p begin="669.75s" xml:id="p270" end="672.88s">for improving the operational<br />sustainability of a facility.</p>
-      <p begin="672.88s" xml:id="p271" end="674.827s">Composting appropriately eliminates waste</p>
-      <p begin="674.827s" xml:id="p272" end="676.807s">and reuses natural materials</p>
-      <p begin="676.807s" xml:id="p273" end="680.24s">as nutrients for useful<br />landscaping purposes.</p>
-      <p begin="680.24s" xml:id="p274" end="682.24s">The benefits associated with composting</p>
-      <p begin="682.24s" xml:id="p275" end="685.49s">are improved water retention,<br />which leads to a reduced need</p>
-      <p begin="685.49s" xml:id="p276" end="687.74s">for irrigation on gardens and grounds,</p>
-      <p begin="687.74s" xml:id="p277" end="689.28s">and energy and water savings</p>
-      <p begin="689.28s" xml:id="p278" end="691.56s">resulting from reducing portable water use</p>
-      <p begin="691.56s" xml:id="p279" end="693.14s">for garbage disposal.</p>
-      <p begin="695.22s" xml:id="p280" end="697.76s">The use of environmentally-friendly<br />cleaning products</p>
-      <p begin="697.76s" xml:id="p281" end="698.78s">within a facility</p>
-      <p begin="698.78s" xml:id="p282" end="701.26s">contributes to a healthier<br />indoor environment.</p>
-      <p begin="701.26s" xml:id="p283" end="704.14s">Facilities should establish<br />a green cleaning policy</p>
-      <p begin="704.15s" xml:id="p284" end="708.07s">for the purchase and use<br />of nontoxic, low or no-VOC</p>
-      <p begin="708.07s" xml:id="p285" end="710.46s">and biobased cleaning<br />equipment and materials.</p>
-      <p begin="710.46s" xml:id="p286" end="713.38s">Biobased products are commercial<br />or industrial products</p>
-      <p begin="713.38s" xml:id="p287" end="716.2s">that are significantly composed<br />of biological products,</p>
-      <p begin="716.2s" xml:id="p288" end="719.57s">renewable agricultural materials<br />including plant, animal,</p>
-      <p begin="719.57s" xml:id="p289" end="722.23s">and marine materials,<br />or forestry materials.</p>
-      <p begin="722.23s" xml:id="p290" end="724.16s">Green cleaning products used in restrooms</p>
-      <p begin="724.16s" xml:id="p291" end="725.82s">and food preparation areas</p>
-      <p begin="725.82s" xml:id="p292" end="728.06s">keep toxins from entering<br />the facility's water</p>
-      <p begin="728.06s" xml:id="p293" end="729.5s">and sewer discharge.</p>
-      <p begin="729.5s" xml:id="p294" end="731.92s">Non-toxic and biobased cleaning products</p>
-      <p begin="731.92s" xml:id="p295" end="734.42s">provide a save and<br />healthy work environment.</p>
-      <p begin="735.58s" xml:id="p296" end="738.44s">An example of an indoor<br />environmental quality measure</p>
-      <p begin="738.44s" xml:id="p297" end="740.4s">is the use of indoor plants.</p>
-      <p begin="740.4s" xml:id="p298" end="742.231s">Indoor plants can improve air quality,</p>
-      <p begin="742.231s" xml:id="p299" end="744.26s">create more comfortable spaces,</p>
-      <p begin="744.26s" xml:id="p300" end="746.37s">and improve workplace satisfaction.</p>
-      <p begin="746.37s" xml:id="p301" end="750.19s">Plants can filter air, sequester<br />carbon, produce oxygen,</p>
-      <p begin="750.19s" xml:id="p302" end="752.97s">and absorb chemicals such<br />as benzine, formaldehyde,</p>
-      <p begin="752.97s" xml:id="p303" end="754.61s">or trichloroethylene.</p>
-      <p begin="754.61s" xml:id="p304" end="757.23s">Consider green walls<br />to great inspirational</p>
-      <p begin="757.23s" xml:id="p305" end="760.53s">or contemplative interior<br />spaces, humidify the air,</p>
-      <p begin="760.53s" xml:id="p306" end="762.7s">and improve indoor air quality.</p>
-      <p begin="764.42s" xml:id="p307" end="766.82s">Interior acoustics can play a big role</p>
-      <p begin="766.82s" xml:id="p308" end="768.88s">in improving the indoor<br />environmental quality</p>
-      <p begin="768.88s" xml:id="p309" end="769.98s">of an office.</p>
-      <p begin="769.98s" xml:id="p310" end="772.6s">Good interior acoustics<br />are particularly important</p>
-      <p begin="772.6s" xml:id="p311" end="774.84s">to employees working in open spaces.</p>
-      <p begin="774.84s" xml:id="p312" end="776.33s">Acoustic interior panels</p>
-      <p begin="776.33s" xml:id="p313" end="778.61s">made of environmentally-preferable<br />materials</p>
-      <p begin="778.61s" xml:id="p314" end="780.87s">are a great option for<br />reducing noise levels</p>
-      <p begin="780.87s" xml:id="p315" end="783.65s">without affecting the indoor<br />environmental quality.</p>
-      <p begin="783.65s" xml:id="p316" end="786.63s">Acoustic interior panels<br />made of translucent material</p>
-      <p begin="786.63s" xml:id="p317" end="789.41s">block sound while allowing<br />daylight or general light</p>
-      <p begin="789.41s" xml:id="p318" end="790.78s">to penetrate into a space,</p>
-      <p begin="790.78s" xml:id="p319" end="792.92s">which can lessen the need<br />for electric lighting.</p>
-      <p begin="792.92s" xml:id="p320" end="794.96s">Actions for improving interior acoustics</p>
-      <p begin="794.96s" xml:id="p321" end="796.47s">include using materials</p>
-      <p begin="796.47s" xml:id="p322" end="799.684s">such as acoustic ceiling tiles<br />and carpeting to absorb sound,</p>
-      <p begin="799.684s" xml:id="p323" end="803.21s">and using sound blocking<br />strategies such as space design</p>
-      <p begin="803.21s" xml:id="p324" end="806.96s">and furniture placement to<br />control noise-generating sources.</p>
-      <p begin="808.98s" xml:id="p325" end="811.42s">The sustainability action plan is critical</p>
-      <p begin="811.43s" xml:id="p326" end="814.09s">to cement your facility's<br />commitment to sustainability</p>
-      <p begin="814.09s" xml:id="p327" end="816.14s">and to maintain important momentum.</p>
-      <p begin="816.14s" xml:id="p328" end="817.3s">The best practices</p>
-      <p begin="817.3s" xml:id="p329" end="819.36s">for developing a<br />sustainability action plan</p>
-      <p begin="819.36s" xml:id="p330" end="821.08s">include asking senior management</p>
-      <p begin="821.08s" xml:id="p331" end="822.9s">to host an official launch event,</p>
-      <p begin="822.9s" xml:id="p332" end="825.18s">establishing clear roles for team members,</p>
-      <p begin="825.18s" xml:id="p333" end="826.52s">ensuring project expectations</p>
-      <p begin="826.524s" xml:id="p334" end="829.74s">mesh with team members'<br />availability and duties,</p>
-      <p begin="829.74s" xml:id="p335" end="831.96s">keeping team members<br />consistently up to date</p>
-      <p begin="831.96s" xml:id="p336" end="834.569s">and seeking their input,<br />scheduling regular check-ins,</p>
-      <p begin="834.569s" xml:id="p337" end="836.489s">and setting achievable timelines</p>
-      <p begin="836.489s" xml:id="p338" end="838.96s">for deliverables and checkpoints.</p>
-      <p begin="839.46s" xml:id="p339" end="842.56s">Summarizing, benchmark<br />and goal setting results</p>
-      <p begin="842.56s" xml:id="p340" end="845.21s">in an action plan documents<br />your team's progress</p>
-      <p begin="845.21s" xml:id="p341" end="847.63s">and presents it effectively<br />to management, staff,</p>
-      <p begin="847.63s" xml:id="p342" end="848.97s">or other audiences.</p>
-      <p begin="848.97s" xml:id="p343" end="851.3s">Consider updating your<br />action plan annually.</p>
-      <p begin="851.3s" xml:id="p344" end="853.68s">Ensure your action plan<br />covers the critical elements</p>
-      <p begin="853.68s" xml:id="p345" end="857.82s">like sustainability program<br />intent, sustainability vision,</p>
-      <p begin="857.82s" xml:id="p346" end="859.66s">priorities and performance goals,</p>
-      <p begin="859.66s" xml:id="p347" end="863.22s">and current benchmarking results<br />relative to the baseline.</p>
-      <p begin="863.22s" xml:id="p348" end="865.14s">Include technical steps and targets</p>
-      <p begin="865.14s" xml:id="p349" end="866.8s">related to each performance goal</p>
-      <p begin="866.8s" xml:id="p350" end="869.6s">such as sustainability<br />measures that specify actions</p>
-      <p begin="869.6s" xml:id="p351" end="871.46s">and policies for meeting each goal,</p>
-      <p begin="871.46s" xml:id="p352" end="874.14s">key performance metrics<br />that identify units used</p>
-      <p begin="874.14s" xml:id="p353" end="876.708s">for tracking progress, an<br />implementation timeline</p>
-      <p begin="876.708s" xml:id="p354" end="880.17s">that details a timeframe for<br />carrying out each measure,</p>
-      <p begin="880.17s" xml:id="p355" end="883.0s">team roles and resources<br />relating to each measure,</p>
-      <p begin="883.0s" xml:id="p356" end="884.92s">and outreach and communication plans</p>
-      <p begin="884.92s" xml:id="p357" end="887.8s">to influence occupant<br />behavior and garner support.</p>
-      <p begin="887.8s" xml:id="p358" end="890.56s">Also, include a measurement<br />and reporting schedule</p>
-      <p begin="890.56s" xml:id="p359" end="892.06s">to document progress.</p>
-      <p begin="893.12s" xml:id="p360" end="896.72s">In module four, we reviewed<br />benchmarking and analyzing data</p>
-      <p begin="896.72s" xml:id="p361" end="898.56s">to set sustainability goals,</p>
-      <p begin="898.56s" xml:id="p362" end="901.16s">selecting and evaluating<br />sustainability measures,</p>
-      <p begin="901.16s" xml:id="p363" end="904.1s">and developing a<br />sustainability action plan.</p>
-      <p begin="904.1s" xml:id="p364" end="905.34s">In the next module,</p>
-      <p begin="905.34s" xml:id="p365" end="907.72s">we will discuss the<br />importance of sustainability</p>
-      <p begin="907.72s" xml:id="p366" end="909.7s">as a cycle for continuous improvement.</p>
+    <div xml:lang="en">
+      <p begin="1.0s" xml:id="p0" end="3.44s">In this module, we will<br />discuss best practices</p>
+      <p begin="3.44s" xml:id="p1" end="6.63s">for translating your baseline<br />and benchmarking datasets</p>
+      <p begin="6.63s" xml:id="p2" end="9.74s">into clear, metric-based<br />sustainability goals.</p>
+      <p begin="9.74s" xml:id="p3" end="11.76s">From there, your team<br />will be well informed</p>
+      <p begin="11.76s" xml:id="p4" end="14.18s">to select and implement<br />sustainability measures</p>
+      <p begin="14.18s" xml:id="p5" end="16.27s">that meet your facility's specific needs</p>
+      <p begin="16.27s" xml:id="p6" end="19.1s">and provide opportunities<br />for continuous improvement.</p>
+      <p begin="20.66s" xml:id="p7" end="22.84s">The slides that follow<br />will explain methods</p>
+      <p begin="22.84s" xml:id="p8" end="25.76s">for analyzing data and<br />setting sustainability goals,</p>
+      <p begin="25.76s" xml:id="p9" end="27.95s">evaluating different<br />sustainability measures,</p>
+      <p begin="27.95s" xml:id="p10" end="30.8s">and developing a<br />sustainability action plan.</p>
+      <p begin="30.8s" xml:id="p11" end="32.36s">The data produced by benchmarking</p>
+      <p begin="32.36s" xml:id="p12" end="34.21s">will provide your team with information</p>
+      <p begin="34.21s" xml:id="p13" end="36.61s">to formulate operational performance plans</p>
+      <p begin="36.61s" xml:id="p14" end="38.638s">for each of the four<br />fundamentals individually</p>
+      <p begin="38.638s" xml:id="p15" end="40.54s">and in combination.</p>
+      <p begin="40.54s" xml:id="p16" end="43.04s">As a next step, analyze<br />the benchmarking data</p>
+      <p begin="43.04s" xml:id="p17" end="45.46s">to determine trends in<br />resource consumption</p>
+      <p begin="45.46s" xml:id="p18" end="47.84s">and to estimate the<br />potential for improvements.</p>
+      <p begin="47.84s" xml:id="p19" end="50.66s">Benchmarking data can be<br />used to rank facilities</p>
+      <p begin="50.66s" xml:id="p20" end="53.39s">by performance in<br />different compliance areas,</p>
+      <p begin="53.39s" xml:id="p21" end="55.43s">identify high-performing facilities</p>
+      <p begin="55.43s" xml:id="p22" end="57.04s">for replicable practices,</p>
+      <p begin="57.04s" xml:id="p23" end="59.12s">prioritize poor-performing facilities</p>
+      <p begin="59.12s" xml:id="p24" end="60.37s">for immediate improvement,</p>
+      <p begin="60.37s" xml:id="p25" end="63.76s">and identify opportunities<br />to save resources and costs.</p>
+      <p begin="63.76s" xml:id="p26" end="66.1s">Within Portfolio Manager it is possible</p>
+      <p begin="66.1s" xml:id="p27" end="68.95s">to generate progress reports<br />on individual facilities</p>
+      <p begin="68.95s" xml:id="p28" end="70.76s">and entire portfolios.</p>
+      <p begin="71.06s" xml:id="p29" end="73.68s">The value of benchmarking<br />data becomes apparent</p>
+      <p begin="73.68s" xml:id="p30" end="76.89s">once it's analyzed for resource<br />use patterns and trends.</p>
+      <p begin="76.89s" xml:id="p31" end="78.23s">Your team will need to determine</p>
+      <p begin="78.23s" xml:id="p32" end="80.29s">which combination of analysis methods</p>
+      <p begin="80.29s" xml:id="p33" end="82.47s">best fit your facility's needs.</p>
+      <p begin="82.47s" xml:id="p34" end="84.12s">Analyzing quantitative data</p>
+      <p begin="84.12s" xml:id="p35" end="86.64s">will allow you to compare<br />consumption and cost data</p>
+      <p begin="86.64s" xml:id="p36" end="90.0s">across utilities over time<br />and will reveal trends.</p>
+      <p begin="90.0s" xml:id="p37" end="91.38s">This knowledge is critical</p>
+      <p begin="91.38s" xml:id="p38" end="94.53s">to incorporate into strategic<br />planning and action.</p>
+      <p begin="94.53s" xml:id="p39" end="97.0s">Use profiles to identify<br />energy consumption</p>
+      <p begin="97.0s" xml:id="p40" end="99.51s">peaks and valleys, and to<br />determine how they relate</p>
+      <p begin="99.51s" xml:id="p41" end="101.63s">to operations or key events.</p>
+      <p begin="101.63s" xml:id="p42" end="103.22s">Performance comparisons:</p>
+      <p begin="103.22s" xml:id="p43" end="106.35s">Compare the use and performance<br />data of similar facilities</p>
+      <p begin="106.35s" xml:id="p44" end="109.17s">within your campus or<br />across your department.</p>
+      <p begin="109.17s" xml:id="p45" end="110.78s">Financial impact assessments:</p>
+      <p begin="110.78s" xml:id="p46" end="114.217s">Identify areas of high-cost resource use.</p>
+      <p begin="114.217s" xml:id="p47" end="117.23s">Analyzing qualitative<br />data will review feedback</p>
+      <p begin="117.23s" xml:id="p48" end="118.42s">from building occupants</p>
+      <p begin="118.42s" xml:id="p49" end="120.7s">and incorporate preferences and behaviors</p>
+      <p begin="120.7s" xml:id="p50" end="124.2s">into sustainable organizational<br />values and procedures.</p>
+      <p begin="124.2s" xml:id="p51" end="125.68s">This will influence outcomes</p>
+      <p begin="125.68s" xml:id="p52" end="127.93s">and reveal sustainability choices.</p>
+      <p begin="127.93s" xml:id="p53" end="129.87s">It will also enable continual improvement</p>
+      <p begin="129.87s" xml:id="p54" end="132.19s">and ensure adaptive management.</p>
+      <p begin="132.19s" xml:id="p55" end="134.7s">Interviews can be used<br />to document opinions,</p>
+      <p begin="134.7s" xml:id="p56" end="137.66s">experiences, and best<br />practices from building staff,</p>
+      <p begin="137.66s" xml:id="p57" end="141.23s">occupants, and others about<br />how building systems are used.</p>
+      <p begin="141.23s" xml:id="p58" end="142.96s">Policies and procedure reviews</p>
+      <p begin="142.96s" xml:id="p59" end="146.23s">examine how organizational<br />policies and operating procedures</p>
+      <p begin="146.23s" xml:id="p60" end="150.3s">positively or negatively<br />impact resource use.</p>
+      <p begin="151.42s" xml:id="p61" end="153.82s">How do you set sustainability goals?</p>
+      <p begin="153.83s" xml:id="p62" end="156.793s">The best way is to start with<br />accurate benchmarking data.</p>
+      <p begin="156.793s" xml:id="p63" end="159.49s">With accurate data,<br />the sustainability team</p>
+      <p begin="159.49s" xml:id="p64" end="161.28s">can set actionable performance goals</p>
+      <p begin="161.28s" xml:id="p65" end="163.96s">that take into account<br />benchmarking results,</p>
+      <p begin="163.96s" xml:id="p66" end="166.16s">federal requirements and mandates,</p>
+      <p begin="166.16s" xml:id="p67" end="169.18s">departmental strategic<br />sustainability goals,</p>
+      <p begin="169.18s" xml:id="p68" end="171.32s">facility priorities based on the results</p>
+      <p begin="171.32s" xml:id="p69" end="173.39s">from technical assessments and audits,</p>
+      <p begin="173.39s" xml:id="p70" end="176.2s">and performance goals<br />of similar facilities.</p>
+      <p begin="176.2s" xml:id="p71" end="177.33s">It is helpful to create</p>
+      <p begin="177.33s" xml:id="p72" end="179.75s">a table of sustainability<br />performance goals</p>
+      <p begin="179.75s" xml:id="p73" end="183.62s">in order to have one list<br />incorporating all potential goals.</p>
+      <p begin="183.62s" xml:id="p74" end="186.23s">This table will make it<br />easier to share progress</p>
+      <p begin="186.23s" xml:id="p75" end="189.0s">and status updates with<br />external stakeholders.</p>
+      <p begin="192.1s" xml:id="p76" end="194.32s">To set meaningful goals with buy-in,</p>
+      <p begin="194.32s" xml:id="p77" end="197.09s">now is a good time to<br />actively engage the team.</p>
+      <p begin="197.09s" xml:id="p78" end="198.59s">Schedule a series of meetings</p>
+      <p begin="198.59s" xml:id="p79" end="201.84s">to review data analysis results,<br />discuss performance gaps,</p>
+      <p begin="201.84s" xml:id="p80" end="204.43s">and brainstorm improvement strategies.</p>
+      <p begin="204.43s" xml:id="p81" end="206.58s">First, establish a vision statement</p>
+      <p begin="206.58s" xml:id="p82" end="210.16s">to articulate exactly how<br />sustainability helps the facility</p>
+      <p begin="210.16s" xml:id="p83" end="212.13s">and department meet its mission.</p>
+      <p begin="212.13s" xml:id="p84" end="214.99s">Next, develop a set of<br />sustainability priorities</p>
+      <p begin="214.99s" xml:id="p85" end="218.33s">to identify specific focus<br />areas or high-priority items</p>
+      <p begin="218.33s" xml:id="p86" end="220.14s">that are unique to your site.</p>
+      <p begin="220.14s" xml:id="p87" end="222.04s">Finally, link performance goals</p>
+      <p begin="222.04s" xml:id="p88" end="223.69s">to priorities with clear metrics</p>
+      <p begin="223.69s" xml:id="p89" end="225.91s">that correspond to each priority.</p>
+      <p begin="225.91s" xml:id="p90" end="227.64s">When you establish a clear vision,</p>
+      <p begin="227.64s" xml:id="p91" end="230.54s">your objectives should naturally<br />flow out of this vision,</p>
+      <p begin="230.54s" xml:id="p92" end="233.02s">then your criteria emerge<br />from those objectives.</p>
+      <p begin="233.02s" xml:id="p93" end="235.72s">Next, you can benchmark<br />against that criteria.</p>
+      <p begin="235.72s" xml:id="p94" end="239.013s">And finally, you can establish<br />methods to track results.</p>
+      <p begin="240.42s" xml:id="p95" end="242.91s">Work with your team to<br />develop effective strategies</p>
+      <p begin="242.91s" xml:id="p96" end="245.13s">and track progress using SMART goals</p>
+      <p begin="245.13s" xml:id="p97" end="249.84s">that are specific, measurable<br />and monitored, achievable,</p>
+      <p begin="249.84s" xml:id="p98" end="252.64s">realistic, and time-bound.</p>
+      <p begin="252.64s" xml:id="p99" end="254.95s">Common ways to express<br />sustainability goals</p>
+      <p begin="254.95s" xml:id="p100" end="257.79s">include defined reduction<br />where goals expressed</p>
+      <p begin="257.79s" xml:id="p101" end="261.15s">in terms of a specific<br />quantity or percentage decrease</p>
+      <p begin="261.15s" xml:id="p102" end="264.96s">such as a 10% water reduction<br />or an annual energy reduction</p>
+      <p begin="264.96s" xml:id="p103" end="266.62s">of 300 kilowatt hours;</p>
+      <p begin="266.62s" xml:id="p104" end="268.76s">best-in-class, where goals are expressed</p>
+      <p begin="268.76s" xml:id="p105" end="270.29s">as a certain level of performance</p>
+      <p begin="270.29s" xml:id="p106" end="272.21s">compared to an established benchmark;</p>
+      <p begin="272.21s" xml:id="p107" end="274.48s">efficiency improvement<br />where goals are expressed</p>
+      <p begin="274.48s" xml:id="p108" end="277.08s">as a function of reducing<br />the resource use intensity</p>
+      <p begin="277.08s" xml:id="p109" end="279.34s">of a specific performance indicator;</p>
+      <p begin="279.34s" xml:id="p110" end="281.96s">environmental improvement<br />where goals are translated</p>
+      <p begin="281.96s" xml:id="p111" end="284.56s">as savings presented in<br />pollution prevention targets</p>
+      <p begin="284.56s" xml:id="p112" end="286.94s">or materials avoidance units.</p>
+      <p begin="286.94s" xml:id="p113" end="289.63s">Additionally, your<br />facility may find it useful</p>
+      <p begin="289.63s" xml:id="p114" end="292.63s">to establish threshold goals<br />where goals are expressed</p>
+      <p begin="292.63s" xml:id="p115" end="295.1s">as a minimum acceptable<br />level of performance</p>
+      <p begin="295.1s" xml:id="p116" end="297.15s">and stretch goals where<br />goals are expressed</p>
+      <p begin="297.15s" xml:id="p117" end="299.06s">as levels beyond typical targets</p>
+      <p begin="299.06s" xml:id="p118" end="301.92s">to create an incentive<br />for greater achievement.</p>
+      <p begin="303.02s" xml:id="p119" end="305.36s">With performance goals firmly established,</p>
+      <p begin="305.36s" xml:id="p120" end="307.67s">your team can now<br />develop an integrated set</p>
+      <p begin="307.67s" xml:id="p121" end="309.3s">of sustainability measures.</p>
+      <p begin="309.3s" xml:id="p122" end="311.83s">Sustainability measures<br />can include projects,</p>
+      <p begin="311.83s" xml:id="p123" end="313.74s">policies, and procedures.</p>
+      <p begin="313.74s" xml:id="p124" end="316.94s">In many cases, your team will<br />want to strategically combine</p>
+      <p begin="316.94s" xml:id="p125" end="319.79s">several sustainability<br />measures to achieve a goal.</p>
+      <p begin="319.79s" xml:id="p126" end="322.23s">Take advantage up front<br />of the low-hanging fruit,</p>
+      <p begin="322.23s" xml:id="p127" end="325.35s">or no-cost, low-cost<br />measures, such as repairs</p>
+      <p begin="325.35s" xml:id="p128" end="327.74s">and scheduled preventative<br />maintenance to building systems;</p>
+      <p begin="327.74s" xml:id="p129" end="330.32s">policy revisions to<br />operations and maintenance;</p>
+      <p begin="330.32s" xml:id="p130" end="332.358s">purchasing and property<br />management policies;</p>
+      <p begin="332.36s" xml:id="p131" end="336.06s">or efficiency upgrades for<br />lighting and water fixtures.</p>
+      <p begin="336.06s" xml:id="p132" end="338.14s">Occupant behavior changes are another way</p>
+      <p begin="338.15s" xml:id="p133" end="340.61s">to improve the sustainability<br />of your facility.</p>
+      <p begin="340.61s" xml:id="p134" end="342.47s">Building occupants'<br />behavior has been shown</p>
+      <p begin="342.47s" xml:id="p135" end="346.4s">to directly impact up to 30%<br />of facility resource use.</p>
+      <p begin="346.4s" xml:id="p136" end="349.44s">Include sustainability measures<br />that strategically target</p>
+      <p begin="349.44s" xml:id="p137" end="351.96s">the behavior of building<br />users and operators.</p>
+      <p begin="351.96s" xml:id="p138" end="354.86s">Training for building operators<br />including property managers,</p>
+      <p begin="354.86s" xml:id="p139" end="358.18s">O&amp;M staff, and cleaning<br />crew can have big payoffs.</p>
+      <p begin="358.18s" xml:id="p140" end="360.68s">Educating occupants about<br />resource consumption</p>
+      <p begin="360.68s" xml:id="p141" end="362.2s">can yield big savings.</p>
+      <p begin="362.21s" xml:id="p142" end="365.72s">Examples of beneficial behavior<br />include turning off lights</p>
+      <p begin="365.72s" xml:id="p143" end="367.94s">and shared technology when not in use,</p>
+      <p begin="367.94s" xml:id="p144" end="371.01s">using double-sided printing<br />options throughout the building,</p>
+      <p begin="371.01s" xml:id="p145" end="374.31s">reducing plug loads by unplugging<br />equipment at the strip,</p>
+      <p begin="374.31s" xml:id="p146" end="376.96s">taking stairs for short<br />trips between floors,</p>
+      <p begin="376.96s" xml:id="p147" end="379.2s">using water from the tap or water cooler</p>
+      <p begin="379.2s" xml:id="p148" end="380.56s">instead of bottled water,</p>
+      <p begin="380.56s" xml:id="p149" end="382.94s">and ride sharing or using public transit.</p>
+      <p begin="382.94s" xml:id="p150" end="384.85s">After exploring low-hanging fruit</p>
+      <p begin="384.85s" xml:id="p151" end="386.59s">and occupant behavior changes,</p>
+      <p begin="386.59s" xml:id="p152" end="388.85s">consider integrating<br />sustainability measures</p>
+      <p begin="388.85s" xml:id="p153" end="390.87s">into capital improvement projects.</p>
+      <p begin="390.87s" xml:id="p154" end="393.32s">Ensure that all equipment<br />is tuned up, commissioned,</p>
+      <p begin="393.32s" xml:id="p155" end="395.58s">calibrated, and operating efficiently.</p>
+      <p begin="395.58s" xml:id="p156" end="398.72s">Assess current needs and right<br />size replacement equipment;</p>
+      <p begin="398.72s" xml:id="p157" end="401.82s">specify the most energy-efficient<br />components and models</p>
+      <p begin="401.82s" xml:id="p158" end="403.12s">when replacing equipment;</p>
+      <p begin="403.12s" xml:id="p159" end="405.46s">and integrate sustainability<br />design features</p>
+      <p begin="405.46s" xml:id="p160" end="406.41s">into the project</p>
+      <p begin="406.41s" xml:id="p161" end="409.64s">such as performance-oriented<br />siding and landscaping,</p>
+      <p begin="409.64s" xml:id="p162" end="413.44s">day lighting, recycled content,<br />design for disassembly,</p>
+      <p begin="413.44s" xml:id="p163" end="415.3s">and passive heating and cooling.</p>
+      <p begin="415.3s" xml:id="p164" end="417.61s">Measures that are life<br />cycle cost-effective</p>
+      <p begin="417.61s" xml:id="p165" end="420.36s">have estimated savings that<br />exceed the estimated cost</p>
+      <p begin="420.36s" xml:id="p166" end="421.75s">over their lifespan.</p>
+      <p begin="421.75s" xml:id="p167" end="423.99s">In economic terms, a building design</p>
+      <p begin="423.99s" xml:id="p168" end="426.36s">is deemed to be cost<br />effective if it results</p>
+      <p begin="426.36s" xml:id="p169" end="428.97s">in benefits equal to<br />those of alternate designs</p>
+      <p begin="428.97s" xml:id="p170" end="432.81s">and has a lower whole-life cost<br />or total cost of ownership.</p>
+      <p begin="432.81s" xml:id="p171" end="434.3s">For your team's first project,</p>
+      <p begin="434.3s" xml:id="p172" end="436.67s">it is important to identify simple actions</p>
+      <p begin="436.67s" xml:id="p173" end="439.58s">that could be made to show<br />quick progress or payback.</p>
+      <p begin="440.72s" xml:id="p174" end="442.98s">Let's explore some<br />energy-efficiency measures</p>
+      <p begin="442.98s" xml:id="p175" end="444.67s">that can lead to a more sustainable</p>
+      <p begin="444.67s" xml:id="p176" end="446.68s">and enjoyable office environment.</p>
+      <p begin="446.68s" xml:id="p177" end="449.18s">One example is to align<br />daylight harvesting</p>
+      <p begin="449.18s" xml:id="p178" end="451.13s">with space function to reduce the need</p>
+      <p begin="451.13s" xml:id="p179" end="453.73s">for electric lighting, and<br />heating and cooling loads.</p>
+      <p begin="453.73s" xml:id="p180" end="455.91s">There are several ways to<br />implement this measure.</p>
+      <p begin="455.91s" xml:id="p181" end="458.05s">For example, by installing light shelves</p>
+      <p begin="458.05s" xml:id="p182" end="460.39s">to increase reflectivity<br />at window openings</p>
+      <p begin="460.39s" xml:id="p183" end="462.21s">to increase daylight penetration.</p>
+      <p begin="462.21s" xml:id="p184" end="463.79s">Running light tubes through ceilings</p>
+      <p begin="463.79s" xml:id="p185" end="466.07s">to supply more natural<br />light from the roof.</p>
+      <p begin="466.07s" xml:id="p186" end="468.31s">Installing window<br />shadings and glare filters</p>
+      <p begin="468.31s" xml:id="p187" end="470.3s">to reduce glare on workstations.</p>
+      <p begin="470.3s" xml:id="p188" end="473.36s">Lowering workstation walls to<br />one meter to provide privacy</p>
+      <p begin="473.36s" xml:id="p189" end="475.98s">while transmitting light<br />across office space.</p>
+      <p begin="475.98s" xml:id="p190" end="478.34s">Maximizing access to outdoor views</p>
+      <p begin="478.34s" xml:id="p191" end="480.28s">and light to increase<br />the occupant comfort,</p>
+      <p begin="480.28s" xml:id="p192" end="482.3s">satisfaction, and productivity</p>
+      <p begin="482.3s" xml:id="p193" end="484.37s">and providing controls for window shades</p>
+      <p begin="484.37s" xml:id="p194" end="486.41s">to empower occupants to manage the glare</p>
+      <p begin="486.41s" xml:id="p195" end="488.46s">and heat emitted into the workspace.</p>
+      <p begin="490.22s" xml:id="p196" end="492.16s">HVAC systems typically comprise</p>
+      <p begin="492.16s" xml:id="p197" end="494.1s">the largest energy-using component</p>
+      <p begin="494.1s" xml:id="p198" end="495.56s">of any building or facility,</p>
+      <p begin="495.56s" xml:id="p199" end="498.26s">and have the greatest<br />energy savings opportunity.</p>
+      <p begin="498.26s" xml:id="p200" end="501.038s">In new buildings, design<br />buildings to site HVAC systems</p>
+      <p begin="501.038s" xml:id="p201" end="502.69s">towards the center of the building</p>
+      <p begin="502.69s" xml:id="p202" end="504.88s">to keep conditioned air near workspaces</p>
+      <p begin="504.88s" xml:id="p203" end="507.19s">and avoid loss through exterior walls.</p>
+      <p begin="507.19s" xml:id="p204" end="509.97s">In existing buildings, look<br />for component replacements</p>
+      <p begin="509.97s" xml:id="p205" end="512.8s">to optimize performance<br />of the overall system.</p>
+      <p begin="512.8s" xml:id="p206" end="515.96s">Actions that can be taken to<br />capitalize on this opportunity</p>
+      <p begin="515.96s" xml:id="p207" end="519.66s">include upgrading insulation,<br />building envelope sealants,</p>
+      <p begin="519.66s" xml:id="p208" end="521.99s">and windows to downsize the HVAC system</p>
+      <p begin="521.99s" xml:id="p209" end="523.74s">and lower energy consumption.</p>
+      <p begin="523.74s" xml:id="p210" end="526.378s">Increasing ventilation rates<br />to replace contaminated air</p>
+      <p begin="526.378s" xml:id="p211" end="528.42s">with filtered air from the outdoors</p>
+      <p begin="528.42s" xml:id="p212" end="530.78s">to improve work performance<br />and occupant health.</p>
+      <p begin="530.78s" xml:id="p213" end="533.36s">Taking advantage of<br />opportunities to re-commission</p>
+      <p begin="533.36s" xml:id="p214" end="535.92s">or retro-commission HVAC systems to ensure</p>
+      <p begin="535.92s" xml:id="p215" end="539.55s">they are operating using<br />ASHRAE-90.1 recommended settings,</p>
+      <p begin="539.55s" xml:id="p216" end="541.7s">and where possible display HVAC</p>
+      <p begin="541.7s" xml:id="p217" end="543.87s">and other resource-using<br />system information</p>
+      <p begin="543.87s" xml:id="p218" end="546.9s">in common areas to educate<br />building occupants.</p>
+      <p begin="548.02s" xml:id="p219" end="550.14s">Water efficiency measures are another way</p>
+      <p begin="550.15s" xml:id="p220" end="552.57s">of improving the<br />sustainability of a facility.</p>
+      <p begin="552.57s" xml:id="p221" end="555.28s">Rainwater harvesting<br />systems capture and reuse</p>
+      <p begin="555.28s" xml:id="p222" end="557.16s">non-potable, onsite water,</p>
+      <p begin="557.16s" xml:id="p223" end="559.28s">that can be used for landscape irrigation</p>
+      <p begin="559.28s" xml:id="p224" end="562.38s">and reduce potable water and<br />non-potable water consumption.</p>
+      <p begin="562.38s" xml:id="p225" end="564.54s">This measure presents<br />the following benefits</p>
+      <p begin="564.55s" xml:id="p226" end="566.56s">related to improved sustainability.</p>
+      <p begin="566.56s" xml:id="p227" end="568.93s">Green roofs substantially reduce heat loss</p>
+      <p begin="568.93s" xml:id="p228" end="570.3s">through the roof membrane.</p>
+      <p begin="570.3s" xml:id="p229" end="572.69s">Stormwater collection<br />and retention systems</p>
+      <p begin="572.69s" xml:id="p230" end="575.46s">reduce the energy required<br />to pump and process water</p>
+      <p begin="575.46s" xml:id="p231" end="576.81s">at the municipal level.</p>
+      <p begin="576.81s" xml:id="p232" end="579.386s">Wetland plant species<br />can enhance water quality</p>
+      <p begin="579.386s" xml:id="p233" end="582.07s">through bio-digestion of pollutants.</p>
+      <p begin="582.07s" xml:id="p234" end="583.24s">For health reasons,</p>
+      <p begin="583.24s" xml:id="p235" end="585.71s">gray water and storm<br />water harvesting systems</p>
+      <p begin="585.71s" xml:id="p236" end="588.22s">must comply with local building codes.</p>
+      <p begin="590.3s" xml:id="p237" end="592.14s">Restrooms present opportunities</p>
+      <p begin="592.14s" xml:id="p238" end="594.42s">to improve the water<br />efficiency of a facility.</p>
+      <p begin="594.42s" xml:id="p239" end="595.86s">Here are some measures to consider</p>
+      <p begin="595.86s" xml:id="p240" end="598.86s">when looking to improve the<br />water efficiency of restrooms.</p>
+      <p begin="598.86s" xml:id="p241" end="601.68s">Implement a fixture<br />replacement and retrofit policy</p>
+      <p begin="601.69s" xml:id="p242" end="604.9s">with technologically advanced<br />water-efficient alternatives</p>
+      <p begin="604.9s" xml:id="p243" end="606.32s">to conventional fixtures.</p>
+      <p begin="606.32s" xml:id="p244" end="608.33s">Use waterless urinals where appropriate</p>
+      <p begin="608.33s" xml:id="p245" end="611.5s">and convert faucets to automated<br />and sensor-driven fixtures</p>
+      <p begin="611.5s" xml:id="p246" end="612.82s">for greater efficiency.</p>
+      <p begin="612.82s" xml:id="p247" end="614.75s">Use condensate from the HVAC unit</p>
+      <p begin="614.75s" xml:id="p248" end="616.39s">as a non-potable water source</p>
+      <p begin="616.39s" xml:id="p249" end="618.21s">for flushing toilets and urinals.</p>
+      <p begin="618.21s" xml:id="p250" end="620.85s">Set up a leak detection<br />program to provide occupants</p>
+      <p begin="620.85s" xml:id="p251" end="622.8s">an easy way to report leaks.</p>
+      <p begin="622.8s" xml:id="p252" end="625.18s">The benefits of implementing<br />sustainability measures</p>
+      <p begin="625.18s" xml:id="p253" end="628.21s">in restrooms includes<br />automated electric hand dryers</p>
+      <p begin="628.21s" xml:id="p254" end="630.27s">to eliminate the need for paper products,</p>
+      <p begin="630.27s" xml:id="p255" end="632.49s">waste heat from HVAC systems can be used</p>
+      <p begin="632.49s" xml:id="p256" end="636.11s">to preheat domestic hot water;<br />automated sensor faucets</p>
+      <p begin="636.11s" xml:id="p257" end="638.88s">limit the passing of germs<br />from occupant to occupant.</p>
+      <p begin="640.62s" xml:id="p258" end="642.7s">Selecting the right renovation materials</p>
+      <p begin="642.71s" xml:id="p259" end="645.35s">can help contribute to a<br />more sustainable operation.</p>
+      <p begin="645.35s" xml:id="p260" end="647.93s">Procure durable,<br />environmentally-preferable,</p>
+      <p begin="647.93s" xml:id="p261" end="649.34s">and long-lasting materials</p>
+      <p begin="649.34s" xml:id="p262" end="651.6s">specified from local suppliers and vendors</p>
+      <p begin="651.6s" xml:id="p263" end="653.68s">when undergoing a major renovation.</p>
+      <p begin="653.68s" xml:id="p264" end="655.73s">Actions related to this efficiency measure</p>
+      <p begin="655.73s" xml:id="p265" end="658.37s">include selecting<br />locally sourced materials</p>
+      <p begin="658.37s" xml:id="p266" end="659.88s">that require less transportation</p>
+      <p begin="659.88s" xml:id="p267" end="664.18s">and support local economies,<br />specify low-emitting materials</p>
+      <p begin="664.18s" xml:id="p268" end="666.58s">to create healthy indoor air quality.</p>
+      <p begin="668.36s" xml:id="p269" end="670.75s">Composting organic<br />waste is another measure</p>
+      <p begin="670.75s" xml:id="p270" end="673.88s">for improving the operational<br />sustainability of a facility.</p>
+      <p begin="673.88s" xml:id="p271" end="675.827s">Composting appropriately eliminates waste</p>
+      <p begin="675.827s" xml:id="p272" end="677.807s">and reuses natural materials</p>
+      <p begin="677.807s" xml:id="p273" end="681.24s">as nutrients for useful<br />landscaping purposes.</p>
+      <p begin="681.24s" xml:id="p274" end="683.24s">The benefits associated with composting</p>
+      <p begin="683.24s" xml:id="p275" end="686.49s">are improved water retention,<br />which leads to a reduced need</p>
+      <p begin="686.49s" xml:id="p276" end="688.74s">for irrigation on gardens and grounds,</p>
+      <p begin="688.74s" xml:id="p277" end="690.28s">and energy and water savings</p>
+      <p begin="690.28s" xml:id="p278" end="692.56s">resulting from reducing portable water use</p>
+      <p begin="692.56s" xml:id="p279" end="694.14s">for garbage disposal.</p>
+      <p begin="696.22s" xml:id="p280" end="698.76s">The use of environmentally-friendly<br />cleaning products</p>
+      <p begin="698.76s" xml:id="p281" end="699.78s">within a facility</p>
+      <p begin="699.78s" xml:id="p282" end="702.26s">contributes to a healthier<br />indoor environment.</p>
+      <p begin="702.26s" xml:id="p283" end="705.14s">Facilities should establish<br />a green cleaning policy</p>
+      <p begin="705.15s" xml:id="p284" end="709.07s">for the purchase and use<br />of nontoxic, low or no-VOC</p>
+      <p begin="709.07s" xml:id="p285" end="711.46s">and biobased cleaning<br />equipment and materials.</p>
+      <p begin="711.46s" xml:id="p286" end="714.38s">Biobased products are commercial<br />or industrial products</p>
+      <p begin="714.38s" xml:id="p287" end="717.2s">that are significantly composed<br />of biological products,</p>
+      <p begin="717.2s" xml:id="p288" end="720.57s">renewable agricultural materials<br />including plant, animal,</p>
+      <p begin="720.57s" xml:id="p289" end="723.23s">and marine materials,<br />or forestry materials.</p>
+      <p begin="723.23s" xml:id="p290" end="725.16s">Green cleaning products used in restrooms</p>
+      <p begin="725.16s" xml:id="p291" end="726.82s">and food preparation areas</p>
+      <p begin="726.82s" xml:id="p292" end="729.06s">keep toxins from entering<br />the facility's water</p>
+      <p begin="729.06s" xml:id="p293" end="730.5s">and sewer discharge.</p>
+      <p begin="730.5s" xml:id="p294" end="732.92s">Non-toxic and biobased cleaning products</p>
+      <p begin="732.92s" xml:id="p295" end="735.42s">provide a save and<br />healthy work environment.</p>
+      <p begin="736.58s" xml:id="p296" end="739.44s">An example of an indoor<br />environmental quality measure</p>
+      <p begin="739.44s" xml:id="p297" end="741.4s">is the use of indoor plants.</p>
+      <p begin="741.4s" xml:id="p298" end="743.231s">Indoor plants can improve air quality,</p>
+      <p begin="743.231s" xml:id="p299" end="745.26s">create more comfortable spaces,</p>
+      <p begin="745.26s" xml:id="p300" end="747.37s">and improve workplace satisfaction.</p>
+      <p begin="747.37s" xml:id="p301" end="751.19s">Plants can filter air, sequester<br />carbon, produce oxygen,</p>
+      <p begin="751.19s" xml:id="p302" end="753.97s">and absorb chemicals such<br />as benzine, formaldehyde,</p>
+      <p begin="753.97s" xml:id="p303" end="755.61s">or trichloroethylene.</p>
+      <p begin="755.61s" xml:id="p304" end="758.23s">Consider green walls<br />to great inspirational</p>
+      <p begin="758.23s" xml:id="p305" end="761.53s">or contemplative interior<br />spaces, humidify the air,</p>
+      <p begin="761.53s" xml:id="p306" end="763.7s">and improve indoor air quality.</p>
+      <p begin="765.42s" xml:id="p307" end="767.82s">Interior acoustics can play a big role</p>
+      <p begin="767.82s" xml:id="p308" end="769.88s">in improving the indoor<br />environmental quality</p>
+      <p begin="769.88s" xml:id="p309" end="770.98s">of an office.</p>
+      <p begin="770.98s" xml:id="p310" end="773.6s">Good interior acoustics<br />are particularly important</p>
+      <p begin="773.6s" xml:id="p311" end="775.84s">to employees working in open spaces.</p>
+      <p begin="775.84s" xml:id="p312" end="777.33s">Acoustic interior panels</p>
+      <p begin="777.33s" xml:id="p313" end="779.61s">made of environmentally-preferable<br />materials</p>
+      <p begin="779.61s" xml:id="p314" end="781.87s">are a great option for<br />reducing noise levels</p>
+      <p begin="781.87s" xml:id="p315" end="784.65s">without affecting the indoor<br />environmental quality.</p>
+      <p begin="784.65s" xml:id="p316" end="787.63s">Acoustic interior panels<br />made of translucent material</p>
+      <p begin="787.63s" xml:id="p317" end="790.41s">block sound while allowing<br />daylight or general light</p>
+      <p begin="790.41s" xml:id="p318" end="791.78s">to penetrate into a space,</p>
+      <p begin="791.78s" xml:id="p319" end="793.92s">which can lessen the need<br />for electric lighting.</p>
+      <p begin="793.92s" xml:id="p320" end="795.96s">Actions for improving interior acoustics</p>
+      <p begin="795.96s" xml:id="p321" end="797.47s">include using materials</p>
+      <p begin="797.47s" xml:id="p322" end="800.684s">such as acoustic ceiling tiles<br />and carpeting to absorb sound,</p>
+      <p begin="800.684s" xml:id="p323" end="804.21s">and using sound blocking<br />strategies such as space design</p>
+      <p begin="804.21s" xml:id="p324" end="807.96s">and furniture placement to<br />control noise-generating sources.</p>
+      <p begin="809.98s" xml:id="p325" end="812.42s">The sustainability action plan is critical</p>
+      <p begin="812.43s" xml:id="p326" end="815.09s">to cement your facility's<br />commitment to sustainability</p>
+      <p begin="815.09s" xml:id="p327" end="817.14s">and to maintain important momentum.</p>
+      <p begin="817.14s" xml:id="p328" end="818.3s">The best practices</p>
+      <p begin="818.3s" xml:id="p329" end="820.36s">for developing a<br />sustainability action plan</p>
+      <p begin="820.36s" xml:id="p330" end="822.08s">include asking senior management</p>
+      <p begin="822.08s" xml:id="p331" end="823.9s">to host an official launch event,</p>
+      <p begin="823.9s" xml:id="p332" end="826.18s">establishing clear roles for team members,</p>
+      <p begin="826.18s" xml:id="p333" end="827.52s">ensuring project expectations</p>
+      <p begin="827.524s" xml:id="p334" end="830.74s">mesh with team members'<br />availability and duties,</p>
+      <p begin="830.74s" xml:id="p335" end="832.96s">keeping team members<br />consistently up to date</p>
+      <p begin="832.96s" xml:id="p336" end="835.569s">and seeking their input,<br />scheduling regular check-ins,</p>
+      <p begin="835.569s" xml:id="p337" end="837.489s">and setting achievable timelines</p>
+      <p begin="837.489s" xml:id="p338" end="839.96s">for deliverables and checkpoints.</p>
+      <p begin="840.46s" xml:id="p339" end="843.56s">Summarizing, benchmark<br />and goal setting results</p>
+      <p begin="843.56s" xml:id="p340" end="846.21s">in an action plan documents<br />your team's progress</p>
+      <p begin="846.21s" xml:id="p341" end="848.63s">and presents it effectively<br />to management, staff,</p>
+      <p begin="848.63s" xml:id="p342" end="849.97s">or other audiences.</p>
+      <p begin="849.97s" xml:id="p343" end="852.3s">Consider updating your<br />action plan annually.</p>
+      <p begin="852.3s" xml:id="p344" end="854.68s">Ensure your action plan<br />covers the critical elements</p>
+      <p begin="854.68s" xml:id="p345" end="858.82s">like sustainability program<br />intent, sustainability vision,</p>
+      <p begin="858.82s" xml:id="p346" end="860.66s">priorities and performance goals,</p>
+      <p begin="860.66s" xml:id="p347" end="864.22s">and current benchmarking results<br />relative to the baseline.</p>
+      <p begin="864.22s" xml:id="p348" end="866.14s">Include technical steps and targets</p>
+      <p begin="866.14s" xml:id="p349" end="867.8s">related to each performance goal</p>
+      <p begin="867.8s" xml:id="p350" end="870.6s">such as sustainability<br />measures that specify actions</p>
+      <p begin="870.6s" xml:id="p351" end="872.46s">and policies for meeting each goal,</p>
+      <p begin="872.46s" xml:id="p352" end="875.14s">key performance metrics<br />that identify units used</p>
+      <p begin="875.14s" xml:id="p353" end="877.708s">for tracking progress, an<br />implementation timeline</p>
+      <p begin="877.708s" xml:id="p354" end="881.17s">that details a timeframe for<br />carrying out each measure,</p>
+      <p begin="881.17s" xml:id="p355" end="884.0s">team roles and resources<br />relating to each measure,</p>
+      <p begin="884.0s" xml:id="p356" end="885.92s">and outreach and communication plans</p>
+      <p begin="885.92s" xml:id="p357" end="888.8s">to influence occupant<br />behavior and garner support.</p>
+      <p begin="888.8s" xml:id="p358" end="891.56s">Also, include a measurement<br />and reporting schedule</p>
+      <p begin="891.56s" xml:id="p359" end="893.06s">to document progress.</p>
+      <p begin="894.12s" xml:id="p360" end="897.72s">In module four, we reviewed<br />benchmarking and analyzing data</p>
+      <p begin="897.72s" xml:id="p361" end="899.56s">to set sustainability goals,</p>
+      <p begin="899.56s" xml:id="p362" end="902.16s">selecting and evaluating<br />sustainability measures,</p>
+      <p begin="902.16s" xml:id="p363" end="905.1s">and developing a<br />sustainability action plan.</p>
+      <p begin="905.1s" xml:id="p364" end="906.34s">In the next module,</p>
+      <p begin="906.34s" xml:id="p365" end="908.72s">we will discuss the<br />importance of sustainability</p>
+      <p begin="908.72s" xml:id="p366" end="910.7s">as a cycle for continuous improvement.</p>
     </div>
   </body>
 </tt>
