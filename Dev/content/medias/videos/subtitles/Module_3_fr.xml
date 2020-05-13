@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="5.58s">Module 3 : Mobiliser votre organisation pour<br />obtenir le meilleur résultat</p>
+      <p begin="5.58s" xml:id="p1" end="10.42s">Ce module traitera des pratiques exemplaires<br />pour former une équipe interdisciplinaire</p>
+      <p begin="10.42s" xml:id="p2" end="15.46s">sur la durabilité et déterminer la base<br />de référence initiale de vos installations</p>
+      <p begin="15.46s" xml:id="p3" end="20.08s">ainsi que les mesures ultérieures de la consommation<br />d’énergie et d’eau, des émissions de</p>
+      <p begin="20.08s" xml:id="p4" end="23.56s">gaz à effet de serre et de la durabilité.</p>
+      <p begin="25.64s" xml:id="p5" end="31.02s">Dans ce module, nous aborderons les aspects<br />importants concernant la mobilisation de l’équipe</p>
+      <p begin="31.02s" xml:id="p6" end="33.74s">et la mesure du rendement opérationnel.</p>
+      <p begin="33.74s" xml:id="p7" end="38.51s">Cette étape du processus comprend la formation<br />d’une équipe de développement durable,</p>
+      <p begin="38.51s" xml:id="p8" end="44.16s">la mesure du rendement opérationnel de base<br />et l’établissement de points de rendement de référence.</p>
+      <p begin="44.16s" xml:id="p9" end="47.91s">Dans les diapositives suivantes, nous parlerons<br />de l’importance :</p>
+      <p begin="47.91s" xml:id="p10" end="52.62s">- de déterminer et de mobiliser des membres<br />essentiels de l’équipe pour qu’ils jouent</p>
+      <p begin="52.62s" xml:id="p11" end="56.67s">des rôles importants;<br />- d’utiliser des outils logiciels pour effectuer</p>
+      <p begin="56.67s" xml:id="p12" end="62.99s">une analyse comparative du rendement énergétique, comme ENERGY STAR Portfolio Manager ou RETScreen.</p>
+      <p begin="62.99s" xml:id="p13" end="67.36s">- Établir des bases de référence précises<br />pour faire un suivi de l’avancement;</p>
+      <p begin="67.36s" xml:id="p14" end="73.1s">- Élaborer un plan d’action efficace fondé<br />sur des objectifs et des stratégies éclairés.</p>
+      <p begin="74.26s" xml:id="p15" end="79.56s">Les gestionnaires de l’énergie et des installations<br />sont directement concernés par une gamme</p>
+      <p begin="79.57s" xml:id="p16" end="83.641s">d’améliorations en matière d’efficacité<br />de l’énergie et des ressources, que ce</p>
+      <p begin="83.641s" xml:id="p17" end="88.19s">soit pour de nouvelles constructions, des<br />rénovations, des mises à niveau d’équipement</p>
+      <p begin="88.19s" xml:id="p18" end="92.9s">ou l’installation de contrôles. Pour que<br />les projets réussissent, la coordination</p>
+      <p begin="92.9s" xml:id="p19" end="97.4s">de personnes ayant des responsabilités et<br />des rôles différents est nécessaire.</p>
+      <p begin="97.4s" xml:id="p20" end="102.02s">Il est essentiel que les personnes et les groupes<br />montrent leur adhésion et leur appui.</p>
+      <p begin="102.02s" xml:id="p21" end="107.18s">L'intégration de la durabilité dans les projets en cours<br />nécessite généralement d'élargir votre</p>
+      <p begin="107.18s" xml:id="p22" end="112.26s">équipe de projet pour y inclure diverses<br />disciplines spécifiques aux ressources.</p>
+      <p begin="112.26s" xml:id="p23" end="117.6s">Une équipe de développement durable ou verte,<br />intégrant une perspective interdisciplinaire,</p>
+      <p begin="117.6s" xml:id="p24" end="120.54s">peut fournir des solutions complètes et efficaces.</p>
+      <p begin="120.54s" xml:id="p25" end="125.74s">Une équipe verte est généralement dirigée<br />par un champion de la durabilité, engagé</p>
+      <p begin="125.741s" xml:id="p26" end="130.59s">et enthousiaste à l'idée de passer à une<br />installation plus durable. Les champions en</p>
+      <p begin="130.59s" xml:id="p27" end="134.92s">développement durable devraient s’entourer<br />d’une équipe centrale composée d’intervenants</p>
+      <p begin="134.92s" xml:id="p28" end="140.0s">essentiels, tels que des gestionnaires de<br />l’énergie, des gestionnaires immobiliers,</p>
+      <p begin="140.0s" xml:id="p29" end="144.14s">des agents de l’approvisionnement ou des<br />coordonnateurs en durabilité.</p>
+      <p begin="144.14s" xml:id="p30" end="149.22s">D’autres membres devraient également participer aux<br />discussions de l’équipe verte afin d’apporter</p>
+      <p begin="149.23s" xml:id="p31" end="154.17s">un point de vue extérieur sur les initiatives<br />concernées. Il peut s’agir, entre autres,</p>
+      <p begin="154.17s" xml:id="p32" end="158.95s">de représentants des ressources humaines,<br />des responsables des finances, d’entrepreneurs</p>
+      <p begin="158.95s" xml:id="p33" end="161.24s">en exploitation et en entretien.</p>
+      <p begin="161.24s" xml:id="p34" end="166.44s">Comme les activités en matière de durabilité<br />sont propres au contexte de l’installation,</p>
+      <p begin="166.44s" xml:id="p35" end="171.72s">formez votre équipe en conséquence. Collaborez<br />avec la direction pour identifier et engager</p>
+      <p begin="171.72s" xml:id="p36" end="175.83s">les employés qui ont un rôle à jouer, comme<br />ceux travaillant dans l’approvisionnement</p>
+      <p begin="175.83s" xml:id="p37" end="180.64s">et le recyclage ou effectuant d’autres tâches<br />liées à la gestion des déchets.</p>
+      <p begin="181.52s" xml:id="p38" end="186.72s">La taille de votre équipe dépendra de celle<br />de votre organisation, mais devrait se composer</p>
+      <p begin="186.72s" xml:id="p39" end="190.68s">de suffisamment de membres pour explorer des<br />solutions globales.</p>
+      <p begin="190.68s" xml:id="p40" end="195.86s">Dans tous les cas, une équipe de développement<br />durable devra choisir, coordonner et mettre</p>
+      <p begin="195.86s" xml:id="p41" end="199.42s">en œuvre un projet.<br />Elle suivra également les progrès, y compris</p>
+      <p begin="199.42s" xml:id="p42" end="205.71s">l'analyse comparative, le suivi et l'évaluation<br />des performances. Enfin, l’effort d’équipe</p>
+      <p begin="205.71s" xml:id="p43" end="211.1s">devrait inclure l’identification des meilleures<br />pratiques, dispenser de la formation, communiquer</p>
+      <p begin="211.1s" xml:id="p44" end="216.18s">les résultats, célébrer les réalisations<br />et donner de la reconnaissance.</p>
+      <p begin="218.34s" xml:id="p45" end="223.0s">Le comportement humain est souvent un élément<br />négligé dans l’atteinte d’objectifs</p>
+      <p begin="223.01s" xml:id="p46" end="225.77s">agressifs en matière de rendement du bâtiment.</p>
+      <p begin="225.77s" xml:id="p47" end="231.12s">Changer le comportement nécessite de comprendre<br />la personne, les habitudes et les motivations</p>
+      <p begin="231.12s" xml:id="p48" end="235.91s">de l’utilisateur. Dans votre équipe de<br />développement durable, assurez-vous d’inclure</p>
+      <p begin="235.91s" xml:id="p49" end="240.1s">des personnes qui peuvent aider à repérer<br />et à résoudre les problèmes de comportement</p>
+      <p begin="240.1s" xml:id="p50" end="245.9s">des occupants, et encouragez le changement<br />grâce à un accompagnement et à une formation ciblée.</p>
+      <p begin="245.9s" xml:id="p51" end="249.2s">Les inefficacités les plus courantes en matière<br />de rendement</p>
+      <p begin="249.2s" xml:id="p52" end="251.88s">causées par le comportement humain peuvent être :</p>
+      <p begin="251.88s" xml:id="p53" end="255.34s">- Des technologies de construction nouvelles ou inconnues;</p>
+      <p begin="255.34s" xml:id="p54" end="259.28s">-Un manque de compréhension, d’information et de formation;</p>
+      <p begin="259.28s" xml:id="p55" end="263.9s">-Des renseignements inaccessibles ou des mécanismes de rétroaction inefficaces;</p>
+      <p begin="263.9s" xml:id="p56" end="266.01s">-Des normes culturelles et des protocoles</p>
+      <p begin="266.01s" xml:id="p57" end="269.64s">institutionnels qui n’encouragent pas la<br />durabilité.</p>
+      <p begin="269.64s" xml:id="p58" end="273.5s">Le déploiement d’un plan d’action visant<br />à supprimer les obstacles</p>
+      <p begin="273.5s" xml:id="p59" end="276.16s">comporte trois parties principales :</p>
+      <p begin="276.16s" xml:id="p60" end="280.4s">Première partie : l’élaboration d’un<br />plan de communication efficace comprend les</p>
+      <p begin="280.4s" xml:id="p61" end="286.14s">objectifs du projet, la façon dont ils seront<br />mis en œuvre et les attentes des occupants.</p>
+      <p begin="286.14s" xml:id="p62" end="291.07s">Les messages doivent être transmis et renforcés<br />par la haute direction et les membres de l’équipe</p>
+      <p begin="291.07s" xml:id="p63" end="297.32s">de développement durable en personne, dans<br />des présentations et sur le réseau intranet du site.</p>
+      <p begin="297.32s" xml:id="p64" end="302.76s">Deuxième partie : l’information et la formation<br />doivent être à la base des améliorations</p>
+      <p begin="302.76s" xml:id="p65" end="307.16s">continues grâce à des ateliers ou à d’autres<br />types de formation.</p>
+      <p begin="307.16s" xml:id="p66" end="311.96s">Troisième partie : les outils de rétroaction<br />efficaces doivent comprendre des groupes de</p>
+      <p begin="311.97s" xml:id="p67" end="317.72s">discussion et des études. Un message réussi<br />montre que le projet correspond à la mission</p>
+      <p begin="317.72s" xml:id="p68" end="324.32s">et à la vision durable de l’organisation, et encourage la responsabilité de la gérance des occupants.</p>
+      <p begin="324.32s" xml:id="p69" end="327.86s">Le plan d’action doit intégrer les principes<br />suivants :</p>
+      <p begin="327.86s" xml:id="p70" end="334.54s">-Sensibilisation au besoin de changement;<br />-Souhait de participer au projet et de le soutenir;</p>
+      <p begin="334.54s" xml:id="p71" end="337.08s">-Connaissance des éléments nécessaires;</p>
+      <p begin="337.08s" xml:id="p72" end="342.66s">-Capacité à mobiliser de nouvelles compétences<br />et à adopter un comportement en conséquence;</p>
+      <p begin="342.66s" xml:id="p73" end="346.32s">-Renforcement visant à conserver les changements<br />apportés.</p>
+      <p begin="347.2s" xml:id="p74" end="352.3s">Le succès à long terme de vos installations<br />dépendra de votre capacité à créer et</p>
+      <p begin="352.3s" xml:id="p75" end="356.03s">à adopter collectivement une éthique en<br />développement durable.</p>
+      <p begin="356.03s" xml:id="p76" end="360.82s">Les études montrent qu’encourager une culture<br />en développement durable nécessite des ressources</p>
+      <p begin="360.82s" xml:id="p77" end="365.86s">et des politiques de coopération qui valorisent<br />le changement, encouragent la formation du</p>
+      <p begin="365.86s" xml:id="p78" end="369.27s">personnel de programme et mobilisent la haute<br />direction.</p>
+      <p begin="369.27s" xml:id="p79" end="374.2s">Une politique de durabilité réussie doit<br />préparer le terrain pour une réussite à</p>
+      <p begin="374.2s" xml:id="p80" end="378.76s">long terme, elle doit définir clairement<br />ce que signifie une politique de développement</p>
+      <p begin="378.76s" xml:id="p81" end="384.7s">durable pour les employés et comment elle<br />contribue à la mission essentielle du ministère.</p>
+      <p begin="385.48s" xml:id="p82" end="391.1s">Avant tout lancement, préparer une réunion<br />afin d’obtenir le soutien de la haute direction.</p>
+      <p begin="391.1s" xml:id="p83" end="395.76s">Cette étape est essentielle pour réussir<br />un plan d’action en matière de durabilité;</p>
+      <p begin="395.76s" xml:id="p84" end="400.72s">le soutien de la haute direction pouvant appuyer<br />ou entraver une initiative donnée.</p>
+      <p begin="400.73s" xml:id="p85" end="404.73s">Une fois qu’une équipe a été formée,<br />la première étape consiste à organiser</p>
+      <p begin="404.73s" xml:id="p86" end="409.76s">une réunion de lancement afin d’élaborer<br />un plan et de prévoir d’autres réunions.</p>
+      <p begin="409.76s" xml:id="p87" end="413.92s">Lors de la réunion de lancement, présentez<br />les membres de l’équipe et leurs rôles,</p>
+      <p begin="413.92s" xml:id="p88" end="418.35s">et définissez les attentes.<br />L’étape suivante consiste à déterminer</p>
+      <p begin="418.35s" xml:id="p89" end="424.38s">une base de référence du rendement du bâtiment et à établir un point de rendement de référence à atteindre.</p>
+      <p begin="424.38s" xml:id="p90" end="427.74s">À partir de là, les membres<br />de l’équipe peuvent cerner les problèmes</p>
+      <p begin="427.74s" xml:id="p91" end="432.52s">et les occasions d’amélioration, et, en<br />tant que groupe, justifier des efforts à</p>
+      <p begin="432.52s" xml:id="p92" end="437.32s">faire pour avancer et apporter des changements.<br />Le premier projet qu’une équipe devrait</p>
+      <p begin="437.32s" xml:id="p93" end="443.19s">mener est un projet simple qui donne des résultats<br />rapidement. Cela permettra de créer une dynamique</p>
+      <p begin="443.19s" xml:id="p94" end="447.44s">et d’obtenir davantage de soutien de la<br />haute direction.</p>
+      <p begin="447.44s" xml:id="p95" end="452.0s">Votre équipe doit d’abord établir une<br />base de référence et un repère pour la</p>
+      <p begin="452.0s" xml:id="p96" end="456.96s">consommation d’énergie et d’eau, ainsi<br />que pour les émissions de gaz à effet de serre.</p>
+      <p begin="456.96s" xml:id="p97" end="461.1s">Une base de référence permet d’établir<br />un point de référence de la consommation</p>
+      <p begin="461.1s" xml:id="p98" end="465.1s">d’énergie ou d’eau d’une installation<br />pendant une période donnée à des fins de</p>
+      <p begin="465.1s" xml:id="p99" end="469.86s">comparaison ultérieure. Elle donne un point<br />de départ pour définir des objectifs et</p>
+      <p begin="469.86s" xml:id="p100" end="475.42s">évaluer les efforts ultérieurs ainsi que<br />le rendement global. Des données sur 12 mois</p>
+      <p begin="475.42s" xml:id="p101" end="479.38s">fournissent une solide base de référence<br />pour la plupart des installations.</p>
+      <p begin="479.38s" xml:id="p102" end="484.36s">L’analyse comparative est un processus qui<br />permet d’enregistrer et de comparer le rendement</p>
+      <p begin="484.37s" xml:id="p103" end="488.66s">actuel d’un bâtiment par rapport à sa<br />propre base de référence ou à d’autres</p>
+      <p begin="488.66s" xml:id="p104" end="490.26s">types de bâtiments semblables.</p>
+      <p begin="490.26s" xml:id="p105" end="494.9s">En illustrant l’avancement sur plusieurs<br />ensembles de données importants, l’analyse</p>
+      <p begin="494.9s" xml:id="p106" end="500.7s">comparative permet de préciser les objectifs;<br />de définir des buts et des dates; de documenter</p>
+      <p begin="500.7s" xml:id="p107" end="505.0s">l’utilisation des ressources; de vérifier<br />les consommations d’énergie et d’eau</p>
+      <p begin="505.0s" xml:id="p108" end="509.64s">et les émissions de gaz à effet de serre,<br />ainsi que leurs coûts; de repérer les pertes</p>
+      <p begin="509.64s" xml:id="p109" end="513.72s">en énergie et en eau; et de relever les erreurs<br />de facturation.</p>
+      <p begin="516.02s" xml:id="p110" end="521.8s">ENERGY STAR Portfolio Manager est un outil<br />de suivi et de gestion en ligne, principalement</p>
+      <p begin="521.81s" xml:id="p111" end="526.12s">utilisé pour mesurer la consommation d’énergie<br />et d’eau dans les bâtiments.</p>
+      <p begin="526.12s" xml:id="p112" end="530.72s">Il comprend des fonctions pour gérer la consommation<br />d’énergie et d’eau, évaluer le rendement</p>
+      <p begin="530.72s" xml:id="p113" end="535.8s">énergétique des bâtiments, estimer votre<br />empreinte carbone, définir des priorités</p>
+      <p begin="535.8s" xml:id="p114" end="542.26s">d’investissement, vérifier et suivre l’avancement<br />des projets, obtenir une reconnaissance, accéder</p>
+      <p begin="542.26s" xml:id="p115" end="548.04s">à des outils connexes et faire le suivi de<br />certifications délivrées par des tierces parties.</p>
+      <p begin="548.78s" xml:id="p116" end="553.7s">Bien qu’il soit possible pour tous les bâtiments<br />d’utiliser Portfolio Manager pour faire</p>
+      <p begin="553.7s" xml:id="p117" end="558.3s">le suivi de leur consommation d’énergie<br />et d’eau, seuls sept types de bâtiments</p>
+      <p begin="558.3s" xml:id="p118" end="562.84s">sont actuellement admissibles pour obtenir<br />la cote ENERGY STAR au Canada.</p>
+      <p begin="562.84s" xml:id="p119" end="568.24s">Il s’agit des établissements d’enseignement<br />du primaire au collégial, des bureaux commerciaux,</p>
+      <p begin="568.24s" xml:id="p120" end="573.54s">des hôpitaux, des supermarchés et des magasins<br />d’alimentation, des cabinets médicaux,</p>
+      <p begin="573.54s" xml:id="p121" end="577.98s">des milieux de soins pour aînés et des patinoires<br />ou pistes de curling.</p>
+      <p begin="577.98s" xml:id="p122" end="582.251s">Si votre type de bâtiment n’est pas admissible<br />à une cote de rendement, n’oubliez pas</p>
+      <p begin="582.251s" xml:id="p123" end="586.83s">que Ressources naturelles Canada élaborera<br />progressivement de nouvelles cotes et que</p>
+      <p begin="586.83s" xml:id="p124" end="589.88s">votre bâtiment pourrait être le prochain.</p>
+      <p begin="590.22s" xml:id="p125" end="595.12s">Adopter la bonne démarche pour que les données<br />de l’analyse comparative soient cohérentes</p>
+      <p begin="595.13s" xml:id="p126" end="601.02s">et précises peut prendre du temps, mais constituera<br />une base solide pour les initiatives en matière</p>
+      <p begin="601.02s" xml:id="p127" end="604.24s">de durabilité.<br />Assurez-vous d’élaborer un plan d’analyse</p>
+      <p begin="604.24s" xml:id="p128" end="608.24s">comparative pour définir une approche stratégique<br />du processus.</p>
+      <p begin="608.24s" xml:id="p129" end="610.72s">Faites-vous une image précise de la façon</p>
+      <p begin="610.72s" xml:id="p130" end="613.98s">dont les données sont actuellement mesurées et utilisées.</p>
+      <p begin="613.98s" xml:id="p131" end="616.16s">Envisagez de faire appel à un conseiller</p>
+      <p begin="616.16s" xml:id="p132" end="620.86s">externe ou à un prestataire tiers, comme<br />une entreprise de services écoénergétiques</p>
+      <p begin="620.86s" xml:id="p133" end="626.59s">(ESE) , pour vous aider dans le processus.<br />Formez constamment tout le personnel intervenant</p>
+      <p begin="626.59s" xml:id="p134" end="631.57s">dans la collecte et l’entrée de données.<br />Utilisez les outils et les ressources disponibles</p>
+      <p begin="631.57s" xml:id="p135" end="634.77s">pour faciliter la mise en conformité.</p>
+      <p begin="634.77s" xml:id="p136" end="639.87s">RETScreen est un autre outil puissant de gestion<br />du rendement énergétique.</p>
+      <p begin="639.87s" xml:id="p137" end="645.7s">Élaboré par le gouvernement du Canada, RETScreen<br />Expert est un logiciel d’analyse de la faisabilité</p>
+      <p begin="645.7s" xml:id="p138" end="650.89s">de projets relatifs à l’efficacité énergétique<br />et à l’énergie renouvelable ainsi qu’à</p>
+      <p begin="650.89s" xml:id="p139" end="653.54s">l’analyse du rendement énergétique continu.</p>
+      <p begin="653.54s" xml:id="p140" end="658.02s">Cet outil propose de nombreuses fonctions<br />et peut être utilisé afin :</p>
+      <p begin="658.02s" xml:id="p141" end="661.74s">- De réaliser des analyses dans l’ensemble<br />du portefeuille,</p>
+      <p begin="661.749s" xml:id="p142" end="665.05s">- de recueillir des renseignements sur une<br />installation,</p>
+      <p begin="665.05s" xml:id="p143" end="670.219s">- d’effectuer des analyses comparatives,<br />- de faire un suivi de la consommation d’énergie</p>
+      <p begin="670.22s" xml:id="p144" end="676.3s">et des émissions de GES, ainsi que de<br />- réaliser des analyses sur le rendement général.</p>
+      <p begin="676.3s" xml:id="p145" end="680.88s">Largement utilisé au sein du gouvernement<br />et de l’industrie, cet outil est également</p>
+      <p begin="680.88s" xml:id="p146" end="688.16s">mis à profit par les principales entreprises<br />suivantes : 3M, CRH Canada, Oxford Properties,</p>
+      <p begin="688.16s" xml:id="p147" end="694.08s">Canadian Tire, le Conseil des universités<br />de l’Ontario, le ministère de la Défense nationale,</p>
+      <p begin="694.08s" xml:id="p148" end="699.54s">Services publics et Approvisionnement<br />Canada et Ressources naturelles Canada.</p>
+      <p begin="701.92s" xml:id="p149" end="707.88s">Dans le module 3, nous avons abordé les pratiques<br />exemplaires visant à mobiliser votre organisation</p>
+      <p begin="707.889s" xml:id="p150" end="713.28s">en fixant des objectifs mesurables précis.<br />Ce processus consiste à mobiliser toutes</p>
+      <p begin="713.28s" xml:id="p151" end="717.6s">les personnes qui jouent un rôle important<br />pour atteindre ces objectifs, à utiliser</p>
+      <p begin="717.6s" xml:id="p152" end="723.5s">les outils disponibles comme ENERGY STAR Portfolio<br />Manager ou RETScreen, à définir une base</p>
+      <p begin="723.5s" xml:id="p153" end="727.959s">de référence et à réaliser une analyse<br />comparative de votre avancement.</p>
+      <p begin="727.959s" xml:id="p154" end="732.369s">À partir de là, votre équipe est en mesure<br />d’élaborer un plan d’action précis en</p>
+      <p begin="732.369s" xml:id="p155" end="735.52s">fonction des stratégies et des objectifs<br />définis.</p>
+      <p begin="735.52s" xml:id="p156" end="740.64s">Dans le module 4, nous traiterons des étapes<br />concernant l’élaboration, l’évaluation,</p>
+      <p begin="740.64s" xml:id="p157" end="745.6s">le choix et la mise en œuvre de mesures de<br />durabilité, et examinerons les solutions</p>
+      <p begin="745.6s" xml:id="p158" end="749.1s">courantes menant à des mises à niveau durables.</p>
+    </div>
+  </body>
+</tt>

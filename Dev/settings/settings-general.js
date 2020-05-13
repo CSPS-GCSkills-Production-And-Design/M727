@@ -1,13 +1,13 @@
 'use strict';
 
 define({
-    "courseLegacyCode":  "M726",
-	"courseTitle_en": 	 "Operations, Maintenance and Commissioning",
-	"courseTitle_fr": 	 "Exploitation, entretien et mise en service",
+    "courseLegacyCode":  "M727",
+	"courseTitle_en": 	 "Sustainable Strategies For Existing Federal Facilities",
+	"courseTitle_fr": 	 "Stratégies durables pour les installations fédérales existantes",
 	"courseSubtitle_en": "",
 	"courseSubtitle_fr": "",
-	"seriesTitle_en": 	 "<span class='first'>Operations, Maintenance</span><span class='second'>and Commissioning</span>",
-	"seriesTitle_fr": 	 "<span class='first'>Exploitation, entretien</span><span class='second'> et mise en service</span>",
+	"seriesTitle_en": 	 "<span class='first'>Sustainable Strategies</span><span class='second'>For Existing Federal Facilities</span>",
+	"seriesTitle_fr": 	 "<span class='first'>Stratégies durables </span><span class='second'>pour les installations fédérales existantes</span>",
 
 	"showSitemap":	  false,
 	"showToolbox": 	  true,

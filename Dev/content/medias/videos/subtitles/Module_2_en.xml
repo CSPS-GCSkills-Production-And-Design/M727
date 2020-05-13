@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" xml:id="p0" end="1.531s">Module 2, Identifying</p>
+      <p begin="1.555s" xml:id="p1" end="3.673s">Sustainability Opportunities.</p>
+      <p begin="6.49s" xml:id="p2" end="8.083s">In Module 2, we will look at</p>
+      <p begin="8.107s" xml:id="p3" end="9.7s">energy and facility managers'</p>
+      <p begin="9.7s" xml:id="p4" end="11.85s">typical tasks and responsibilities</p>
+      <p begin="11.85s" xml:id="p5" end="14.34s">and how to broaden them to<br />achieve multiple benefits</p>
+      <p begin="14.34s" xml:id="p6" end="15.6s">with a single action.</p>
+      <p begin="15.6s" xml:id="p7" end="17.51s">We will review the cyclical process</p>
+      <p begin="17.51s" xml:id="p8" end="19.08s">of implementing sustainability,</p>
+      <p begin="19.08s" xml:id="p9" end="21.4s">and ways to use decision points as bridges</p>
+      <p begin="21.4s" xml:id="p10" end="23.26s">to sustainable strategies.</p>
+      <p begin="25.61s" xml:id="p11" end="28.11s">The process for integrating<br />sustainability measures</p>
+      <p begin="28.11s" xml:id="p12" end="29.39s">into strategic goals</p>
+      <p begin="29.39s" xml:id="p13" end="32.22s">can generally be summarized in four steps.</p>
+      <p begin="32.22s" xml:id="p14" end="35.04s">Evaluate current requirements<br />and opportunities;</p>
+      <p begin="35.04s" xml:id="p15" end="38.04s">engage a team and operational performance;</p>
+      <p begin="38.04s" xml:id="p16" end="41.77s">develop, evaluate, and implement<br />sustainability measures;</p>
+      <p begin="41.77s" xml:id="p17" end="44.93s">revisit and revise goals and activities.</p>
+      <p begin="44.93s" xml:id="p18" end="47.26s">These steps outline a cycle<br />that should be followed</p>
+      <p begin="47.26s" xml:id="p19" end="50.25s">to ensure that consistent<br />improvements are being made.</p>
+      <p begin="50.25s" xml:id="p20" end="53.62s">Now let's take a look at the<br />first step in more detail.</p>
+      <p begin="53.62s" xml:id="p21" end="56.74s">The process of evaluating<br />current requirements</p>
+      <p begin="56.74s" xml:id="p22" end="59.57s">and opportunities begins by<br />developing an understanding</p>
+      <p begin="59.57s" xml:id="p23" end="62.25s">of a facility's<br />sustainability requirements.</p>
+      <p begin="62.25s" xml:id="p24" end="64.39s">Once an understanding<br />has been established,</p>
+      <p begin="64.39s" xml:id="p25" end="67.33s">the facility team could proceed<br />to identify opportunities</p>
+      <p begin="67.33s" xml:id="p26" end="69.88s">to expand sustainability efforts.</p>
+      <p begin="71.3s" xml:id="p27" end="73.88s">Meeting broad based sustainability goals</p>
+      <p begin="73.88s" xml:id="p28" end="76.55s">may or may not be part of<br />your formal job description</p>
+      <p begin="76.55s" xml:id="p29" end="78.11s">and job performance criteria.</p>
+      <p begin="78.11s" xml:id="p30" end="80.34s">If not, you can still<br />advance sustainability</p>
+      <p begin="80.34s" xml:id="p31" end="82.62s">by taking advantage of key opportunities</p>
+      <p begin="82.62s" xml:id="p32" end="84.25s">in the tasks you already perform</p>
+      <p begin="84.25s" xml:id="p33" end="86.88s">to include broader<br />sustainability measures.</p>
+      <p begin="86.88s" xml:id="p34" end="89.69s">Common opportunities to<br />incorporate sustainability</p>
+      <p begin="89.69s" xml:id="p35" end="91.217s">in your decision making include</p>
+      <p begin="91.217s" xml:id="p36" end="95.88s">undergoing a renovation or<br />upgrade, revising O&amp;M contracts,</p>
+      <p begin="95.88s" xml:id="p37" end="98.49s">replacing inefficient or aging equipment,</p>
+      <p begin="98.49s" xml:id="p38" end="102.77s">schedule preventive O&amp;M,<br />repurposing of office space.</p>
+      <p begin="102.77s" xml:id="p39" end="104.07s">Let's go over some examples</p>
+      <p begin="104.07s" xml:id="p40" end="105.67s">to see how these decision points</p>
+      <p begin="105.67s" xml:id="p41" end="108.443s">can affect the overall<br />sustainability of a building.</p>
+      <p begin="109.44s" xml:id="p42" end="111.17s">Undergoing a renovation or addition</p>
+      <p begin="111.17s" xml:id="p43" end="113.47s">offers many opportunities for integrating</p>
+      <p begin="113.47s" xml:id="p44" end="116.24s">and bundling low-cost<br />sustainability measures.</p>
+      <p begin="116.24s" xml:id="p45" end="119.43s">A common example is the<br />construction of a new parking lot.</p>
+      <p begin="119.43s" xml:id="p46" end="122.17s">After an initial assessment,<br />your team might identify</p>
+      <p begin="122.17s" xml:id="p47" end="123.8s">multiple opportunities to improve</p>
+      <p begin="123.8s" xml:id="p48" end="125.75s">the project's sustainability quotient</p>
+      <p begin="125.75s" xml:id="p49" end="128.25s">such as including clauses in the RFP</p>
+      <p begin="128.25s" xml:id="p50" end="131.16s">that require recycled content concrete,</p>
+      <p begin="131.16s" xml:id="p51" end="133.24s">requiring highly efficient lighting,</p>
+      <p begin="133.24s" xml:id="p52" end="134.41s">and including requirements</p>
+      <p begin="134.41s" xml:id="p53" end="136.85s">for electrical vehicle charging stations.</p>
+      <p begin="136.85s" xml:id="p54" end="138.0s">In addition to meeting the needs</p>
+      <p begin="138.0s" xml:id="p55" end="139.79s">of your facility's growing workforce,</p>
+      <p begin="139.79s" xml:id="p56" end="142.47s">these measures will have other<br />short and long-term impacts</p>
+      <p begin="142.47s" xml:id="p57" end="146.32s">such as reducing waste by using<br />recycled content products;</p>
+      <p begin="146.32s" xml:id="p58" end="147.58s">improving worker safety</p>
+      <p begin="147.58s" xml:id="p59" end="149.37s">with better, more efficient lighting;</p>
+      <p begin="149.37s" xml:id="p60" end="152.26s">and encouraging the purchase<br />and use of electric vehicles.</p>
+      <p begin="153.7s" xml:id="p61" end="156.72s">Revising O&amp;M contracts<br />is a great opportunity</p>
+      <p begin="156.73s" xml:id="p62" end="158.39s">to improve sustainability.</p>
+      <p begin="158.39s" xml:id="p63" end="160.9s">A common example is the<br />development of an RFP</p>
+      <p begin="160.9s" xml:id="p64" end="163.52s">for a new contractor to<br />clean your facilities.</p>
+      <p begin="163.52s" xml:id="p65" end="165.4s">This task presents several opportunities</p>
+      <p begin="165.4s" xml:id="p66" end="169.4s">to add sustainability requirements<br />such as including clauses</p>
+      <p begin="169.4s" xml:id="p67" end="172.5s">that require bio-based,<br />non-toxic cleaning products;</p>
+      <p begin="172.5s" xml:id="p68" end="175.06s">incorporating sustainability<br />performance metrics</p>
+      <p begin="175.06s" xml:id="p69" end="176.66s">into vendor subcontracts;</p>
+      <p begin="176.66s" xml:id="p70" end="179.2s">requiring ENERGY STAR-designated products;</p>
+      <p begin="179.2s" xml:id="p71" end="181.7s">and using local labor<br />and small businesses.</p>
+      <p begin="181.7s" xml:id="p72" end="183.26s">The impacts of this decision</p>
+      <p begin="183.27s" xml:id="p73" end="185.72s">are improving indoor environmental quality</p>
+      <p begin="185.72s" xml:id="p74" end="188.64s">and improving workforce<br />health and job satisfaction.</p>
+      <p begin="189.8s" xml:id="p75" end="191.82s">A common equipment replacement project</p>
+      <p begin="191.82s" xml:id="p76" end="193.64s">is the replacing of the<br />heating, ventilation,</p>
+      <p begin="193.64s" xml:id="p77" end="196.7s">and air conditioning<br />system, also known as HVAC.</p>
+      <p begin="196.7s" xml:id="p78" end="199.33s">The opportunities related<br />to taking on such a project</p>
+      <p begin="199.33s" xml:id="p79" end="202.32s">include potential to<br />downsize the new HVAC system</p>
+      <p begin="202.32s" xml:id="p80" end="204.34s">based on calculated cost savings</p>
+      <p begin="204.34s" xml:id="p81" end="206.17s">from improving the building envelope;</p>
+      <p begin="206.17s" xml:id="p82" end="209.1s">potential to use dual heating<br />and cooling technologies;</p>
+      <p begin="209.1s" xml:id="p83" end="210.32s">commissioning the new system</p>
+      <p begin="210.32s" xml:id="p84" end="212.0s">and integrating existing systems</p>
+      <p begin="212.0s" xml:id="p85" end="213.79s">for improved energy performance;</p>
+      <p begin="213.79s" xml:id="p86" end="216.93s">and consider running<br />systems using clean energy.</p>
+      <p begin="216.93s" xml:id="p87" end="218.97s">The decision point can<br />affect sustainability</p>
+      <p begin="218.97s" xml:id="p88" end="220.4s">in the following ways.</p>
+      <p begin="220.4s" xml:id="p89" end="221.94s">Improving the energy efficiency</p>
+      <p begin="221.94s" xml:id="p90" end="224.28s">and energy use intensity of the building,</p>
+      <p begin="224.28s" xml:id="p91" end="227.11s">improving ventilation<br />and indoor air quality,</p>
+      <p begin="227.11s" xml:id="p92" end="229.82s">increasing occupant<br />comfort and productivity,</p>
+      <p begin="229.82s" xml:id="p93" end="233.043s">and reducing the need for<br />HAVAC repairs and downtime.</p>
+      <p begin="234.29s" xml:id="p94" end="236.4s">Your facility's preventive<br />maintenance routine</p>
+      <p begin="236.4s" xml:id="p95" end="237.89s">offers many opportunities</p>
+      <p begin="237.89s" xml:id="p96" end="240.42s">to identify sustainability improvements.</p>
+      <p begin="240.42s" xml:id="p97" end="242.04s">Consider the following opportunities</p>
+      <p begin="242.04s" xml:id="p98" end="243.8s">when performing commissioning activities</p>
+      <p begin="243.8s" xml:id="p99" end="246.48s">for the HVAC and building<br />automation systems.</p>
+      <p begin="246.48s" xml:id="p100" end="248.09s">Select a commissioning contractor</p>
+      <p begin="248.09s" xml:id="p101" end="250.5s">with sustainability<br />credentials and experience;</p>
+      <p begin="250.5s" xml:id="p102" end="253.86s">adjust building automation systems<br />to reflect actual occupancy;</p>
+      <p begin="253.86s" xml:id="p103" end="257.47s">establish an energy baseline<br />and develop a benchmark</p>
+      <p begin="257.47s" xml:id="p104" end="260.85s">to track progress; develop<br />energy conservation measures</p>
+      <p begin="260.85s" xml:id="p105" end="262.47s">based on these results.</p>
+      <p begin="262.47s" xml:id="p106" end="264.77s">Performing commissioning<br />activities on the HVAC</p>
+      <p begin="264.77s" xml:id="p107" end="266.24s">and building automation systems</p>
+      <p begin="266.24s" xml:id="p108" end="269.89s">can improve occupant comfort<br />during occupied office hours,</p>
+      <p begin="269.89s" xml:id="p109" end="273.01s">reduce manual overrides of<br />the building automation system</p>
+      <p begin="273.01s" xml:id="p110" end="275.0s">which improves energy efficiency,</p>
+      <p begin="275.0s" xml:id="p111" end="276.93s">improve worker health and safety,</p>
+      <p begin="276.93s" xml:id="p112" end="279.48s">and reduce greenhouse gas emissions.</p>
+      <p begin="280.62s" xml:id="p113" end="283.4s">Repurposing office space<br />offers many opportunities</p>
+      <p begin="283.4s" xml:id="p114" end="285.12s">for sustainable upgrades.</p>
+      <p begin="285.12s" xml:id="p115" end="286.76s">For instance, if your team is charged</p>
+      <p begin="286.76s" xml:id="p116" end="289.46s">with repurposing a floor<br />in an office building,</p>
+      <p begin="289.46s" xml:id="p117" end="292.54s">you should evaluate the benefits<br />of recycling old furniture</p>
+      <p begin="292.54s" xml:id="p118" end="294.14s">and building materials;</p>
+      <p begin="294.14s" xml:id="p119" end="296.47s">selecting new materials<br />and furniture that is made</p>
+      <p begin="296.47s" xml:id="p120" end="300.77s">from recycled content, bio-based,<br />and has low VOC finishes;</p>
+      <p begin="300.77s" xml:id="p121" end="303.18s">selecting partitions<br />with reflective surfaces</p>
+      <p begin="303.18s" xml:id="p122" end="305.02s">and lower heights to improve electric</p>
+      <p begin="305.02s" xml:id="p123" end="306.6s">and day lighting potentials;</p>
+      <p begin="306.6s" xml:id="p124" end="309.32s">purchasing and installing<br />efficient task lighting;</p>
+      <p begin="309.32s" xml:id="p125" end="313.06s">and selecting low VOC,<br />non-toxic, bio-based paints.</p>
+      <p begin="313.06s" xml:id="p126" end="314.82s">These measures can have a big impact</p>
+      <p begin="314.82s" xml:id="p127" end="316.65s">both in terms of reducing energy use</p>
+      <p begin="316.65s" xml:id="p128" end="318.85s">and improving indoor<br />environmental conditions</p>
+      <p begin="318.85s" xml:id="p129" end="319.95s">for employees.</p>
+      <p begin="319.95s" xml:id="p130" end="322.3s">The related impacts<br />are improved indoor air</p>
+      <p begin="322.3s" xml:id="p131" end="325.06s">and environmental quality,<br />improved lighting efficiency,</p>
+      <p begin="325.06s" xml:id="p132" end="326.86s">and improved plug loads.</p>
+      <p begin="328.76s" xml:id="p133" end="329.88s">In Module 2,</p>
+      <p begin="329.88s" xml:id="p134" end="332.49s">we reviewed the typical<br />tasks and responsibilities</p>
+      <p begin="332.49s" xml:id="p135" end="333.62s">and how they can be broadened</p>
+      <p begin="333.62s" xml:id="p136" end="335.6s">to include a sustainability component,</p>
+      <p begin="335.6s" xml:id="p137" end="337.37s">we introduced the four-step process</p>
+      <p begin="337.37s" xml:id="p138" end="340.36s">for integrating sustainability<br />into a strategic plan,</p>
+      <p begin="340.36s" xml:id="p139" end="342.95s">we covered key decision<br />points in job tasks</p>
+      <p begin="342.95s" xml:id="p140" end="345.64s">that can expand<br />sustainability opportunities.</p>
+      <p begin="345.64s" xml:id="p141" end="346.61s">In the next module,</p>
+      <p begin="346.61s" xml:id="p142" end="348.63s">we'll cover ways to<br />benchmark your efforts,</p>
+      <p begin="348.63s" xml:id="p143" end="350.85s">use software tools to chart your progress,</p>
+      <p begin="350.85s" xml:id="p144" end="353.56s">and ways to engage your<br />team in institutional change</p>
+      <p begin="353.56s" xml:id="p145" end="355.583s">towards sustainable operations.</p>
+    </div>
+  </body>
+</tt>

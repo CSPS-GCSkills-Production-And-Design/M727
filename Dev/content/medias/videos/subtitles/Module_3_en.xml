@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="2.7s" xml:id="p0" end="6.7s">Module 3, Engaging Your<br />Organization For Maximum Impact.</p>
+      <p begin="6.7s" xml:id="p1" end="8.86s">This module will discuss best practices</p>
+      <p begin="8.86s" xml:id="p2" end="12.3s">for organizing an interdisciplinary<br />sustainability team,</p>
+      <p begin="12.3s" xml:id="p3" end="14.88s">and determining your<br />facility's initial baseline</p>
+      <p begin="14.88s" xml:id="p4" end="17.28s">and subsequent benchmarks<br />for energy and water use,</p>
+      <p begin="17.28s" xml:id="p5" end="20.3s">greenhouse gas emissions,<br />and sustainability measures.</p>
+      <p begin="22.3s" xml:id="p6" end="24.84s">In this module, we will<br />cover important aspects</p>
+      <p begin="24.84s" xml:id="p7" end="26.44s">related to team engagement</p>
+      <p begin="26.44s" xml:id="p8" end="29.17s">and the measurement of<br />operational performance.</p>
+      <p begin="29.17s" xml:id="p9" end="30.48s">This stage of the process</p>
+      <p begin="30.48s" xml:id="p10" end="32.91s">includes the formation<br />of a sustainability team,</p>
+      <p begin="32.91s" xml:id="p11" end="34.93s">the measurement of baseline performance,</p>
+      <p begin="34.93s" xml:id="p12" end="37.65s">and the establishment of<br />performance benchmarks.</p>
+      <p begin="37.65s" xml:id="p13" end="40.17s">In the following slides, we<br />will discuss the importance</p>
+      <p begin="40.17s" xml:id="p14" end="42.8s">of identifying and<br />engaging key team members</p>
+      <p begin="42.8s" xml:id="p15" end="45.41s">to play important roles<br />using software tools</p>
+      <p begin="45.41s" xml:id="p16" end="47.09s">for energy performance benchmarking</p>
+      <p begin="47.09s" xml:id="p17" end="50.81s">such as ENERGY STAR Portfolio<br />Manager or RETScreen,</p>
+      <p begin="50.81s" xml:id="p18" end="53.388s">establishing clear baselines<br />for tracking progress,</p>
+      <p begin="53.388s" xml:id="p19" end="55.91s">and developing an effective action plan</p>
+      <p begin="55.91s" xml:id="p20" end="58.88s">based on well-informed<br />goals and strategies.</p>
+      <p begin="60.34s" xml:id="p21" end="63.14s">Energy and facility managers<br />are directly involved</p>
+      <p begin="63.15s" xml:id="p22" end="65.99s">in a range of energy and<br />resource efficiency improvements</p>
+      <p begin="65.99s" xml:id="p23" end="69.02s">from new construction to<br />retrofits to equipment upgrades</p>
+      <p begin="69.02s" xml:id="p24" end="70.8s">and installation of controls.</p>
+      <p begin="70.8s" xml:id="p25" end="73.9s">Successful projects require<br />the coordination of individuals</p>
+      <p begin="73.9s" xml:id="p26" end="76.4s">with diverse roles and responsibilities.</p>
+      <p begin="76.4s" xml:id="p27" end="78.16s">Buy-in and support are critical</p>
+      <p begin="78.16s" xml:id="p28" end="80.2s">at individual and group levels.</p>
+      <p begin="80.2s" xml:id="p29" end="83.04s">Incorporating sustainability<br />into current projects</p>
+      <p begin="83.04s" xml:id="p30" end="85.41s">usually requires you to<br />expand your project team</p>
+      <p begin="85.41s" xml:id="p31" end="88.53s">to include various<br />resource-specific disciplines.</p>
+      <p begin="88.53s" xml:id="p32" end="90.32s">A sustainability or green team</p>
+      <p begin="90.32s" xml:id="p33" end="92.58s">that includes an<br />interdisciplinary perspective</p>
+      <p begin="92.58s" xml:id="p34" end="95.7s">can provide comprehensive<br />and effective solutions.</p>
+      <p begin="95.7s" xml:id="p35" end="98.81s">A green team is usually led<br />by a sustainability champion</p>
+      <p begin="98.81s" xml:id="p36" end="100.64s">who is committed and enthusiastic</p>
+      <p begin="100.64s" xml:id="p37" end="103.83s">about making a change towards<br />a more sustainable facility.</p>
+      <p begin="103.83s" xml:id="p38" end="106.51s">Sustainability champions<br />should surround themselves</p>
+      <p begin="106.51s" xml:id="p39" end="109.27s">with a core team comprised<br />of key stakeholders</p>
+      <p begin="109.27s" xml:id="p40" end="112.2s">such as energy managers,<br />property managers,</p>
+      <p begin="112.2s" xml:id="p41" end="115.7s">procurement officers, or<br />sustainability coordinators.</p>
+      <p begin="115.7s" xml:id="p42" end="117.83s">Additional team members<br />should also participate</p>
+      <p begin="117.83s" xml:id="p43" end="119.28s">in the green team discussions</p>
+      <p begin="119.28s" xml:id="p44" end="121.17s">to provide an outside perspective</p>
+      <p begin="121.17s" xml:id="p45" end="123.06s">on the initiatives at hand.</p>
+      <p begin="123.06s" xml:id="p46" end="124.2s">Additional team members</p>
+      <p begin="124.2s" xml:id="p47" end="127.64s">include human resources<br />representatives, financial officers,</p>
+      <p begin="127.64s" xml:id="p48" end="129.896s">O&amp;M contractors, and others.</p>
+      <p begin="129.896s" xml:id="p49" end="131.7s">Sustainability operations</p>
+      <p begin="131.7s" xml:id="p50" end="133.69s">are unique to the facility's content</p>
+      <p begin="133.69s" xml:id="p51" end="135.52s">so gather your team accordingly.</p>
+      <p begin="135.52s" xml:id="p52" end="137.48s">Work with management to help identify</p>
+      <p begin="137.48s" xml:id="p53" end="139.56s">and recruit employees with a role to play</p>
+      <p begin="139.56s" xml:id="p54" end="142.12s">such as those involved in<br />procurement, recycling,</p>
+      <p begin="142.12s" xml:id="p55" end="144.9s">and other waste management<br />related job tasks.</p>
+      <p begin="145.94s" xml:id="p56" end="147.18s">The size of your team</p>
+      <p begin="147.18s" xml:id="p57" end="149.23s">may depend on the size<br />of your organization</p>
+      <p begin="149.23s" xml:id="p58" end="150.41s">but should have enough members</p>
+      <p begin="150.41s" xml:id="p59" end="152.51s">to explore holistic solutions.</p>
+      <p begin="152.51s" xml:id="p60" end="154.65s">In all cases, a sustainability team</p>
+      <p begin="154.65s" xml:id="p61" end="157.18s">will be responsible for<br />selecting, coordinating,</p>
+      <p begin="157.18s" xml:id="p62" end="158.8s">and implementing a project.</p>
+      <p begin="158.8s" xml:id="p63" end="161.67s">It will also track progress<br />including benchmarking,</p>
+      <p begin="161.67s" xml:id="p64" end="163.72s">monitoring, and evaluating performance.</p>
+      <p begin="163.72s" xml:id="p65" end="165.14s">Finally, the team effort</p>
+      <p begin="165.14s" xml:id="p66" end="167.38s">should include recording best practices,</p>
+      <p begin="167.38s" xml:id="p67" end="169.84s">delivering training,<br />communicating results,</p>
+      <p begin="169.84s" xml:id="p68" end="172.96s">celebrating achievement,<br />and providing recognition.</p>
+      <p begin="173.62s" xml:id="p69" end="176.27s">Human behavior is a<br />frequently overlooked element</p>
+      <p begin="176.27s" xml:id="p70" end="179.13s">in achieving aggressive<br />building performance goals.</p>
+      <p begin="179.13s" xml:id="p71" end="181.63s">Changing behavior requires<br />understanding occupant</p>
+      <p begin="181.63s" xml:id="p72" end="183.61s">and user habits and motivations.</p>
+      <p begin="183.61s" xml:id="p73" end="186.78s">Be sure to include individuals<br />on your sustainability team</p>
+      <p begin="186.78s" xml:id="p74" end="190.01s">that can help pinpoint and<br />address occupant behavior issues</p>
+      <p begin="190.01s" xml:id="p75" end="193.68s">and promote change using<br />targeted outreach and education.</p>
+      <p begin="193.68s" xml:id="p76" end="195.74s">The most common performance inefficiencies</p>
+      <p begin="195.74s" xml:id="p77" end="197.15s">caused by human behavior</p>
+      <p begin="197.15s" xml:id="p78" end="200.04s">include new or unfamiliar<br />building technologies;</p>
+      <p begin="200.04s" xml:id="p79" end="203.03s">lack of understanding,<br />education, and training;</p>
+      <p begin="203.03s" xml:id="p80" end="206.97s">inaccessible information or<br />ineffective feedback mechanisms;</p>
+      <p begin="206.97s" xml:id="p81" end="209.53s">and cultural norms and<br />institutional protocols</p>
+      <p begin="209.53s" xml:id="p82" end="211.76s">that do not foster sustainability.</p>
+      <p begin="212.9s" xml:id="p83" end="215.32s">Deploying an action<br />plan to address barriers</p>
+      <p begin="215.32s" xml:id="p84" end="217.46s">has three main parts.</p>
+      <p begin="217.46s" xml:id="p85" end="220.34s">First, creating an effective<br />communications plan</p>
+      <p begin="220.34s" xml:id="p86" end="222.12s">includes the project's objectives,</p>
+      <p begin="222.12s" xml:id="p87" end="223.35s">how they will be implemented,</p>
+      <p begin="223.35s" xml:id="p88" end="225.37s">and expectations for occupants.</p>
+      <p begin="225.37s" xml:id="p89" end="227.51s">Messages should be<br />delivered and reinforced</p>
+      <p begin="227.51s" xml:id="p90" end="230.063s">by senior management and<br />sustainability team members</p>
+      <p begin="230.063s" xml:id="p91" end="233.99s">in person, in presentations,<br />and on the site's intranet.</p>
+      <p begin="233.99s" xml:id="p92" end="237.18s">Second, education and training<br />should provide the foundation</p>
+      <p begin="237.18s" xml:id="p93" end="239.5s">for continuous improvement<br />through workshops</p>
+      <p begin="239.5s" xml:id="p94" end="240.49s">or other training.</p>
+      <p begin="240.49s" xml:id="p95" end="242.61s">Third, effective feedback tools</p>
+      <p begin="242.61s" xml:id="p96" end="245.31s">should include focus groups and surveys.</p>
+      <p begin="245.31s" xml:id="p97" end="247.06s">The key for successful messaging</p>
+      <p begin="247.06s" xml:id="p98" end="249.08s">is to show that the project is aligned</p>
+      <p begin="249.08s" xml:id="p99" end="252.12s">with the organization's mission<br />and sustainability vision</p>
+      <p begin="252.12s" xml:id="p100" end="255.19s">and promotes the occupant's<br />stewardship responsibility.</p>
+      <p begin="255.19s" xml:id="p101" end="258.03s">The action plan should integrate<br />the following principles;</p>
+      <p begin="258.03s" xml:id="p102" end="259.88s">awareness of the need for change,</p>
+      <p begin="259.88s" xml:id="p103" end="262.86s">desire to participate<br />and support the project,</p>
+      <p begin="262.86s" xml:id="p104" end="264.61s">knowledge of what is required,</p>
+      <p begin="264.61s" xml:id="p105" end="267.95s">ability to implement new<br />skills and associated behavior,</p>
+      <p begin="267.95s" xml:id="p106" end="270.333s">reinforcement to keep change in place.</p>
+      <p begin="271.44s" xml:id="p107" end="273.26s">Your facility's long-term success</p>
+      <p begin="273.26s" xml:id="p108" end="276.44s">will hinge on an ability to<br />collectively create and adopt</p>
+      <p begin="276.44s" xml:id="p109" end="278.17s">a sustainability ethic.</p>
+      <p begin="278.17s" xml:id="p110" end="281.07s">Studies show that fostering<br />a culture of sustainability</p>
+      <p begin="281.07s" xml:id="p111" end="283.48s">requires supportive resources and policies</p>
+      <p begin="283.48s" xml:id="p112" end="286.45s">that empower change,<br />well-trained program staff,</p>
+      <p begin="286.45s" xml:id="p113" end="288.35s">and engaged senior management.</p>
+      <p begin="288.35s" xml:id="p114" end="290.69s">A successful sustainability policy</p>
+      <p begin="290.69s" xml:id="p115" end="293.16s">will set the stage for long-term success,</p>
+      <p begin="293.16s" xml:id="p116" end="296.08s">clearly define what sustainability<br />means for employees,</p>
+      <p begin="296.08s" xml:id="p117" end="298.13s">and demonstrate how it<br />helps the department</p>
+      <p begin="298.13s" xml:id="p118" end="300.2s">meet its critical mission.</p>
+      <p begin="301.24s" xml:id="p119" end="303.78s">Prior to any launch, prepare a briefing</p>
+      <p begin="303.78s" xml:id="p120" end="305.79s">to gain support of senior management.</p>
+      <p begin="305.79s" xml:id="p121" end="307.66s">This step is critical to the success</p>
+      <p begin="307.66s" xml:id="p122" end="309.43s">of a sustainability action plan</p>
+      <p begin="309.43s" xml:id="p123" end="311.11s">as the support from senior management</p>
+      <p begin="311.11s" xml:id="p124" end="313.5s">can make or break any given initiative.</p>
+      <p begin="313.5s" xml:id="p125" end="315.0s">Once the team has been assembled,</p>
+      <p begin="315.0s" xml:id="p126" end="317.31s">the first step is to<br />organize a kickoff meeting</p>
+      <p begin="317.31s" xml:id="p127" end="319.96s">to develop a plan and<br />schedule future meetings.</p>
+      <p begin="319.96s" xml:id="p128" end="322.69s">At the kickoff meeting,<br />introduce team members and roles</p>
+      <p begin="322.69s" xml:id="p129" end="324.36s">and set expectations.</p>
+      <p begin="324.36s" xml:id="p130" end="326.43s">The next step is to determine a baseline</p>
+      <p begin="326.43s" xml:id="p131" end="327.44s">of building performance</p>
+      <p begin="327.44s" xml:id="p132" end="329.3s">and establish a performance benchmark</p>
+      <p begin="329.3s" xml:id="p133" end="330.63s">for which to aim for.</p>
+      <p begin="330.63s" xml:id="p134" end="333.13s">From there, team members<br />can identify problems</p>
+      <p begin="333.13s" xml:id="p135" end="335.65s">and opportunities for<br />improvement and as a group,</p>
+      <p begin="335.65s" xml:id="p136" end="338.53s">justify efforts to move<br />forward and make a change.</p>
+      <p begin="338.53s" xml:id="p137" end="340.49s">The first project that a team takes on</p>
+      <p begin="340.49s" xml:id="p138" end="341.72s">should be one that is simple</p>
+      <p begin="341.72s" xml:id="p139" end="344.0s">and provides quick results and payback.</p>
+      <p begin="344.0s" xml:id="p140" end="346.71s">This will help build momentum<br />and gain further support</p>
+      <p begin="346.71s" xml:id="p141" end="347.973s">from senior management.</p>
+      <p begin="348.93s" xml:id="p142" end="352.26s">Your team's first task should<br />be to establish a baseline</p>
+      <p begin="352.26s" xml:id="p143" end="355.04s">and benchmark of energy<br />consumption, water use,</p>
+      <p begin="355.04s" xml:id="p144" end="356.8s">and greenhouse gas emissions.</p>
+      <p begin="356.8s" xml:id="p145" end="359.83s">A baseline establishes a<br />facility's energy or water use</p>
+      <p begin="359.83s" xml:id="p146" end="361.82s">for a set period as a point of reference</p>
+      <p begin="361.82s" xml:id="p147" end="363.11s">for future comparison.</p>
+      <p begin="363.11s" xml:id="p148" end="364.98s">A baseline provides the starting point</p>
+      <p begin="364.98s" xml:id="p149" end="367.46s">for setting goals and<br />evaluating future efforts</p>
+      <p begin="367.46s" xml:id="p150" end="369.13s">and overall performance.</p>
+      <p begin="369.13s" xml:id="p151" end="371.49s">12 months of data<br />provides a solid baseline</p>
+      <p begin="371.49s" xml:id="p152" end="372.94s">for most facilities.</p>
+      <p begin="372.94s" xml:id="p153" end="375.177s">Benchmarking is a process to account for</p>
+      <p begin="375.177s" xml:id="p154" end="378.04s">and compare a metered<br />building's current performance</p>
+      <p begin="378.04s" xml:id="p155" end="379.57s">against its own baseline</p>
+      <p begin="379.57s" xml:id="p156" end="381.98s">or against other similar<br />types of buildings.</p>
+      <p begin="381.98s" xml:id="p157" end="383.497s">Benchmarking can chart progress</p>
+      <p begin="383.497s" xml:id="p158" end="387.11s">on several important datasets,<br />which can help inform goals;</p>
+      <p begin="387.11s" xml:id="p159" end="390.64s">set targets and timelines;<br />document resource use;</p>
+      <p begin="390.64s" xml:id="p160" end="393.25s">verify uses and costs of energy, water,</p>
+      <p begin="393.25s" xml:id="p161" end="394.82s">and greenhouse gas emissions;</p>
+      <p begin="394.82s" xml:id="p162" end="396.84s">pinpoint energy and water leaks;</p>
+      <p begin="396.84s" xml:id="p163" end="398.94s">and identify billing errors.</p>
+      <p begin="400.58s" xml:id="p164" end="402.52s">ENERGY STAR Portfolio Manager</p>
+      <p begin="402.52s" xml:id="p165" end="405.86s">is an online management and<br />tracking tool most widely used</p>
+      <p begin="405.86s" xml:id="p166" end="408.25s">for measuring energy and<br />water use in buildings.</p>
+      <p begin="408.25s" xml:id="p167" end="411.23s">It includes features to manage<br />energy and water consumption,</p>
+      <p begin="411.23s" xml:id="p168" end="413.11s">rate building energy performance,</p>
+      <p begin="413.11s" xml:id="p169" end="416.61s">estimate your carbon footprint,<br />set investment priorities,</p>
+      <p begin="416.61s" xml:id="p170" end="419.06s">verify and track progress of projects,</p>
+      <p begin="419.06s" xml:id="p171" end="421.84s">gain recognition, access related tools,</p>
+      <p begin="421.84s" xml:id="p172" end="425.18s">and track other<br />third-party certifications.</p>
+      <p begin="427.2s" xml:id="p173" end="429.9s">While all buildings can<br />use Portfolio Manager</p>
+      <p begin="429.9s" xml:id="p174" end="432.24s">to track and assess energy and water use,</p>
+      <p begin="432.24s" xml:id="p175" end="434.81s">there are currently only<br />seven building types eligible</p>
+      <p begin="434.81s" xml:id="p176" end="436.95s">for an energy score in Canada.</p>
+      <p begin="436.95s" xml:id="p177" end="440.92s">These building types are K-12<br />schools, commercial offices,</p>
+      <p begin="440.92s" xml:id="p178" end="445.86s">hospitals, supermarkets, and<br />food stores, medical offices,</p>
+      <p begin="445.86s" xml:id="p179" end="449.5s">senior care communities, and<br />residential care facilities,</p>
+      <p begin="449.5s" xml:id="p180" end="451.74s">and ice/curling rinks.</p>
+      <p begin="451.74s" xml:id="p181" end="454.71s">If your building type is not<br />currently eligible for a score</p>
+      <p begin="454.71s" xml:id="p182" end="456.76s">keep in mind that Natural Resources Canada</p>
+      <p begin="456.76s" xml:id="p183" end="459.86s">will be developing new<br />scores on a progressive basis</p>
+      <p begin="459.86s" xml:id="p184" end="461.86s">and your building type could be next.</p>
+      <p begin="463.76s" xml:id="p185" end="464.8s">Taking the right steps</p>
+      <p begin="464.81s" xml:id="p186" end="468.07s">to ensure that benchmarking<br />data is consistent and accurate</p>
+      <p begin="468.07s" xml:id="p187" end="470.86s">may take some time, but<br />will lay a solid foundation</p>
+      <p begin="470.86s" xml:id="p188" end="472.78s">for sustainability initiatives.</p>
+      <p begin="472.78s" xml:id="p189" end="474.82s">Be sure to develop a benchmarking plan</p>
+      <p begin="474.82s" xml:id="p190" end="477.55s">to outline a strategic<br />approach to the process.</p>
+      <p begin="477.55s" xml:id="p191" end="478.82s">Document a clear picture</p>
+      <p begin="478.82s" xml:id="p192" end="481.61s">of how the data is currently<br />being measured and used.</p>
+      <p begin="481.61s" xml:id="p193" end="483.56s">Consider bringing an outside consultant</p>
+      <p begin="483.56s" xml:id="p194" end="486.56s">or third-party provider, like<br />an energy service company,</p>
+      <p begin="486.56s" xml:id="p195" end="488.09s">to guide the process.</p>
+      <p begin="488.09s" xml:id="p196" end="490.24s">Consistently train all staff involved</p>
+      <p begin="490.24s" xml:id="p197" end="492.569s">in the collection of<br />data and input process.</p>
+      <p begin="492.569s" xml:id="p198" end="496.3s">Use available tools and resources<br />to make compliance easier.</p>
+      <p begin="497.14s" xml:id="p199" end="498.6s">Another powerful tool</p>
+      <p begin="498.6s" xml:id="p200" end="501.24s">for the management of energy<br />performance is RETScreen.</p>
+      <p begin="501.24s" xml:id="p201" end="502.98s">Developed by the government of Canada,</p>
+      <p begin="502.98s" xml:id="p202" end="505.92s">RETScreen Expert is a<br />software for energy efficiency</p>
+      <p begin="505.92s" xml:id="p203" end="508.66s">and renewable energy<br />project feasibility analysis</p>
+      <p begin="508.66s" xml:id="p204" end="511.54s">as well as ongoing energy<br />performance analysis.</p>
+      <p begin="511.54s" xml:id="p205" end="513.13s">This tool has many functions</p>
+      <p begin="513.13s" xml:id="p206" end="516.28s">and can be used to perform<br />portfolio-wide analysis,</p>
+      <p begin="516.28s" xml:id="p207" end="518.23s">collect information on a facility,</p>
+      <p begin="518.23s" xml:id="p208" end="520.37s">perform benchmarking analysis,</p>
+      <p begin="520.37s" xml:id="p209" end="522.83s">track energy and greenhouse gas emissions,</p>
+      <p begin="522.83s" xml:id="p210" end="525.17s">and for general performance analysis.</p>
+      <p begin="525.17s" xml:id="p211" end="528.07s">This tool is used widely<br />throughout government and industry.</p>
+      <p begin="528.07s" xml:id="p212" end="531.71s">Some of the key users<br />include 3M, CRH Canada,</p>
+      <p begin="531.71s" xml:id="p213" end="534.23s">Oxford Properties, Canadian Tire,</p>
+      <p begin="534.23s" xml:id="p214" end="537.76s">The Coalition of Ontario<br />Universities, National Defence,</p>
+      <p begin="537.76s" xml:id="p215" end="539.87s">Public Services &amp; Procurement Canada,</p>
+      <p begin="539.87s" xml:id="p216" end="541.743s">and Natural Resources Canada.</p>
+      <p begin="544.67s" xml:id="p217" end="546.95s">In Module 3, we<br />discussed best practices</p>
+      <p begin="546.95s" xml:id="p218" end="548.34s">to engage your organization</p>
+      <p begin="548.34s" xml:id="p219" end="550.84s">in developing specific measurable goals.</p>
+      <p begin="550.84s" xml:id="p220" end="553.16s">This process involves engaging all those</p>
+      <p begin="553.16s" xml:id="p221" end="555.69s">who play important roles<br />in achieving these goals</p>
+      <p begin="555.69s" xml:id="p222" end="556.92s">using available tools</p>
+      <p begin="556.92s" xml:id="p223" end="560.15s">such as ENERGY STAR Portfolio<br />Manager or RETScreen,</p>
+      <p begin="560.15s" xml:id="p224" end="563.31s">and establishing a baseline<br />and benchmarking your progress.</p>
+      <p begin="563.31s" xml:id="p225" end="566.16s">From there your team can<br />develop a specific action plan</p>
+      <p begin="566.16s" xml:id="p226" end="568.8s">based on well-informed<br />goals and strategies.</p>
+      <p begin="568.8s" xml:id="p227" end="571.88s">In module four, we discussed<br />steps related to developing,</p>
+      <p begin="571.88s" xml:id="p228" end="575.54s">evaluating, selecting, and<br />implementing sustainable measures</p>
+      <p begin="575.54s" xml:id="p229" end="578.643s">and explore common options<br />for sustainable upgrades.</p>
+    </div>
+  </body>
+</tt>

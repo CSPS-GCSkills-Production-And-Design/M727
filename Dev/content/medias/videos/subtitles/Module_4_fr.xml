@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="4.98s">Dans ce module, nous aborderons les pratiques<br />exemplaires afin de traduire votre base de</p>
+      <p begin="4.98s" xml:id="p1" end="10.599s">référence et vos ensembles de données d’analyse<br />comparative en objectifs de durabilité précis</p>
+      <p begin="10.599s" xml:id="p2" end="12.72s">et fondés sur des mesures.</p>
+      <p begin="12.72s" xml:id="p3" end="17.3s">À partir de là, votre équipe sera en mesure<br />de choisir et d’appliquer des mesures de</p>
+      <p begin="17.3s" xml:id="p4" end="22.82s">durabilité qui répondent aux besoins particuliers<br />de votre installation et de proposer des solutions</p>
+      <p begin="22.82s" xml:id="p5" end="25.0s">d’améliorations continues.</p>
+      <p begin="27.54s" xml:id="p6" end="32.4s">Les diapositives suivantes expliquent les<br />méthodes d’analyse de données et de définition</p>
+      <p begin="32.4s" xml:id="p7" end="37.379s">d’objectifs durables, l’évaluation de<br />différentes mesures de durabilité et l’élaboration</p>
+      <p begin="37.38s" xml:id="p8" end="39.88s">d’un plan d’action durable.</p>
+      <p begin="40.82s" xml:id="p9" end="45.66s">Les données issues de l’analyse comparative<br />permettront à votre équipe de formuler des</p>
+      <p begin="45.66s" xml:id="p10" end="50.12s">plans de rendement opérationnel pour chacun<br />des quatre éléments essentiels,</p>
+      <p begin="50.12s" xml:id="p11" end="52.32s">individuellement et collectivement.</p>
+      <p begin="52.32s" xml:id="p12" end="57.379s">L’étape suivante consiste à analyser les<br />données de l’analyse comparative afin de</p>
+      <p begin="57.38s" xml:id="p13" end="63.28s">déterminer des tendances dans la consommation<br />des ressources et d’estimer le potentiel d’amélioration.</p>
+      <p begin="63.28s" xml:id="p14" end="67.1s">On peut utiliser les données de l’analyse<br />comparative pour :</p>
+      <p begin="67.1s" xml:id="p15" end="72.36s">-Classer les installations par niveau de rendement<br />dans différents domaines de conformité;</p>
+      <p begin="72.38s" xml:id="p16" end="77.92s">-Repérer les installations à rendement élevé<br />afin de déterminer des pratiques reproductibles;</p>
+      <p begin="77.92s" xml:id="p17" end="82.94s">-Classer les installations à faible rendement<br />par ordre de priorité afin d’apporter des</p>
+      <p begin="82.94s" xml:id="p18" end="87.019s">améliorations immédiates;<br />-Déterminer des opportunités permettant</p>
+      <p begin="87.019s" xml:id="p19" end="89.769s">de faire des économies de ressources et de<br />coûts.</p>
+      <p begin="89.769s" xml:id="p20" end="95.069s">Dans Portfolio Manager, il est possible de<br />produire des rapports d’étape sur des installations</p>
+      <p begin="95.069s" xml:id="p21" end="98.34s">isolées et sur l’ensemble du portefeuille.</p>
+      <p begin="99.58s" xml:id="p22" end="103.98s">Les données de l’analyse comparative ont<br />une valeur réelle lorsqu’elles permettent</p>
+      <p begin="103.98s" xml:id="p23" end="108.04s">d’analyser des profils et des tendances<br />de la consommation de ressources.</p>
+      <p begin="108.04s" xml:id="p24" end="111.62s">Votre équipe devra déterminer quelle combinaison de méthodes d’analyse</p>
+      <p begin="111.62s" xml:id="p25" end="114.54s">répond le mieux aux besoins de votre installation.</p>
+      <p begin="114.54s" xml:id="p26" end="119.339s">L’analyse de données quantitatives vous<br />permettra de comparer la consommation et les</p>
+      <p begin="119.34s" xml:id="p27" end="123.96s">coûts des services publics dans le temps,<br />et dégagera des tendances. Il est essentiel</p>
+      <p begin="123.96s" xml:id="p28" end="128.36s">d’intégrer ces renseignements dans une<br />planification et des mesures stratégiques.</p>
+      <p begin="128.36s" xml:id="p29" end="134.12s">Profils de consommation : repérer les consommations<br />d’énergie maximales et minimales, puis</p>
+      <p begin="134.12s" xml:id="p30" end="138.16s">déterminer leur lien avec les activités<br />ou les événements importants.</p>
+      <p begin="138.16s" xml:id="p31" end="143.28s">Comparaisons de rendement : comparer les données<br />sur la consommation et le rendement d’installations</p>
+      <p begin="143.28s" xml:id="p32" end="149.56s">semblables sur votre site ou dans votre ministère.<br />Évaluations des répercussions financières :</p>
+      <p begin="149.56s" xml:id="p33" end="154.06s">repérer des domaines où les coûts de<br />consommation des ressources sont élevés.</p>
+      <p begin="154.069s" xml:id="p34" end="158.76s">L’analyse de données qualitatives permettra<br />d’examiner les rétroactions des occupants</p>
+      <p begin="158.77s" xml:id="p35" end="163.279s">d’un bâtiment et de tenir compte des préférences<br />et des comportements dans les valeurs et les</p>
+      <p begin="163.279s" xml:id="p36" end="168.09s">procédures de l’organisation en matière<br />de durabilité. Cela aura une influence sur</p>
+      <p begin="168.09s" xml:id="p37" end="172.48s">les résultats et offrira des choix durables.<br />Cela permettra également d’apporter des</p>
+      <p begin="172.48s" xml:id="p38" end="176.76s">améliorations continues et de garantir une<br />gestion adaptée.</p>
+      <p begin="176.76s" xml:id="p39" end="181.369s">Des entrevues peuvent servir à recueillir<br />des points de vue, des expériences et des</p>
+      <p begin="181.369s" xml:id="p40" end="185.76s">pratiques exemplaires auprès du personnel,<br />des occupants ou d’autres personnes d’un</p>
+      <p begin="185.76s" xml:id="p41" end="189.08s">bâtiment sur l’utilisation des systèmes<br />du bâtiment.</p>
+      <p begin="189.09s" xml:id="p42" end="193.361s">L’examen des politiques de l’organisation<br />et des procédures d’exploitation permet</p>
+      <p begin="193.361s" xml:id="p43" end="199.24s">de comprendre leurs effets positifs ou négatifs<br />sur la consommation des ressources.</p>
+      <p begin="200.96s" xml:id="p44" end="204.04s">Comment fixez-vous des objectifs de durabilité?</p>
+      <p begin="204.04s" xml:id="p45" end="209.36s">La meilleure façon est de commencer par recueillir<br />des données précises de l’analyse comparative.</p>
+      <p begin="209.36s" xml:id="p46" end="213.58s">Grâce à des données précises, l’équipe<br />de développement durable sera en mesure de</p>
+      <p begin="213.59s" xml:id="p47" end="217.759s">fixer des objectifs de rendement concrets<br />qui prennent en compte :</p>
+      <p begin="217.76s" xml:id="p48" end="223.36s">-les résultats de l’analyse comparative;<br />-les besoins et les mandats du gouvernement fédéral;</p>
+      <p begin="223.36s" xml:id="p49" end="226.86s">-les objectifs de durabilité stratégiques du ministère;</p>
+      <p begin="226.86s" xml:id="p50" end="229.42s">-les priorités pour l’installation en fonction</p>
+      <p begin="229.42s" xml:id="p51" end="233.52s">des résultats issus d’évaluations et de<br />vérifications techniques;</p>
+      <p begin="233.52s" xml:id="p52" end="236.84s">-les objectifs de rendement pour des installations<br />semblables.</p>
+      <p begin="236.84s" xml:id="p53" end="241.74s">Il est utile de créer un tableau présentant<br />une liste de tous les objectifs de rendement</p>
+      <p begin="241.75s" xml:id="p54" end="246.64s">durable potentiels. Grâce à ce tableau,<br />les intervenants externes pourront facilement</p>
+      <p begin="246.64s" xml:id="p55" end="250.0s">voir les avancées et leur évolution.</p>
+      <p begin="251.8s" xml:id="p56" end="257.04s">Pour fixer des objectifs significatifs convaincants,<br />il est nécessaire de mobiliser l’équipe</p>
+      <p begin="257.059s" xml:id="p57" end="261.809s">et de prévoir une série de réunions afin<br />d’examiner les résultats des analyses des</p>
+      <p begin="261.809s" xml:id="p58" end="267.42s">données, de discuter des écarts de rendement<br />et de réfléchir à des stratégies d’amélioration.</p>
+      <p begin="267.42s" xml:id="p59" end="273.06s">D’abord, établir un énoncé de vision<br />pour expliquer exactement comment la durabilité</p>
+      <p begin="273.06s" xml:id="p60" end="277.86s">permettra de remplir la mission définie pour<br />l’installation ou le ministère.</p>
+      <p begin="277.86s" xml:id="p61" end="283.14s">Ensuite, définir un ensemble de priorités<br />en matière de durabilité pour repérer les</p>
+      <p begin="283.14s" xml:id="p62" end="288.21s">domaines sur lesquels se concentrer ou les<br />points prioritaires propres à votre site.</p>
+      <p begin="288.21s" xml:id="p63" end="293.71s">Enfin, relier les objectifs de rendement aux<br />priorités avec des mesures précises correspondant</p>
+      <p begin="293.71s" xml:id="p64" end="295.16s">à chaque priorité.</p>
+      <p begin="295.16s" xml:id="p65" end="300.44s">Lorsque vous définissez une vision précise,<br />vos objectifs devraient apparaître clairement.</p>
+      <p begin="300.44s" xml:id="p66" end="305.299s">De ces objectifs émergeront vos critères.<br />Vous pouvez ensuite déterminer des points</p>
+      <p begin="305.299s" xml:id="p67" end="310.059s">de référence par rapport à ces critères.<br />Enfin, vous pouvez élaborer des méthodes</p>
+      <p begin="310.06s" xml:id="p68" end="312.46s">pour faire le suivi de vos résultats.</p>
+      <p begin="314.0s" xml:id="p69" end="319.08s">Travaillez avec votre équipe pour élaborer<br />des stratégies efficaces et faire le suivi</p>
+      <p begin="319.08s" xml:id="p70" end="322.62s">des avancées en utilisant les objectifs SMART :</p>
+      <p begin="322.62s" xml:id="p71" end="325.82s">Spécifique<br />Mesurable et maîtrisable</p>
+      <p begin="325.82s" xml:id="p72" end="328.12s">Atteignable<br />Réaliste</p>
+      <p begin="328.16s" xml:id="p73" end="329.5s">Temporel</p>
+      <p begin="329.54s" xml:id="p74" end="333.54s">Moyens courants d’exprimer des objectifs<br />en matière de durabilité :</p>
+      <p begin="333.54s" xml:id="p75" end="339.34s">Diminution définie : lorsque les objectifs<br />sont exprimés sous forme de quantité précise</p>
+      <p begin="339.34s" xml:id="p76" end="344.82s">ou de diminution en pourcentage, comme une<br />diminution de la consommation d’eau de 10 %</p>
+      <p begin="344.82s" xml:id="p77" end="349.46s">ou une diminution de la consommation annuelle<br />d’énergie de 300 kWh.</p>
+      <p begin="349.46s" xml:id="p78" end="354.34s">Meilleur de sa catégorie : lorsque les objectifs<br />sont exprimés sous forme de rendement d’un</p>
+      <p begin="354.34s" xml:id="p79" end="358.379s">certain niveau, par rapport à un point de<br />référence défini.</p>
+      <p begin="358.379s" xml:id="p80" end="363.08s">Amélioration de l’efficacité : lorsque<br />les objectifs sont exprimés sous forme de</p>
+      <p begin="363.08s" xml:id="p81" end="368.099s">fonction visant à réduire l’intensité<br />de la consommation de ressources d’un indicateur</p>
+      <p begin="368.1s" xml:id="p82" end="369.8s">de rendement particulier.</p>
+      <p begin="369.8s" xml:id="p83" end="374.76s">Amélioration de l’environnement : lorsque<br />les objectifs sont traduits sous forme d’économies</p>
+      <p begin="374.76s" xml:id="p84" end="380.94s">dans les objectifs de prévention de la pollution<br />ou des unités d’évitement d’utilisation de matériaux.</p>
+      <p begin="380.96s" xml:id="p85" end="385.4s">De plus, vous pourriez, pour votre installation,<br />vouloir fixer :</p>
+      <p begin="385.4s" xml:id="p86" end="391.52s">- des seuils : lorsque les objectifs sont exprimés sous forme de niveau de rendement minimal acceptable;</p>
+      <p begin="391.52s" xml:id="p87" end="394.6s">- des objectifs ambitieux : lorsque les objectifs</p>
+      <p begin="394.6s" xml:id="p88" end="398.84s">sont exprimés sous forme de niveaux supérieurs<br />aux objectifs types afin</p>
+      <p begin="398.84s" xml:id="p89" end="403.74s">- de créer un incitatif visant à obtenir de meilleurs résultats.</p>
+      <p begin="403.74s" xml:id="p90" end="408.559s">Grâce aux objectifs de rendement bien définis,<br />votre équipe peut désormais élaborer un</p>
+      <p begin="408.559s" xml:id="p91" end="411.93s">ensemble intégré de mesures en matière<br />de durabilité.</p>
+      <p begin="411.93s" xml:id="p92" end="417.0s">Ces mesures peuvent comprendre des projets,<br />des politiques et des procédures. Dans de</p>
+      <p begin="417.0s" xml:id="p93" end="421.74s">nombreux cas, votre équipe souhaitera combiner<br />de façon stratégique plusieurs de ces mesures</p>
+      <p begin="421.74s" xml:id="p94" end="423.52s">pour atteindre un objectif.</p>
+      <p begin="423.52s" xml:id="p95" end="427.46s">Aller au plus simple ou prendre des mesures<br />qui ne coûtent rien ou engendrent</p>
+      <p begin="427.46s" xml:id="p96" end="432.019s">de faibles coûts comme :<br />-Des réparations ou de l’entretien préventif</p>
+      <p begin="432.019s" xml:id="p97" end="436.829s">programmé des systèmes du bâtiment;<br />-Des modifications des politiques de fonctionnement</p>
+      <p begin="436.829s" xml:id="p98" end="440.54s">et d’entretien, d’achat et de la gestion<br />immobilière;</p>
+      <p begin="440.54s" xml:id="p99" end="445.92s">- Des mises à niveau écoénergétiques des<br />appareils d’éclairage et des installations d’eau.</p>
+      <p begin="445.92s" xml:id="p100" end="450.86s">Une autre façon d’améliorer la durabilité<br />de votre installation est de changer le comportement</p>
+      <p begin="450.869s" xml:id="p101" end="454.661s">des occupants.<br />Jusqu’à 30 % de la consommation de ressources</p>
+      <p begin="454.661s" xml:id="p102" end="459.18s">d’une installation est touché par le comportement<br />des occupants d’un bâtiment.</p>
+      <p begin="459.18s" xml:id="p103" end="464.359s">Intégrer des mesures en matière de durabilité<br />qui ciblent le comportement des utilisateurs</p>
+      <p begin="464.359s" xml:id="p104" end="467.589s">ou exploitants d’un bâtiment de façon<br />stratégique.</p>
+      <p begin="467.589s" xml:id="p105" end="472.619s">Former les exploitants d’un bâtiment, notamment<br />les gestionnaires immobiliers, le personnel</p>
+      <p begin="472.62s" xml:id="p106" end="477.78s">du fonctionnement et de l’entretien et le<br />personnel de nettoyage peut être très payant.</p>
+      <p begin="477.78s" xml:id="p107" end="482.78s">Former les occupants sur la consommation des<br />ressources peut entraîner d’importantes économies.</p>
+      <p begin="482.78s" xml:id="p108" end="485.74s">Voici des exemples de comportements<br />bénéfiques :</p>
+      <p begin="485.74s" xml:id="p109" end="490.84s">- Éteindre la lumière et les appareils partagés<br />lorsqu’ils ne sont pas utilisés;</p>
+      <p begin="490.84s" xml:id="p110" end="494.62s">-Généraliser les copies recto verso dans<br />tout le bâtiment;</p>
+      <p begin="494.629s" xml:id="p111" end="499.46s">-Diminuer la charge de branchement en débranchant<br />l’équipement à la barre d’alimentation;</p>
+      <p begin="499.46s" xml:id="p112" end="503.42s">-Emprunter les escaliers pour les courts déplacements<br />entre étages;</p>
+      <p begin="503.42s" xml:id="p113" end="508.34s">-Utiliser l’eau du robinet ou de la fontaine<br />réfrigérée à la place de bouteilles d’eau;</p>
+      <p begin="508.34s" xml:id="p114" end="511.98s">-Faire du covoiturage ou utiliser les transports<br />en commun.</p>
+      <p begin="511.98s" xml:id="p115" end="516.52s">Après avoir passé en revue les mesures les<br />plus simples et les changements de comportement</p>
+      <p begin="516.52s" xml:id="p116" end="520.22s">des occupants, examinez l’intégration de mesures de durabilité</p>
+      <p begin="520.22s" xml:id="p117" end="523.26s">dans les projets d’amélioration d’immobilisations :</p>
+      <p begin="523.26s" xml:id="p118" end="524.8s">- S’assurer que tout l’équipement est</p>
+      <p begin="524.8s" xml:id="p119" end="529.18s">préparé, mis en service, réglé et fonctionne<br />efficacement;</p>
+      <p begin="529.18s" xml:id="p120" end="534.3s">- Évaluer les besoins actuels ainsi que la<br />bonne taille de l’équipement de remplacement;</p>
+      <p begin="534.3s" xml:id="p121" end="538.74s">- Déterminer les composants et les modèles<br />les plus écoénergétiques lors du remplacement</p>
+      <p begin="538.74s" xml:id="p122" end="541.96s">de l’équipement;<br />- Intégrer des caractéristiques de conception</p>
+      <p begin="541.96s" xml:id="p123" end="547.7s">durable dans le projet, comme un site et un<br />aménagement paysager - rentables, le recours</p>
+      <p begin="547.71s" xml:id="p124" end="553.08s">à l’éclairage diurne, des matériaux recyclés,<br />une conception démontable et un système</p>
+      <p begin="553.08s" xml:id="p125" end="555.44s">de chauffage et de refroidissement passif.</p>
+      <p begin="555.44s" xml:id="p126" end="560.78s">Les options rentables d'après l'analyse du<br />coût du cycle de vie. En matière d’économie,</p>
+      <p begin="560.78s" xml:id="p127" end="565.319s">on estime que la conception d’un bâtiment<br />est rentable si les avantages qu’elle procure</p>
+      <p begin="565.32s" xml:id="p128" end="570.42s">équivalent à ceux des conceptions de rechange<br />et dont le coût de vie global est inférieur,</p>
+      <p begin="570.42s" xml:id="p129" end="575.42s">ou équivalent au coût total de propriété.<br />Pour le premier projet de votre équipe, il</p>
+      <p begin="575.42s" xml:id="p130" end="577.68s">est important de définir des mesures simples</p>
+      <p begin="577.68s" xml:id="p131" end="581.76s">qui entraînent un avancement ou des résultats rapidement.</p>
+      <p begin="582.88s" xml:id="p132" end="587.74s">Examinons quelques mesures écoénergétiques<br />qui peuvent permettre d’obtenir un environnement</p>
+      <p begin="587.74s" xml:id="p133" end="589.38s">durable et agréable.</p>
+      <p begin="589.38s" xml:id="p134" end="594.14s">Par exemple, adapter l’apport de lumière<br />diurne à l’aménagement afin de réduire</p>
+      <p begin="594.14s" xml:id="p135" end="598.22s">l’éclairage électrique et les charges<br />de chauffage et de refroidissement.</p>
+      <p begin="598.22s" xml:id="p136" end="600.84s">Plusieurs moyens permettent d’appliquer<br />ces mesures :</p>
+      <p begin="600.84s" xml:id="p137" end="605.02s">- Installer des tablettes réfléchissantes<br />pour accroître la réflexion de la lumière</p>
+      <p begin="605.02s" xml:id="p138" end="608.759s">pénétrant par les fenêtres.<br />- Installer des tubes d’éclairage au plafond</p>
+      <p begin="608.76s" xml:id="p139" end="613.849s">pour diffuser davantage de lumière naturelle.<br />- Installer des stores aux fenêtres ainsi</p>
+      <p begin="613.849s" xml:id="p140" end="617.42s">que des filtres anti-éblouissement sur les<br />postes de travail.</p>
+      <p begin="617.42s" xml:id="p141" end="621.92s">- Abaisser la hauteur des cloisons des postes<br />de travail à un mètre pour laisser passer</p>
+      <p begin="621.92s" xml:id="p142" end="626.18s">la lumière dans les bureaux tout en assurant<br />le respect de la vie privée.</p>
+      <p begin="626.18s" xml:id="p143" end="630.99s">- Maximiser le contact avec l’extérieur<br />afin d’augmenter le confort, la satisfaction</p>
+      <p begin="630.99s" xml:id="p144" end="635.1s">et la productivité des occupants.<br />- Fournir des commandes pour les stores de</p>
+      <p begin="635.1s" xml:id="p145" end="639.18s">fenêtre afin de permettre aux occupants de<br />gérer la lumière et la chaleur</p>
+      <p begin="639.18s" xml:id="p146" end="641.6s">pénétrant dans l’espace de travail.</p>
+      <p begin="642.04s" xml:id="p147" end="647.099s">Les systèmes de CVC sont en général les<br />équipements les plus énergivores des bâtiments</p>
+      <p begin="647.099s" xml:id="p148" end="651.4s">ou des installations et représentent le meilleur<br />moyen de faire des économies.</p>
+      <p begin="651.4s" xml:id="p149" end="657.049s">Dans les bâtiments neufs, installer les systèmes<br />de CVC au centre du bâtiment afin de conserver</p>
+      <p begin="657.049s" xml:id="p150" end="661.64s">l’air conditionné à proximité des espaces<br />de travail et d’éviter qu’il ne s’échappe</p>
+      <p begin="661.64s" xml:id="p151" end="667.19s">par les murs extérieurs. Dans les bâtiments<br />existants, remplacer les composants afin d’optimiser</p>
+      <p begin="667.19s" xml:id="p152" end="669.619s">le rendement de l’ensemble du système.</p>
+      <p begin="669.62s" xml:id="p153" end="673.349s">Parmi les mesures qui peuvent être prises<br />dans cette optique, mentionnons :</p>
+      <p begin="673.349s" xml:id="p154" end="678.08s">- La mise à niveau de l’isolation, des joints<br />de l’enveloppe du bâtiment et des fenêtres</p>
+      <p begin="678.08s" xml:id="p155" end="682.71s">afin de réduire la taille du système de<br />CVC et la consommation d’énergie.</p>
+      <p begin="682.71s" xml:id="p156" end="686.759s">- L’augmentation des taux de renouvellement<br />d’air pour remplacer l’air contaminé</p>
+      <p begin="686.759s" xml:id="p157" end="691.42s">avec de l’air filtré provenant de l’extérieur<br />afin d’améliorer le rendement du travail</p>
+      <p begin="691.42s" xml:id="p158" end="695.319s">et la santé des occupants.<br />-Le recours aux solutions de remise en service</p>
+      <p begin="695.319s" xml:id="p159" end="700.47s">ou de mise en service rétroactive des systèmes<br />de CVC afin de s’assurer qu’ils fonctionnent</p>
+      <p begin="700.47s" xml:id="p160" end="706.789s">selon les recommandations de la norme ASHRAE-90.1.<br />- L’affichage, si possible, des renseignements</p>
+      <p begin="706.789s" xml:id="p161" end="712.15s">sur les systèmes de CVC et les autres systèmes<br />utilisant des ressources dans des aires communes</p>
+      <p begin="712.15s" xml:id="p162" end="715.5s">afin d’informer tous les occupants du bâtiment.</p>
+      <p begin="716.28s" xml:id="p163" end="720.54s">Les mesures d’efficacité en matière de<br />consommation d’eau sont une autre façon</p>
+      <p begin="720.54s" xml:id="p164" end="725.3s">d’améliorer la durabilité d’une installation.<br />Les systèmes de collecte des eaux de pluie</p>
+      <p begin="725.3s" xml:id="p165" end="730.089s">permettent de recueillir et de réutiliser<br />l’eau non potable sur place pour irriguer</p>
+      <p begin="730.089s" xml:id="p166" end="734.2s">les terrains et réduire la consommation d’eau<br />potable et non potable.</p>
+      <p begin="734.2s" xml:id="p167" end="739.82s">En matière d’amélioration de la durabilité,<br />cette mesure présente les avantages suivants :</p>
+      <p begin="739.82s" xml:id="p168" end="741.86s">- Les toits verts réduisent grandement la</p>
+      <p begin="741.86s" xml:id="p169" end="744.819s">perte de chaleur à travers le revêtement<br />d’étanchéité.</p>
+      <p begin="744.82s" xml:id="p170" end="750.16s">- Les systèmes de collecte et de retenue des<br />eaux pluviales réduisent l’énergie nécessaire</p>
+      <p begin="750.16s" xml:id="p171" end="755.26s">pour pomper et traiter l’eau dans les municipalités.<br />- Les espèces de plantes de milieu humide</p>
+      <p begin="755.26s" xml:id="p172" end="760.32s">peuvent améliorer la qualité de l’eau<br />en procédant à la biodigestion des polluants.</p>
+      <p begin="760.32s" xml:id="p173" end="764.62s">Pour des raisons liées à la protection de<br />la santé humaine, les systèmes de collecte</p>
+      <p begin="764.62s" xml:id="p174" end="769.26s">des eaux grises et pluviales doivent être<br />conformes aux codes du bâtiment locaux.</p>
+      <p begin="770.46s" xml:id="p175" end="774.74s">Il existe des opportunités pour améliorer<br />l’efficience de l’eau dans les toilettes</p>
+      <p begin="774.74s" xml:id="p176" end="778.52s">d’une installation.<br />Voici quelques mesures à examiner lorsque</p>
+      <p begin="778.52s" xml:id="p177" end="781.5s">l’on cherche à améliorer l’efficience<br />de l’eau des toilettes :</p>
+      <p begin="781.5s" xml:id="p178" end="786.06s">- Mettre en œuvre une politique de remplacement<br />et de réaménagement d’appareils avec des</p>
+      <p begin="786.06s" xml:id="p179" end="790.1s">solutions d’efficience de l’eau avancées<br />sur le plan technologique par rapport aux</p>
+      <p begin="790.1s" xml:id="p180" end="794.54s">appareils conventionnels.<br />- Utiliser des urinoirs sans eau aux endroits</p>
+      <p begin="794.54s" xml:id="p181" end="800.08s">nécessaires et installer des robinets automatiques<br />ou à capteur pour accroître l’efficience.</p>
+      <p begin="800.08s" xml:id="p182" end="804.74s">- Utiliser le condensat d’un système de<br />CVC comme source d’eau non potable pour</p>
+      <p begin="804.74s" xml:id="p183" end="809.42s">la chasse des toilettes et des urinoirs.<br />- Élaborer un programme de détection de fuites</p>
+      <p begin="809.42s" xml:id="p184" end="812.52s">pour permettre aux occupants de signaler rapidement<br />les fuites.</p>
+      <p begin="812.52s" xml:id="p185" end="817.58s">La mise en œuvre de mesures de durabilité<br />dans les toilettes comporte des avantages :</p>
+      <p begin="817.58s" xml:id="p186" end="819.94s">- Les sèche-mains électriques automatiques</p>
+      <p begin="819.94s" xml:id="p187" end="825.12s">éliminent l’utilisation de papier.<br />- La chaleur résiduelle des systèmes de CVC</p>
+      <p begin="825.12s" xml:id="p188" end="828.64s">peut être utilisée pour préchauffer l’eau<br />chaude domestique.</p>
+      <p begin="828.64s" xml:id="p189" end="833.22s">- Les robinets à capteur automatiques réduisent<br />la transmission de germes entre occupants.</p>
+      <p begin="834.44s" xml:id="p190" end="839.82s">Le choix des matériaux de rénovation appropriés<br />peut contribuer à une exploitation plus durable.</p>
+      <p begin="839.82s" xml:id="p191" end="844.8s">Procurez-vous des matériaux durables, écologiques<br />et de longue durée de vie, de fournisseurs</p>
+      <p begin="844.8s" xml:id="p192" end="847.24s">locaux lors d’une rénovation majeure.</p>
+      <p begin="847.26s" xml:id="p193" end="852.0s">Cette mesure d’efficacité comprend :<br />- Le choix de matériaux locaux qui nécessitent</p>
+      <p begin="852.0s" xml:id="p194" end="855.14s">peu de transport et encouragent l’économie<br />locale.</p>
+      <p begin="855.14s" xml:id="p195" end="859.84s">- Le choix de matériaux peu polluants afin<br />d’obtenir un air intérieur sain.</p>
+      <p begin="860.56s" xml:id="p196" end="865.18s">Le compostage des déchets organiques est<br />un autre moyen d’améliorer la durabilité</p>
+      <p begin="865.18s" xml:id="p197" end="870.18s">opérationnelle d’une installation. Le<br />compostage permet d’éliminer correctement</p>
+      <p begin="870.19s" xml:id="p198" end="874.359s">les déchets et de réutiliser les matières<br />naturelles sous forme d’éléments nutritifs</p>
+      <p begin="874.36s" xml:id="p199" end="880.04s">aux fins d’aménagement paysager utile.<br />Le compostage présente les avantages suivants :</p>
+      <p begin="880.04s" xml:id="p200" end="882.58s">-Amélioration de la retenue de l’eau,</p>
+      <p begin="882.58s" xml:id="p201" end="886.06s">ce qui permet de réduire l’irrigation des<br />jardins et des sols.</p>
+      <p begin="886.06s" xml:id="p202" end="890.66s">Économies d’énergie et d’eau dues à<br />la diminution d’eau potable utilisée dans</p>
+      <p begin="890.66s" xml:id="p203" end="892.62s">l’élimination des déchets.</p>
+      <p begin="893.26s" xml:id="p204" end="898.0s">Le recours à des produits de nettoyage écologiques<br />au sein d’une installation contribue à</p>
+      <p begin="898.0s" xml:id="p205" end="902.279s">un environnement intérieur sain.<br />Une politique de nettoyage écologique visant</p>
+      <p begin="902.28s" xml:id="p206" end="907.46s">à acheter et à utiliser un équipement et des<br />bioproduits de nettoyage non toxiques et composés</p>
+      <p begin="907.46s" xml:id="p207" end="913.02s">de peu d’éléments organiques volatiles, voire<br />aucun, devrait être établie dans les installations.</p>
+      <p begin="913.02s" xml:id="p208" end="917.22s">Les bioproduits sont des produits commerciaux<br />ou industriels principalement</p>
+      <p begin="917.22s" xml:id="p209" end="922.38s">composés de produits biologiques, de matériaux<br />agricoles renouvelables (notamment des matières</p>
+      <p begin="922.38s" xml:id="p210" end="926.22s">végétales, animales ou marines) ou des matières<br />forestières.</p>
+      <p begin="926.22s" xml:id="p211" end="931.009s">Les produits de nettoyage écologiques utilisés<br />dans les toilettes et la préparation alimentaire</p>
+      <p begin="931.009s" xml:id="p212" end="936.28s">empêchent les toxines de pénétrer dans les canalisations d’aqueduc et d’égout de l’installation.</p>
+      <p begin="936.28s" xml:id="p213" end="938.86s">Les bioproduits de nettoyage non toxiques</p>
+      <p begin="938.86s" xml:id="p214" end="942.74s">contribuent à un environnement de travail<br />sain et sécuritaire.</p>
+      <p begin="943.3s" xml:id="p215" end="947.5s">L’utilisation de plantes d’intérieur<br />est une mesure contribuant à la qualité</p>
+      <p begin="947.5s" xml:id="p216" end="951.329s">de l’environnement intérieur.<br />Les plantes d’intérieur peuvent améliorer</p>
+      <p begin="951.329s" xml:id="p217" end="956.24s">la qualité de l’air, améliorer le confort<br />des espaces et accroître la satisfaction</p>
+      <p begin="956.24s" xml:id="p218" end="961.21s">du milieu de travail. Les plantes filtrent<br />l’air, retiennent le carbone, produisent</p>
+      <p begin="961.21s" xml:id="p219" end="965.69s">de l’oxygène et absorbent des produits<br />chimiques comme le benzène, le formaldéhyde</p>
+      <p begin="965.69s" xml:id="p220" end="967.44s">ou le trichloréthylène.</p>
+      <p begin="967.44s" xml:id="p221" end="972.079s">Envisager des murs « végétalisés » pour<br />créer des espaces intérieurs d’inspiration</p>
+      <p begin="972.08s" xml:id="p222" end="977.64s">et de contemplation, humidifier l’air et<br />améliorer la qualité de l’air intérieur.</p>
+      <p begin="978.66s" xml:id="p223" end="983.24s">L’acoustique intérieure peut jouer un rôle<br />important dans l’amélioration de la qualité</p>
+      <p begin="983.24s" xml:id="p224" end="985.28s">de l’environnement intérieur d’un bureau.</p>
+      <p begin="985.28s" xml:id="p225" end="989.879s">Une bonne acoustique intérieure est particulièrement<br />importante pour les employés travaillant</p>
+      <p begin="989.879s" xml:id="p226" end="994.549s">en espace ouvert. Les panneaux acoustiques<br />d’intérieur fabriqués avec des matériaux</p>
+      <p begin="994.549s" xml:id="p227" end="999.14s">écologiques représentent une excellente<br />solution pour réduire les niveaux de bruit</p>
+      <p begin="999.14s" xml:id="p228" end="1001.94s">sans nuire à la qualité de l’environnement<br />intérieur.</p>
+      <p begin="1001.94s" xml:id="p229" end="1006.58s">Les panneaux acoustiques d’intérieur translucides<br />bloquent les sons tout en laissant passer</p>
+      <p begin="1006.589s" xml:id="p230" end="1011.769s">la lumière diurne ou générale, ce qui peut<br />diminuer le recours à l’éclairage électrique.</p>
+      <p begin="1011.769s" xml:id="p231" end="1015.96s">Les mesures visant à améliorer l’acoustique<br />intérieure comprennent :</p>
+      <p begin="1015.96s" xml:id="p232" end="1020.47s">- L’utilisation de matériaux comme des tuiles<br />de plafond et des moquettes acoustiques pour</p>
+      <p begin="1020.47s" xml:id="p233" end="1025.54s">absorber le son, et le recours à des stratégies<br />visant à bloquer les sons comme la conception</p>
+      <p begin="1025.54s" xml:id="p234" end="1030.06s">d’espaces et l’installation de meubles<br />pour contenir les sources de bruit.</p>
+      <p begin="1031.2s" xml:id="p235" end="1036.339s">Le plan d'action durable est essentiel pour<br />renforcer l’engagement de votre installation</p>
+      <p begin="1036.34s" xml:id="p236" end="1040.48s">en faveur de la durabilité et pour maintenir<br />un élan important.</p>
+      <p begin="1040.48s" xml:id="p237" end="1045.94s">Les pratiques exemplaires visant à élaborer<br />un plan d’action durable sont les suivantes :</p>
+      <p begin="1045.94s" xml:id="p238" end="1048.28s">- Demander à la haute direction d’organiser</p>
+      <p begin="1048.28s" xml:id="p239" end="1053.76s">un événement de lancement officiel;<br />- Définir les rôles précis des membres de l’équipe;</p>
+      <p begin="1053.76s" xml:id="p240" end="1055.68s">- Veiller à ce que les attentes du projet</p>
+      <p begin="1055.68s" xml:id="p241" end="1059.54s">correspondent à la disponibilité et aux<br />tâches des membres de l’équipe;</p>
+      <p begin="1059.54s" xml:id="p242" end="1064.08s">- Tenir les membres de l'équipe constamment<br />à jour et solliciter leur avis;</p>
+      <p begin="1064.08s" xml:id="p243" end="1066.94s">- Fixer des délais réalisables pour les livrables</p>
+      <p begin="1066.94s" xml:id="p244" end="1068.76s">et les points de contrôle.</p>
+      <p begin="1069.14s" xml:id="p245" end="1074.22s">Résumer les résultats de l’analyse comparative<br />et des objectifs fixés dans un plan d’action</p>
+      <p begin="1074.22s" xml:id="p246" end="1078.539s">fournit des renseignements sur les avancements<br />de votre équipe et permet de les présenter</p>
+      <p begin="1078.539s" xml:id="p247" end="1084.68s">de manière efficace à la direction, au personnel<br />ou à un autre public. Envisagez d’actualiser</p>
+      <p begin="1084.68s" xml:id="p248" end="1086.68s">votre plan d’action chaque année.</p>
+      <p begin="1086.68s" xml:id="p249" end="1091.74s">Veillez à ce que votre plan d’action prenne<br />en compte les principaux éléments, par exemple :</p>
+      <p begin="1091.74s" xml:id="p250" end="1095.2s">- Objectif du programme en matière de durabilité;</p>
+      <p begin="1095.2s" xml:id="p251" end="1099.86s">- Vision, priorités et objectifs de rendement<br />en matière de durabilité;</p>
+      <p begin="1099.869s" xml:id="p252" end="1104.869s">- Résultats actuels de l’analyse comparative<br />concernant la base de référence.</p>
+      <p begin="1104.869s" xml:id="p253" end="1109.9s">Intégrer des étapes et des cibles techniques<br />pour chaque objectif de rendement, comme :</p>
+      <p begin="1109.9s" xml:id="p254" end="1115.339s">Mesures en matière de durabilité qui précisent<br />les actions et politiques visant à atteindre</p>
+      <p begin="1115.339s" xml:id="p255" end="1119.269s">chaque objectif;<br />Mesure essentielle du rendement qui définit</p>
+      <p begin="1119.269s" xml:id="p256" end="1122.7s">les unités utilisées pour faire le suivi<br />de l’avancement;</p>
+      <p begin="1122.7s" xml:id="p257" end="1126.8s">Établissement d’un calendrier de mise en<br />œuvre de chaque mesure;</p>
+      <p begin="1126.8s" xml:id="p258" end="1131.26s">Définition des rôles et des ressources de<br />l’équipe concernant chaque mesure;</p>
+      <p begin="1131.279s" xml:id="p259" end="1136.049s">Élaboration de plans d’accompagnement et<br />de communication visant à influer sur le</p>
+      <p begin="1136.049s" xml:id="p260" end="1139.16s">comportement des occupants et à obtenir du<br />soutien.</p>
+      <p begin="1139.16s" xml:id="p261" end="1143.4s">Intégrer également un programme de mesure<br />et d’établissement de rapports afin de</p>
+      <p begin="1143.4s" xml:id="p262" end="1145.36s">documenter l’avancement.</p>
+      <p begin="1146.04s" xml:id="p263" end="1151.799s">Dans le module 4, nous avons examiné l’analyse<br />comparative et l’analyse des données afin</p>
+      <p begin="1151.799s" xml:id="p264" end="1157.059s">de fixer des objectifs en matière de durabilité,<br />choisi et évalué des mesures en matière</p>
+      <p begin="1157.06s" xml:id="p265" end="1160.8s">de durabilité et élaboré un plan d’action<br />durable.</p>
+      <p begin="1160.8s" xml:id="p266" end="1165.43s">Dans le prochain module, nous parlerons de<br />l’importance de la durabilité comme cycle</p>
+      <p begin="1165.43s" xml:id="p267" end="1167.84s">d’amélioration continue.</p>
+    </div>
+  </body>
+</tt>

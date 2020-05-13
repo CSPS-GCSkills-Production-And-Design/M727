@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="7.0s">Bienvenue dans le module 5 où nous allons découvrir<br />la durabilité comme cycle d’amélioration continue.</p>
+      <p begin="9.42s" xml:id="p1" end="14.219s">Ce dernier module abordera les conséquences<br />d’un réexamen et d’une redéfinition</p>
+      <p begin="14.22s" xml:id="p2" end="19.26s">des objectifs et des activités.<br />Les mesures relatives à cette étape comprennent :</p>
+      <p begin="19.26s" xml:id="p3" end="24.74s">- Le suivi de l’avancement et la communication<br />sur celui-ci, le réexamen des objectifs et</p>
+      <p begin="24.74s" xml:id="p4" end="31.82s">l’apport d’ajustements stratégiques, le partage des leçons apprises et la reconnaissance des réalisations.</p>
+      <p begin="32.88s" xml:id="p5" end="37.78s">Votre équipe devrait prévoir de recueillir<br />de nouvelles données sur l’analyse comparative</p>
+      <p begin="37.789s" xml:id="p6" end="43.059s">au moins tous les six mois afin de déterminer<br />l’avancement de vos activités. Il est possible</p>
+      <p begin="43.059s" xml:id="p7" end="48.09s">d’actualiser toutes les données à la fois<br />pour une installation dans Portfolio Manager</p>
+      <p begin="48.09s" xml:id="p8" end="51.34s">en utilisant des modèles Excel.<br />Des vérifications</p>
+      <p begin="51.34s" xml:id="p9" end="56.78s">périodiques de l’avancement, par exemple tous<br />les trois à six mois, vous permettra de :</p>
+      <p begin="56.78s" xml:id="p10" end="58.84s">- Comparer les données sur la consommation</p>
+      <p begin="58.84s" xml:id="p11" end="62.92s">de ressources réelles avec les objectifs<br />fixés de votre équipe;</p>
+      <p begin="62.92s" xml:id="p12" end="68.74s">- Déterminer et mesurer l’efficacité;<br />- Déterminer des ajustements de mi-parcours;</p>
+      <p begin="68.74s" xml:id="p13" end="73.72s">- Déterminer les pratiques exemplaires;<br />- Prendre des décisions éclairées concernant</p>
+      <p begin="73.72s" xml:id="p14" end="77.12s">des projets ultérieurs;<br />- Reconnaître les réalisations</p>
+      <p begin="77.12s" xml:id="p15" end="79.42s">individuelles et collectives.</p>
+      <p begin="79.42s" xml:id="p16" end="83.759s">Au cours de l’étape de suivi, les membres<br />de l’équipe devraient fournir des mises</p>
+      <p begin="83.76s" xml:id="p17" end="89.069s">à jour régulières sur les tâches attribuées<br />et consigner précisément les activités.</p>
+      <p begin="89.069s" xml:id="p18" end="93.18s">Veillez à conserver :<br />- Les procès-verbaux de réunion;</p>
+      <p begin="93.18s" xml:id="p19" end="96.54s">- Les rapports d’étape;<br />- Les reçus de dépenses;</p>
+      <p begin="96.54s" xml:id="p20" end="100.98s">- Les notes et les résultats des entrevues,<br />des groupes d’étude ou des sondages;</p>
+      <p begin="100.98s" xml:id="p21" end="106.86s">- Les photos et vidéos des activités;<br />- Les présentations et les rapports faits à la direction.</p>
+      <p begin="107.74s" xml:id="p22" end="112.72s">Un ajustement de mi-parcours qui permet d’adapter<br />vos activités et de modifier les ressources</p>
+      <p begin="112.72s" xml:id="p23" end="117.34s">le cas échéant n’est pas nécessairement<br />dispendieux ni coûteux en temps.</p>
+      <p begin="117.34s" xml:id="p24" end="122.12s">Plusieurs appels téléphoniques, entrevues personnelles<br />ou discussions stratégiques avec votre équipe</p>
+      <p begin="122.13s" xml:id="p25" end="126.91s">ou un groupe d’employés du ministère peuvent<br />permettre de mettre en lumière ce qui fonctionne</p>
+      <p begin="126.91s" xml:id="p26" end="129.5s">bien et mal, ainsi que les raisons.</p>
+      <p begin="129.5s" xml:id="p27" end="133.85s">Formez un groupe de personnes interrogées<br />différentes sur le plan démographique et</p>
+      <p begin="133.85s" xml:id="p28" end="138.87s">issues de milieux de travail ou de services<br />différents. Garantissez-leur que leurs réponses</p>
+      <p begin="138.87s" xml:id="p29" end="142.949s">demeureront confidentielles et permettront<br />d’améliorer le projet.</p>
+      <p begin="142.949s" xml:id="p30" end="145.749s">Cherchez à obtenir des réponses aux questions<br />suivantes :</p>
+      <p begin="145.749s" xml:id="p31" end="150.779s">- Les mesures produisent-elles des résultats?<br />- La façon selon laquelle les données sont</p>
+      <p begin="150.78s" xml:id="p32" end="156.239s">reçues et examinées permet-elle de planifier<br />des objectifs et d’exécuter le projet?</p>
+      <p begin="156.24s" xml:id="p33" end="160.76s">- Les nouvelles politiques et procédures sont-elles<br />précises et compréhensibles?</p>
+      <p begin="160.76s" xml:id="p34" end="165.02s">- Les leçons apprises et les pratiques exemplaires<br />sont-elles documentées?</p>
+      <p begin="165.02s" xml:id="p35" end="169.48s">- Les données sont-elles reçues et suivies<br />de manière utile pour la planification et</p>
+      <p begin="169.48s" xml:id="p36" end="173.41s">l'exécution du projet?<br />Quels obstacles restent-ils pour l'atteinte</p>
+      <p begin="173.41s" xml:id="p37" end="175.06s">des objectifs fixés?</p>
+      <p begin="175.06s" xml:id="p38" end="179.42s">Écoutez les réponses avec attention, car<br />elles pourraient vous renseigner sur les corrections</p>
+      <p begin="179.42s" xml:id="p39" end="183.1s">à apporter aux communications ou aux politiques.</p>
+      <p begin="183.6s" xml:id="p40" end="187.96s">En plus d’établir des rapports, il est<br />essentiel que votre équipe réexamine et</p>
+      <p begin="187.98s" xml:id="p41" end="193.66s">ajuste régulièrement le plan d’action en fonction<br />du rendement actuel en vue de l’améliorer.</p>
+      <p begin="193.66s" xml:id="p42" end="197.92s">Un réexamen du plan d’action comprend les<br />principales étapes suivantes :</p>
+      <p begin="197.92s" xml:id="p43" end="201.98s">- Recueillir des réactions sur le programme<br />actuel et de nouvelles idées de l’équipe</p>
+      <p begin="201.98s" xml:id="p44" end="207.66s">responsable des mesures en matière d’énergie,<br />de la direction et des employés, y compris</p>
+      <p begin="207.66s" xml:id="p45" end="211.12s">les nouveaux employés. Veillez à ce que<br />les personnes chevronnées et les nouveaux</p>
+      <p begin="211.12s" xml:id="p46" end="216.56s">employés prennent part à cette discussion.<br />- Déterminer les principaux facteurs qui expliquent</p>
+      <p begin="216.56s" xml:id="p47" end="221.079s">l’atteinte ou non des objectifs annuels,<br />notamment les conséquences du comportement</p>
+      <p begin="221.08s" xml:id="p48" end="224.86s">du locataire.<br />- Déterminer et quantifier les avantages de</p>
+      <p begin="224.86s" xml:id="p49" end="230.26s">valeur ajoutée provenant de vos activités,<br />comme le confort des employés, l’accroissement</p>
+      <p begin="230.26s" xml:id="p50" end="235.04s">de la productivité et la satisfaction au<br />travail, ainsi que les dépenses réduites</p>
+      <p begin="235.04s" xml:id="p51" end="237.82s">en activités de fonctionnement et d’entretien.</p>
+      <p begin="237.82s" xml:id="p52" end="242.62s">C’est également une bonne occasion d’évaluer<br />le besoin d’une formation supplémentaire</p>
+      <p begin="242.62s" xml:id="p53" end="246.76s">sur les politiques et les procédures en matière<br />de durabilité, comme :</p>
+      <p begin="246.76s" xml:id="p54" end="252.38s">- des procédures sur de nouvelles activités<br />et sur l’entretien visant à favoriser la durabilité;</p>
+      <p begin="252.38s" xml:id="p55" end="255.02s">- des tâches administratives qui encouragent</p>
+      <p begin="255.02s" xml:id="p56" end="261.26s">la gestion de l’énergie, par exemple, l’établissement<br />de rapports, la surveillance et la collecte de données;</p>
+      <p begin="261.26s" xml:id="p57" end="263.54s">- Un programme d’orientation qui illustre</p>
+      <p begin="263.56s" xml:id="p58" end="266.38s">les comportements souhaités des nouveaux<br />employés.</p>
+      <p begin="266.38s" xml:id="p59" end="271.56s">C’est également une bonne occasion d’examiner<br />l’engagement interne de l’équipe. Au début,</p>
+      <p begin="271.56s" xml:id="p60" end="277.1s">les équipes sont en général galvanisées par l’excitation de se lancer dans une entreprise importante.</p>
+      <p begin="277.1s" xml:id="p61" end="282.2s">Sans attente, ressource, objectif,<br />rôle et calendrier précis ni reconnaissance</p>
+      <p begin="282.2s" xml:id="p62" end="287.74s">ou célébration des progrès réalisés,<br />une équipe peut rapidement oublier son engagement.</p>
+      <p begin="288.56s" xml:id="p63" end="293.7s">Une communication stratégique et cohérente<br />renforcera la compréhension, la capacité</p>
+      <p begin="293.7s" xml:id="p64" end="298.1s">et la volonté de vos employés à soutenir<br />les activités de votre équipe.</p>
+      <p begin="298.1s" xml:id="p65" end="302.539s">L’équipe de développement durable devrait<br />élaborer une stratégie visant à communiquer</p>
+      <p begin="302.54s" xml:id="p66" end="307.72s">ses objectifs, ses activités et les progrès<br />aux autres utilisateurs du bâtiment.</p>
+      <p begin="307.72s" xml:id="p67" end="312.12s">Une communication et une information cohérentes<br />permettront de développer une culture de</p>
+      <p begin="312.12s" xml:id="p68" end="317.5s">la conservation de l’énergie à long terme.<br />Assurer une communication actualisée en faisant</p>
+      <p begin="317.5s" xml:id="p69" end="322.38s">part des objectifs et des réalisations du<br />programme d’une nouvelle façon, par exemple :</p>
+      <p begin="322.38s" xml:id="p70" end="325.64s">- Concevoir un site Web ou un blogue sur l’intranet</p>
+      <p begin="325.64s" xml:id="p71" end="329.949s">pour publier des mises à jour, des conseils<br />et des renseignements particuliers;</p>
+      <p begin="329.949s" xml:id="p72" end="334.62s">- Utiliser des affiches et des présentations<br />visuelles pour mettre en lumière les réalisations</p>
+      <p begin="334.62s" xml:id="p73" end="338.3s">et les économies;<br />- Installer un « tableau d’étapes » créatif</p>
+      <p begin="338.3s" xml:id="p74" end="342.0s">dans un espace public central pour illustrer<br />l’avancement;</p>
+      <p begin="342.0s" xml:id="p75" end="346.36s">- Créer une section spéciale dans le bulletin<br />de nouvelles pour mettre de l’avant les</p>
+      <p begin="346.36s" xml:id="p76" end="349.46s">employés qui ont réalisé des économies<br />d’énergie;</p>
+      <p begin="349.46s" xml:id="p77" end="353.74s">- Soumettre des articles à imprimer et des<br />supports numériques mettant en lumière les</p>
+      <p begin="353.74s" xml:id="p78" end="358.02s">objectifs et les activités;<br />- Prévoir des mises à jour régulières lors</p>
+      <p begin="358.02s" xml:id="p79" end="362.56s">des réunions avec tout le personnel;<br />- Organiser un événement en parallèle au</p>
+      <p begin="362.56s" xml:id="p80" end="368.319s">Jour de la Terre ou à un autre événement<br />annuel largement observé dans votre installation.</p>
+      <p begin="368.74s" xml:id="p81" end="373.62s">Afin de poursuivre les efforts pour rendre<br />le gouvernement vert, vous devriez informer</p>
+      <p begin="373.63s" xml:id="p82" end="377.39s">la direction sur les tendances et les progrès<br />en matière de rendement.</p>
+      <p begin="377.39s" xml:id="p83" end="381.68s">En rendant compte à vos gestionnaires, vous<br />leur permettrez de déterminer les domaines</p>
+      <p begin="381.68s" xml:id="p84" end="386.809s">nécessitant une amélioration continue par<br />rapport à leurs priorités et de réaffirmer</p>
+      <p begin="386.809s" xml:id="p85" end="389.059s">leur engagement à l’égard du projet.</p>
+      <p begin="389.059s" xml:id="p86" end="393.38s">Vous pouvez rendre compte des résultats de<br />différentes manières, mais tout rapport</p>
+      <p begin="393.38s" xml:id="p87" end="398.789s">doit être adapté à votre public. La direction<br />souhaitera connaître les économies de coûts,</p>
+      <p begin="398.789s" xml:id="p88" end="402.799s">l’accroissement de la productivité, les<br />avantages accessoires comme l’amélioration</p>
+      <p begin="402.799s" xml:id="p89" end="407.65s">du moral et du confort des occupants d’un<br />bâtiment, ainsi que la nécessité d’atteindre</p>
+      <p begin="407.65s" xml:id="p90" end="411.38s">les objectifs du ministère et du gouvernement<br />fédéral.</p>
+      <p begin="411.8s" xml:id="p91" end="416.72s">Préparez des notes d’information ou des<br />résumés sur l’avancement pour la haute direction.</p>
+      <p begin="416.72s" xml:id="p92" end="419.02s">Les résumés devraient comprendre un sommaire</p>
+      <p begin="419.029s" xml:id="p93" end="422.959s">sur l’avancement de la planification et<br />de la mise en œuvre;</p>
+      <p begin="422.96s" xml:id="p94" end="430.7s">Résultats qualitatifs et quantitatifs;<br />Facteurs contribuant à atteindre ou non les objectifs;</p>
+      <p begin="430.7s" xml:id="p95" end="433.52s">Présentation convaincante des étapes suivantes</p>
+      <p begin="433.52s" xml:id="p96" end="436.46s">visant une amélioration continue;</p>
+      <p begin="436.46s" xml:id="p97" end="440.56s">Quel sera l'impact des résultats sur<br />la programmation future;</p>
+      <p begin="440.56s" xml:id="p98" end="442.91s">Possibilités d'économiser des ressources</p>
+      <p begin="442.91s" xml:id="p99" end="447.89s">et de l'argent supplémentaires;<br />Essayez d’utiliser des témoignages anecdotiques</p>
+      <p begin="447.89s" xml:id="p100" end="452.61s">pour appuyer les principaux résultats. Intégrez<br />des photos prises lors d’activités pour</p>
+      <p begin="452.61s" xml:id="p101" end="457.9s">imager vos réalisations et utiliser des graphiques<br />précis pour illustrer les économies d’énergie</p>
+      <p begin="457.9s" xml:id="p102" end="460.38s">et de coûts dans votre projet pilote.</p>
+      <p begin="461.76s" xml:id="p103" end="466.38s">La réussite à long terme de votre programme<br />de mesures en matière d’énergie repose</p>
+      <p begin="466.38s" xml:id="p104" end="471.64s">en grande partie sur le soutien et l’enthousiasme<br />permanents de vos employés. Élaborez un</p>
+      <p begin="471.64s" xml:id="p105" end="476.32s">programme de reconnaissance dans votre installation<br />afin de récompenser les personnes et les</p>
+      <p begin="476.329s" xml:id="p106" end="481.069s">groupes qui ont contribué à la réussite<br />de votre programme. Cela peut être formel</p>
+      <p begin="481.069s" xml:id="p107" end="486.13s">ou informel sans être nécessairement dispendieux.<br />Il est important que cette reconnaissance</p>
+      <p begin="486.13s" xml:id="p108" end="489.32s">soit publique et planifiée sur une base régulière.</p>
+      <p begin="489.32s" xml:id="p109" end="493.979s">Envisagez de récompenser les contributions<br />exceptionnelles en présentant des prix pour</p>
+      <p begin="493.979s" xml:id="p110" end="499.1s">la gestion de l’énergie interne. Offrez<br />des certificats de réussite ou publiez les</p>
+      <p begin="499.1s" xml:id="p111" end="503.42s">noms des personnes dans le bulletin de nouvelles<br />de l’organisation.</p>
+      <p begin="503.42s" xml:id="p112" end="509.54s">La reconnaissance peut être personnelle ou<br />par équipe en fonction de divers critères, comme :</p>
+      <p begin="509.54s" xml:id="p113" end="513.12s">- Projet en économies d’énergie le plus innovateur;</p>
+      <p begin="513.12s" xml:id="p114" end="515.6s">- Participation la plus grande;</p>
+      <p begin="515.6s" xml:id="p115" end="518.76s">- Réduction de la consommation d’énergie<br />la plus élevée;</p>
+      <p begin="518.76s" xml:id="p116" end="521.26s">- Économies de coûts les plus importantes.</p>
+      <p begin="521.26s" xml:id="p117" end="525.44s">Les formes de reconnaissance des membres d’une<br />équipe peuvent être différentes :</p>
+      <p begin="525.44s" xml:id="p118" end="531.7s">- Reconnaissance ou certificats officiels;<br />- Récompenses pécuniaires ou primes en espèces;</p>
+      <p begin="531.7s" xml:id="p119" end="534.84s">- Récompenses;<br />- Attention des médias.</p>
+      <p begin="536.22s" xml:id="p120" end="541.459s">Dans ce cours, nous avons examiné un certain<br />nombre de mesures importantes visant à mettre</p>
+      <p begin="541.46s" xml:id="p121" end="545.78s">en œuvre des stratégies durables dans les<br />installations fédérales existantes.</p>
+      <p begin="545.78s" xml:id="p122" end="550.84s">Le cours a traité les points suivants :<br />- La méthode de triple résultat en développement</p>
+      <p begin="550.84s" xml:id="p123" end="555.24s">durable et les éléments essentiels de la<br />gestion durable des installations,</p>
+      <p begin="555.24s" xml:id="p124" end="559.38s">- L'élargissement des pratiques de routine<br />pour inclure des mesures de durabilité et</p>
+      <p begin="559.38s" xml:id="p125" end="563.9s">atteindre les objectifs,<br />- la formation d’une équipe pluridisciplinaire</p>
+      <p begin="563.92s" xml:id="p126" end="569.3s">pour établir une base de référence et un point de référence visant à assurer l’avancement des projets,</p>
+      <p begin="569.3s" xml:id="p127" end="571.52s">- le choix et l’application de mesures en</p>
+      <p begin="571.52s" xml:id="p128" end="577.04s">matière de durabilité ayant divers avantages<br />et des répercussions transversales, et</p>
+      <p begin="577.04s" xml:id="p129" end="581.52s">- la création d’une structure visant à<br />obtenir une amélioration continue et des</p>
+      <p begin="581.52s" xml:id="p130" end="584.74s">ressources disponibles aux fins d’aide et<br />de formation.</p>
+      <p begin="584.74s" xml:id="p131" end="589.519s">Lors de l’évaluation des politiques en<br />matière de durabilité, on doit examiner</p>
+      <p begin="589.52s" xml:id="p132" end="593.42s">de nombreux objectifs stratégiques.<br />Les politiques doivent :</p>
+      <p begin="593.42s" xml:id="p133" end="598.82s">- Établir la responsabilité en matière d’énergie<br />en formant une chaîne de commandement, en</p>
+      <p begin="598.82s" xml:id="p134" end="604.219s">définissant les rôles au sein de l’organisation<br />et en accordant au personnel le droit d’élaborer</p>
+      <p begin="604.22s" xml:id="p135" end="607.479s">et de mettre en œuvre des procédures de<br />gestion de l’énergie.</p>
+      <p begin="607.48s" xml:id="p136" end="612.28s">- Assurer l’amélioration continue en instaurant<br />des mesures d’évaluation et de mise à</p>
+      <p begin="612.28s" xml:id="p137" end="617.86s">jour de la politique de gestion de l’énergie<br />afin de refléter les priorités et les besoins changeants.</p>
+      <p begin="617.86s" xml:id="p138" end="620.24s">- Cadrer avec les objectifs stratégiques</p>
+      <p begin="620.249s" xml:id="p139" end="625.3s">du ministère en matière de durabilité.<br />-Fixer des objectifs de rendement qui lient</p>
+      <p begin="625.3s" xml:id="p140" end="631.08s">les objectifs en matière de durabilité aux<br />objectifs financiers et à la mission de votre ministère.</p>
+      <p begin="631.08s" xml:id="p141" end="633.74s">Permettre de réinvestir, si possible, les</p>
+      <p begin="633.74s" xml:id="p142" end="638.4s">économies d’énergie dans les améliorations<br />apportées dans les installations.</p>
+      <p begin="638.4s" xml:id="p143" end="643.26s">Ensemble, nous pouvons donner l’exemple<br />en bâtissant un avenir durable.</p>
+      <p begin="644.3s" xml:id="p144" end="648.7s">RNCan et d’autres organismes fédéraux<br />fournissent d’importantes ressources, de</p>
+      <p begin="648.7s" xml:id="p145" end="653.32s">l’aide et de la formation pour vous permettre<br />d’élaborer des stratégies durables.</p>
+      <p begin="653.32s" xml:id="p146" end="658.3s">Exemples de ressources proposées :<br />- Le Cadre pancanadien sur la croissance propre</p>
+      <p begin="658.3s" xml:id="p147" end="662.22s">et les changements climatiques<br />- La Stratégie fédérale de développement</p>
+      <p begin="662.22s" xml:id="p148" end="666.98s">durable (SFDD)<br />-La Stratégie pour un gouvernement vert</p>
+      <p begin="666.98s" xml:id="p149" end="672.08s">Consultez également la publication de RNCan<br />intitulée Guide des pratiques exemplaires</p>
+      <p begin="672.08s" xml:id="p150" end="677.36s">en matière de gestion de l’énergie – Bâtiments<br />commerciaux et institutionnels. Ces ressources</p>
+      <p begin="677.36s" xml:id="p151" end="681.8s">peuvent permettre d’en apprendre davantage sur les engagements actifs du gouvernement</p>
+      <p begin="681.8s" xml:id="p152" end="687.6s">fédéral concernant les changements climatiques<br />et les stratégies visant à atteindre ces objectifs.</p>
+      <p begin="688.46s" xml:id="p153" end="695.54s">Parmi les autres ressources, mentionnons ENERGY<br />STAR Portfolio Manager et RETScreen.</p>
+      <p begin="696.4s" xml:id="p154" end="700.84s">Enfin, si vous avez des questions sur les<br />stratégies durables pour les installations</p>
+      <p begin="700.84s" xml:id="p155" end="705.66s">fédérales existantes ou êtes intéressé<br />par d’autres opportunités de formation,</p>
+      <p begin="705.66s" xml:id="p156" end="710.92s">n’hésitez pas à communiquer avec l’Office<br />de l’efficacité énergétique aux coordonnées fournies.</p>
+      <p begin="710.92s" xml:id="p157" end="713.32s">Notre adresse courriel est la suivante :</p>
+      <p begin="713.32s" xml:id="p158" end="720.7s">nrcan.greeninggovernment-gouvernementvert.rncan@canada.ca</p>
+      <p begin="720.7s" xml:id="p159" end="729.04s">Notre site Web se trouve à l’adresse:<br />http://www.rncan.gc.ca/gouvernementvert</p>
+      <p begin="729.04s" xml:id="p160" end="732.32s">Nous vous remercions de votre participation!</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="4.74s">Module 2 : Déterminer les opportunités de<br />durabilité</p>
+      <p begin="5.74s" xml:id="p1" end="11.56s">Dans le module 2, nous examinerons le processus<br />cyclique de la mise en œuvre de la durabilité</p>
+      <p begin="11.56s" xml:id="p2" end="14.9s">et les façons de recourir aux points<br />de décision essentiels</p>
+      <p begin="14.9s" xml:id="p3" end="17.48s">comme passerelles vers des stratégies durables.</p>
+      <p begin="18.56s" xml:id="p4" end="23.36s">De manière générale, on peut résumer le<br />processus d’intégration des mesures de</p>
+      <p begin="23.36s" xml:id="p5" end="27.08s">durabilité dans les objectifs stratégiques<br />en quatre étapes :</p>
+      <p begin="27.08s" xml:id="p6" end="30.98s">1. Évaluer les besoins et opportunités actuelles</p>
+      <p begin="30.98s" xml:id="p7" end="36.08s">2. Mobiliser une équipe et mesurer<br />le rendement opérationnel</p>
+      <p begin="36.08s" xml:id="p8" end="41.08s">3. Élaborer, évaluer et appliquer des mesures de durabilité</p>
+      <p begin="41.08s" xml:id="p9" end="45.8s">4. Réexaminer et redéfinir les objectifs et les activités</p>
+      <p begin="45.8s" xml:id="p10" end="50.24s">Ces étapes définissent un cycle que l’on<br />devrait suivre afin de s’assurer que des</p>
+      <p begin="50.24s" xml:id="p11" end="52.72s">améliorations continues sont apportées.</p>
+      <p begin="52.72s" xml:id="p12" end="56.159s">Examinons maintenant en détail la première<br />étape.</p>
+      <p begin="56.16s" xml:id="p13" end="61.18s">Le processus d’évaluation des besoins et<br />des opportunités actuelles commence par la</p>
+      <p begin="61.18s" xml:id="p14" end="65.2s">compréhension des besoins en matière de<br />durabilité pour un bâtiment.</p>
+      <p begin="65.2s" xml:id="p15" end="67.92s">Une fois cela compris, l’équipe des installations</p>
+      <p begin="67.92s" xml:id="p16" end="70.96s">peut déterminer des opportunités visant à élargir</p>
+      <p begin="70.979s" xml:id="p17" end="73.839s">les efforts en matière de durabilité.</p>
+      <p begin="73.84s" xml:id="p18" end="79.099s">Atteindre les objectifs de durabilité de<br />portée générale peut ou non faire partie</p>
+      <p begin="79.1s" xml:id="p19" end="83.84s">de votre description et de vos critères de<br />rendement professionnels officiels.</p>
+      <p begin="83.84s" xml:id="p20" end="89.42s">Sinon, vous pouvez toujours faire progresser la durabilité<br />en tirant parti des principales opportunités</p>
+      <p begin="89.42s" xml:id="p21" end="95.14s">dans les tâches que vous effectuez déjà<br />pour inclure des mesures de durabilité plus larges.</p>
+      <p begin="95.14s" xml:id="p22" end="101.06s">Les opportunités courantes visant à intégrer<br />la durabilité dans vos prises de décisions peuvent être :</p>
+      <p begin="101.06s" xml:id="p23" end="104.3s">• La réalisation de rénovations ou de<br />mises à niveau</p>
+      <p begin="104.3s" xml:id="p24" end="107.66s">• La révision des contrats de fonctionnement<br />et d’entretien</p>
+      <p begin="107.66s" xml:id="p25" end="111.2s">• Le remplacement de l’équipement inefficace<br />ou vieillissant</p>
+      <p begin="111.2s" xml:id="p26" end="115.86s">• La planification d’activités de fonctionnement<br />et d’entretien préventives</p>
+      <p begin="115.86s" xml:id="p27" end="118.52s">• La transformation de l’aménagement<br />de bureaux</p>
+      <p begin="118.52s" xml:id="p28" end="123.4s">Examinons quelques exemples pour voir comment<br />ces points de décision peuvent se répercuter</p>
+      <p begin="123.4s" xml:id="p29" end="127.02s">sur la durabilité globale d’un bâtiment.</p>
+      <p begin="127.48s" xml:id="p30" end="132.62s">Réaliser des rénovations ou faire des ajouts<br />donne de nombreuses occasions pour intégrer</p>
+      <p begin="132.63s" xml:id="p31" end="136.01s">et grouper des mesures de durabilité à faible<br />coût.</p>
+      <p begin="136.01s" xml:id="p32" end="139.38s">Un exemple courant est la construction d'un<br />nouveau parking.</p>
+      <p begin="139.38s" xml:id="p33" end="144.38s">Après une évaluation initiale, votre équipe<br />pourrait déterminer plusieurs occasions pour</p>
+      <p begin="144.38s" xml:id="p34" end="147.7s">améliorer le rapport de durabilité du projet<br />comme :</p>
+      <p begin="147.7s" xml:id="p35" end="154.08s">Inclure des clauses dans la demande de propositions<br />(DP) qui prévoient l’utilisation de béton recyclé;</p>
+      <p begin="154.08s" xml:id="p36" end="157.38s">- Exiger un éclairage à efficacité supérieure;</p>
+      <p begin="157.38s" xml:id="p37" end="162.18s">- Prévoir des besoins relatives aux bornes<br />de recharge pour véhicules électriques.</p>
+      <p begin="162.18s" xml:id="p38" end="167.2s">En plus de répondre aux besoins de la main-d’œuvre<br />grandissante de votre installation, ces mesures</p>
+      <p begin="167.2s" xml:id="p39" end="170.36s">auront d’autres répercussions à court<br />et à long terme :</p>
+      <p begin="170.36s" xml:id="p40" end="174.16s">- Réduire les déchets en utilisant des produits<br />recyclés;</p>
+      <p begin="174.16s" xml:id="p41" end="179.24s">- Améliorer la sécurité des travailleurs<br />en augmentant l’éclairage écoénergétique;</p>
+      <p begin="179.24s" xml:id="p42" end="183.88s">- Encourager l’achat et l’utilisation<br />de véhicules électriques.</p>
+      <p begin="184.72s" xml:id="p43" end="189.7s">Revoir les contrats de fonctionnement et d’entretien<br />est une excellente occasion de procéder à</p>
+      <p begin="189.7s" xml:id="p44" end="194.71s">des améliorations en matière de durabilité.<br />L’élaboration d’une DP pour recourir</p>
+      <p begin="194.71s" xml:id="p45" end="200.22s">aux services d’un nouvel entrepreneur pour<br />nettoyer vos installations est un exemple courant.</p>
+      <p begin="200.22s" xml:id="p46" end="205.26s">Cette tâche présente plusieurs occasions<br />pour ajouter des besoins de durabilité, comme :</p>
+      <p begin="205.26s" xml:id="p47" end="208.0s">-Inclure des clauses qui prévoient l’utilisation</p>
+      <p begin="208.0s" xml:id="p48" end="213.84s">de bioproduits de nettoyage non toxiques;<br />-Incorporer la mesure du rendement de la durabilité</p>
+      <p begin="213.84s" xml:id="p49" end="217.08s">dans les contrats de sous-traitance avec les<br />fournisseurs;</p>
+      <p begin="217.08s" xml:id="p50" end="222.14s">-Exiger des produits certifiés ENERGY STAR;<br />-Recourir à une main-d’œuvre et à de</p>
+      <p begin="222.14s" xml:id="p51" end="224.2s">petites entreprises locales.</p>
+      <p begin="224.2s" xml:id="p52" end="230.86s">Les impacts de cette décision sont :<br />-Améliorer la qualité de l'environnement intérieur et</p>
+      <p begin="230.86s" xml:id="p53" end="235.26s">-Améliorer la santé de la main-d'œuvre<br />et la satisfaction au travail</p>
+      <p begin="236.16s" xml:id="p54" end="240.5s">L’un des projets de remplacement d’un<br />équipement courants est le remplacement du</p>
+      <p begin="240.5s" xml:id="p55" end="244.92s">système de chauffage, ventilation et climatisation<br />(CVC).</p>
+      <p begin="244.92s" xml:id="p56" end="248.92s">Les occasions liées à la réalisation d’un<br />tel projet peuvent être :</p>
+      <p begin="248.92s" xml:id="p57" end="253.98s">-La possibilité de réduire la taille du<br />système de CVC en fonction des économies</p>
+      <p begin="253.98s" xml:id="p58" end="258.17s">sur les coûts calculés grâce à l'amélioration<br />de l'enveloppe du bâtiment.</p>
+      <p begin="258.17s" xml:id="p59" end="263.07s">-La possibilité d’utiliser des technologies<br />doubles de chauffage et de refroidissement;</p>
+      <p begin="263.07s" xml:id="p60" end="267.61s">-La mise en service d’un nouveau système<br />et l’intégration de systèmes existants</p>
+      <p begin="267.61s" xml:id="p61" end="271.0s">visant l’amélioration de l’efficacité<br />énergétique;</p>
+      <p begin="271.0s" xml:id="p62" end="275.86s">-L’intention de faire fonctionner le système<br />en utilisant de l’énergie propre.</p>
+      <p begin="275.86s" xml:id="p63" end="279.9s">Ce point de décision peut avoir des conséquences<br />sur la durabilité :</p>
+      <p begin="279.9s" xml:id="p64" end="283.94s">-en améliorant l’efficacité et l’intensité<br />énergétiques du bâtiment;</p>
+      <p begin="283.95s" xml:id="p65" end="287.94s">-en améliorant la ventilation et la qualité<br />de l’air intérieur;</p>
+      <p begin="287.94s" xml:id="p66" end="292.44s">-en améliorant le confort des occupants et<br />leur productivité; et</p>
+      <p begin="292.44s" xml:id="p67" end="297.58s">-en réduisant les réparations et le temps<br />d’arrêt des systèmes de CVC.</p>
+      <p begin="297.58s" xml:id="p68" end="302.7s">La routine d’entretien préventif de votre<br />installation offre de nombreuses opportunités</p>
+      <p begin="302.7s" xml:id="p69" end="307.14s">pour relever des améliorations à apporter<br />en matière de durabilité.</p>
+      <p begin="307.14s" xml:id="p70" end="312.03s">Examiner les opportunités suivantes au moment<br />de réaliser des mises en service des systèmes</p>
+      <p begin="312.03s" xml:id="p71" end="317.5s">de CVC et de contrôle automatique de bâtiments.<br />-Sélectionner un entrepreneur chargé de</p>
+      <p begin="317.5s" xml:id="p72" end="322.32s">la mise en service avec des références et<br />une expérience en matière de durabilité;</p>
+      <p begin="322.32s" xml:id="p73" end="327.84s">-Ajuster le système de contrôle automatique<br />de bâtiments pour refléter l’occupation réelle;</p>
+      <p begin="327.84s" xml:id="p74" end="330.12s">-Établir une base de référence en matière</p>
+      <p begin="330.12s" xml:id="p75" end="335.56s">de consommation d’énergie et définir un<br />point de référence pour faire un suivi des progrès;</p>
+      <p begin="335.56s" xml:id="p76" end="337.84s">-Élaborer des mesures de conservation de</p>
+      <p begin="337.84s" xml:id="p77" end="340.32s">l’énergie en fonction des résultats.</p>
+      <p begin="340.32s" xml:id="p78" end="344.89s">Les activités de mises en service sur les<br />systèmes de CVC et de contrôle automatique</p>
+      <p begin="344.89s" xml:id="p79" end="349.2s">de bâtiments peuvent :<br />-Améliorer le confort des occupants pendant</p>
+      <p begin="349.2s" xml:id="p80" end="353.6s">les heures de bureau;<br />-Réduire la possibilité d’intervenir manuellement</p>
+      <p begin="353.6s" xml:id="p81" end="359.78s">sur le système de contrôle automatique de<br />bâtiments et ainsi améliorer l’efficacité énergétique;</p>
+      <p begin="359.78s" xml:id="p82" end="363.32s">-Améliorer la santé et la sécurité des travailleurs;</p>
+      <p begin="363.32s" xml:id="p83" end="366.32s">- Réduire les émissions de GES.</p>
+      <p begin="367.1s" xml:id="p84" end="371.7s">Transformer l’aménagement de bureaux offre<br />de nombreuses occasions pour procéder à</p>
+      <p begin="371.7s" xml:id="p85" end="374.53s">des mises à niveau en matière de durabilité.</p>
+      <p begin="374.53s" xml:id="p86" end="378.78s">Par exemple, si votre équipe est chargée<br />de transformer un étage d’un immeuble de</p>
+      <p begin="378.78s" xml:id="p87" end="382.15s">bureaux, vous devriez évaluer les avantages<br />de:</p>
+      <p begin="382.15s" xml:id="p88" end="386.25s">-Recycler les vieux meubles de bureau et les<br />matériaux du bâtiment;</p>
+      <p begin="386.25s" xml:id="p89" end="391.28s">-Choisir de nouveaux matériaux et nouveaux<br />meubles fabriqués à partir de contenu recyclé,</p>
+      <p begin="391.28s" xml:id="p90" end="396.22s">biodégradable et composés de finis ayant<br />peu d’éléments organiques volatils;</p>
+      <p begin="396.22s" xml:id="p91" end="401.39s">-Choisir des cloisons avec des surfaces réfléchissantes<br />et des hauteurs plus basses pour améliorer</p>
+      <p begin="401.39s" xml:id="p92" end="404.35s">le potentiel électrique et l'éclairage de<br />jour;</p>
+      <p begin="404.35s" xml:id="p93" end="408.26s">-l’achat et l’installation d’un éclairage<br />de travail efficace;</p>
+      <p begin="408.26s" xml:id="p94" end="413.06s">-Choisir des peintures à faible teneur en<br />composés organiques volatils (COV),</p>
+      <p begin="413.06s" xml:id="p95" end="415.54s">non toxiques et biologiques.</p>
+      <p begin="415.54s" xml:id="p96" end="420.3s">Ces mesures peuvent avoir d’importantes<br />répercussions, en réduisant la consommation</p>
+      <p begin="420.3s" xml:id="p97" end="425.0s">d’énergie et en améliorant les conditions<br />de l’environnement intérieur des employés.</p>
+      <p begin="425.0s" xml:id="p98" end="428.92s">Ces répercussions sont :<br />-L’amélioration de la qualité de l’air</p>
+      <p begin="428.92s" xml:id="p99" end="434.42s">et de l’environnement intérieur;<br />-L’amélioration de l’efficacité de l’éclairage;</p>
+      <p begin="434.42s" xml:id="p100" end="436.94s">-L’amélioration des charges de branchement.</p>
+      <p begin="438.02s" xml:id="p101" end="441.58s">Dans le module 2, nous avons abordé les points<br />suivants :</p>
+      <p begin="441.58s" xml:id="p102" end="446.46s">- Les tâches et responsabilités types ainsi<br />que la façon de les élargir pour intégrer</p>
+      <p begin="446.46s" xml:id="p103" end="451.09s">une composante de durabilité.<br />- Nous avons présenté le processus en quatre</p>
+      <p begin="451.09s" xml:id="p104" end="455.34s">étapes visant à intégrer la durabilité<br />dans un plan stratégique.</p>
+      <p begin="455.34s" xml:id="p105" end="459.73s">- Nous avons couvert des points de décision<br />clés dans les tâches pouvant élargir les</p>
+      <p begin="459.73s" xml:id="p106" end="462.34s">opportunités de développement durable.</p>
+      <p begin="462.34s" xml:id="p107" end="467.24s">Dans le prochain module, nous verrons comment<br />évaluer vos efforts, utiliser des outils</p>
+      <p begin="467.24s" xml:id="p108" end="472.62s">logiciels pour suivre vos progrès et engager<br />votre équipe dans un changement institutionnel</p>
+      <p begin="472.62s" xml:id="p109" end="475.47s">axé sur des opérations durables.</p>
+    </div>
+  </body>
+</tt>

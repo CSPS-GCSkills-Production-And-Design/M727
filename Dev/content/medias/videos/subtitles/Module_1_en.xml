@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.32s" xml:id="p0" end="1.434s">We will begin with Module 1,</p>
+      <p begin="1.458s" xml:id="p1" end="3.858s">Achieving High Performance<br />in Federal Buildings.</p>
+      <p begin="4.948s" xml:id="p2" end="7.124s">A sustainable strategy can be evaluated</p>
+      <p begin="7.148s" xml:id="p3" end="9.124s">using a triple bottom line framework.</p>
+      <p begin="9.148s" xml:id="p4" end="10.744s">The three components in this framework</p>
+      <p begin="10.768s" xml:id="p5" end="14.054s">are environmental stewardship,<br />social responsibility,</p>
+      <p begin="14.078s" xml:id="p6" end="16.294s">and economic prosperity.</p>
+      <p begin="16.318s" xml:id="p7" end="19.734s">Successful sustainable<br />strategies incorporate all three.</p>
+      <p begin="19.758s" xml:id="p8" end="23.204s">Environment stewardship consists<br />of protecting air, water,</p>
+      <p begin="23.228s" xml:id="p9" end="26.334s">land, and ecosystems as<br />well as conserving resources</p>
+      <p begin="26.358s" xml:id="p10" end="27.704s">including fossil fuels.</p>
+      <p begin="27.728s" xml:id="p11" end="30.944s">Social responsibility involves<br />improving the quality of life</p>
+      <p begin="30.968s" xml:id="p12" end="33.004s">and equity for individuals, communities,</p>
+      <p begin="33.028s" xml:id="p13" end="34.664s">and society as a whole.</p>
+      <p begin="34.688s" xml:id="p14" end="38.214s">Finally, economic prosperity<br />involves reducing costs,</p>
+      <p begin="38.238s" xml:id="p15" end="41.004s">adding value, and creating<br />economic opportunities</p>
+      <p begin="41.028s" xml:id="p16" end="44.694s">for individuals, organizations,<br />communities, and nations.</p>
+      <p begin="44.718s" xml:id="p17" end="45.884s">While there are many facets</p>
+      <p begin="45.908s" xml:id="p18" end="48.664s">to a strategic sustainability<br />performance plan,</p>
+      <p begin="48.688s" xml:id="p19" end="51.104s">this course will focus<br />on four fundamentals;</p>
+      <p begin="51.128s" xml:id="p20" end="53.024s">optimizing energy performance,</p>
+      <p begin="53.048s" xml:id="p21" end="55.054s">protection and conservation of water,</p>
+      <p begin="55.078s" xml:id="p22" end="58.094s">use of environmentally preferable<br />products and materials,</p>
+      <p begin="58.118s" xml:id="p23" end="60.818s">and enhanced indoor environmental quality.</p>
+      <p begin="61.778s" xml:id="p24" end="64.714s">The first fundamental of<br />sustainable facility management</p>
+      <p begin="64.738s" xml:id="p25" end="67.364s">is the optimization of energy performance.</p>
+      <p begin="67.388s" xml:id="p26" end="70.644s">Supplies of fossil fuel are<br />increasingly unreliable,</p>
+      <p begin="70.668s" xml:id="p27" end="73.124s">concerns for energy<br />security are on the rise,</p>
+      <p begin="73.148s" xml:id="p28" end="75.014s">and the impacts of global climate change</p>
+      <p begin="75.038s" xml:id="p29" end="76.564s">are becoming more evident.</p>
+      <p begin="76.588s" xml:id="p30" end="78.674s">Sustainable and high-performance buildings</p>
+      <p begin="78.698s" xml:id="p31" end="80.714s">are critical to reduce energy load,</p>
+      <p begin="80.738s" xml:id="p32" end="82.534s">increase resource efficiency,</p>
+      <p begin="82.558s" xml:id="p33" end="86.054s">and maximize cost-effective<br />renewable energy technologies.</p>
+      <p begin="86.078s" xml:id="p34" end="88.214s">Federal agencies are<br />increasingly committed</p>
+      <p begin="88.238s" xml:id="p35" end="89.504s">to significantly reducing</p>
+      <p begin="89.528s" xml:id="p36" end="91.504s">our dependence on foreign energy sources</p>
+      <p begin="91.528s" xml:id="p37" end="94.004s">and energy derived from fossil fuels.</p>
+      <p begin="94.028s" xml:id="p38" end="96.074s">Optimizing energy performance begins</p>
+      <p begin="96.098s" xml:id="p39" end="99.324s">by reducing energy consumption<br />and associated costs,</p>
+      <p begin="99.348s" xml:id="p40" end="102.594s">increasing resource efficiency,<br />and maximizing the use</p>
+      <p begin="102.618s" xml:id="p41" end="105.034s">of cost-effective renewable technologies.</p>
+      <p begin="105.058s" xml:id="p42" end="108.274s">It is important to measure and<br />verify energy use frequently</p>
+      <p begin="108.298s" xml:id="p43" end="111.188s">in order to properly track<br />performance over time.</p>
+      <p begin="111.212s" xml:id="p44" end="113.414s">This fundamental practice is in line</p>
+      <p begin="113.438s" xml:id="p45" end="115.024s">with a federal commitment put forward</p>
+      <p begin="115.048s" xml:id="p46" end="116.684s">in the Greening Government Strategy</p>
+      <p begin="116.708s" xml:id="p47" end="118.284s">stating that the government of Canada</p>
+      <p begin="118.308s" xml:id="p48" end="121.484s">will reduce scope one and scope<br />two greenhouse gas emissions</p>
+      <p begin="121.508s" xml:id="p49" end="123.024s">from federal facilities and fleets</p>
+      <p begin="123.048s" xml:id="p50" end="127.254s">by 80% below 2005 levels by 2050.</p>
+      <p begin="127.278s" xml:id="p51" end="129.844s">There are many benefits that<br />can result from taking action</p>
+      <p begin="129.868s" xml:id="p52" end="132.064s">on optimizing energy performance.</p>
+      <p begin="132.088s" xml:id="p53" end="134.474s">The environmental benefits<br />are lower electricity</p>
+      <p begin="134.498s" xml:id="p54" end="137.784s">and fossil fuel use, lower<br />greenhouse gas emissions,</p>
+      <p begin="137.808s" xml:id="p55" end="139.344s">and associated air pollution</p>
+      <p begin="139.368s" xml:id="p56" end="142.304s">caused by fossil fuel<br />production and distribution.</p>
+      <p begin="142.328s" xml:id="p57" end="143.389s">The economic benefits,</p>
+      <p begin="143.413s" xml:id="p58" end="146.354s">such as lower first<br />costs and operating costs</p>
+      <p begin="146.378s" xml:id="p59" end="147.874s">when systems can be downsized</p>
+      <p begin="147.898s" xml:id="p60" end="149.864s">due to integrated energy solutions;</p>
+      <p begin="149.888s" xml:id="p61" end="152.024s">reduced dependence on imported oil;</p>
+      <p begin="152.048s" xml:id="p62" end="154.228s">lower annual fuel and electricity costs;</p>
+      <p begin="154.252s" xml:id="p63" end="157.734s">reduced peak power demand;<br />and cost and reduced need</p>
+      <p begin="157.758s" xml:id="p64" end="159.918s">for new energy infrastructure.</p>
+      <p begin="161.198s" xml:id="p65" end="163.004s">The protection and conservation of water</p>
+      <p begin="163.028s" xml:id="p66" end="166.264s">is another fundamental of<br />sustainable facility management.</p>
+      <p begin="166.288s" xml:id="p67" end="168.774s">Although 2/3 of the<br />Earth's surface is water,</p>
+      <p begin="168.798s" xml:id="p68" end="172.624s">less than 1/2 of 1% is<br />available for our use.</p>
+      <p begin="172.648s" xml:id="p69" end="175.224s">By creating a strategic<br />sustainability plan</p>
+      <p begin="175.248s" xml:id="p70" end="177.354s">that uses water wisely, we can reduce use</p>
+      <p begin="177.378s" xml:id="p71" end="180.904s">and its associated energy<br />and environmental impacts.</p>
+      <p begin="180.928s" xml:id="p72" end="181.984s">Much like energy,</p>
+      <p begin="182.008s" xml:id="p73" end="184.344s">water use should be measured<br />and verified frequently</p>
+      <p begin="184.368s" xml:id="p74" end="187.954s">to track improvements over<br />time and identify leaks.</p>
+      <p begin="187.978s" xml:id="p75" end="190.084s">The federal government is<br />committed to the protection</p>
+      <p begin="190.108s" xml:id="p76" end="192.644s">and conservation of water<br />and has stated the following</p>
+      <p begin="192.668s" xml:id="p77" end="194.534s">in the Greening Government Strategy.</p>
+      <p begin="194.558s" xml:id="p78" end="197.424s">The government of Canada will<br />reduce its water consumption</p>
+      <p begin="197.448s" xml:id="p79" end="200.444s">by tracking and disclosing<br />its potable water consumption</p>
+      <p begin="200.468s" xml:id="p80" end="204.234s">by 2022 using best in<br />class water use practices</p>
+      <p begin="204.258s" xml:id="p81" end="206.614s">in new construction and<br />major renovations and in</p>
+      <p begin="206.638s" xml:id="p82" end="208.704s">designing all new Crown-owned buildings</p>
+      <p begin="208.728s" xml:id="p83" end="210.894s">to effectively manage storm water.</p>
+      <p begin="210.918s" xml:id="p84" end="212.894s">The environmental<br />benefits of taking action</p>
+      <p begin="212.918s" xml:id="p85" end="216.494s">on preserving water include<br />lower potable water consumption</p>
+      <p begin="216.518s" xml:id="p86" end="219.514s">and pollution discharge into<br />our aquifers and waterways,</p>
+      <p begin="219.538s" xml:id="p87" end="221.274s">the preservation of water resources</p>
+      <p begin="221.298s" xml:id="p88" end="223.024s">for wildlife and agriculture,</p>
+      <p begin="223.048s" xml:id="p89" end="225.534s">and the restoration of wetland ecologies.</p>
+      <p begin="225.558s" xml:id="p90" end="228.614s">The economic benefits of<br />protecting and conserving water</p>
+      <p begin="228.638s" xml:id="p91" end="230.714s">include reduced annual water costs,</p>
+      <p begin="230.738s" xml:id="p92" end="233.344s">lower municipal costs<br />for wastewater treatment,</p>
+      <p begin="233.368s" xml:id="p93" end="235.881s">and lower first costs<br />for certain fixtures.</p>
+      <p begin="237.218s" xml:id="p94" end="239.414s">A sustainable building is<br />constructed of materials</p>
+      <p begin="239.438s" xml:id="p95" end="242.474s">that minimize life cycle<br />environmental impacts</p>
+      <p begin="242.498s" xml:id="p96" end="245.264s">such as global climate<br />change, resource depletion,</p>
+      <p begin="245.288s" xml:id="p97" end="246.874s">and human toxicity.</p>
+      <p begin="246.898s" xml:id="p98" end="248.804s">Environmentally preferable materials</p>
+      <p begin="248.828s" xml:id="p99" end="252.134s">reduce waste and disposal<br />costs, preserve the environment,</p>
+      <p begin="252.158s" xml:id="p100" end="254.684s">and contribute to employee<br />health and safety.</p>
+      <p begin="254.708s" xml:id="p101" end="257.074s">Sustainable materials<br />minimize life cycle costs</p>
+      <p begin="257.098s" xml:id="p102" end="258.514s">and reduce waste.</p>
+      <p begin="258.538s" xml:id="p103" end="260.714s">They protect the health<br />and safety of the tenants</p>
+      <p begin="260.738s" xml:id="p104" end="263.164s">and they decrease the<br />need for fossil fuels.</p>
+      <p begin="263.188s" xml:id="p105" end="265.374s">The government of Canada<br />is committed to reducing</p>
+      <p begin="265.398s" xml:id="p106" end="267.394s">the environmental impact<br />of building materials</p>
+      <p begin="267.418s" xml:id="p107" end="269.444s">using life-cycle assessment techniques</p>
+      <p begin="269.468s" xml:id="p108" end="272.874s">to minimize embodied carbon and<br />the use of harmful materials</p>
+      <p begin="272.898s" xml:id="p109" end="274.734s">in construction and renovation.</p>
+      <p begin="274.758s" xml:id="p110" end="277.284s">The environmental benefits<br />are reducing mining</p>
+      <p begin="277.308s" xml:id="p111" end="279.324s">and harvesting of virgin resources;</p>
+      <p begin="279.348s" xml:id="p112" end="282.264s">reduced strain on<br />ecosystems from disposal;</p>
+      <p begin="282.288s" xml:id="p113" end="284.144s">and reduced energy use from material</p>
+      <p begin="284.168s" xml:id="p114" end="288.024s">and resource transportation,<br />manufacturing, and processing.</p>
+      <p begin="288.048s" xml:id="p115" end="290.804s">The economic benefits<br />are decreased first costs</p>
+      <p begin="290.828s" xml:id="p116" end="293.484s">due to local material<br />harvesting, material reuse,</p>
+      <p begin="293.508s" xml:id="p117" end="295.204s">and use of recycled materials;</p>
+      <p begin="295.228s" xml:id="p118" end="297.764s">lower costs for treatment<br />and waste disposal;</p>
+      <p begin="297.788s" xml:id="p119" end="300.014s">and lower municipal costs for construction</p>
+      <p begin="300.038s" xml:id="p120" end="301.711s">and operation of landfills.</p>
+      <p begin="303.228s" xml:id="p121" end="306.124s">Another fundamental of<br />sustainable facility management</p>
+      <p begin="306.148s" xml:id="p122" end="308.874s">is enhancing indoor environmental quality.</p>
+      <p begin="308.898s" xml:id="p123" end="310.634s">Sustainable facility management</p>
+      <p begin="310.658s" xml:id="p124" end="313.224s">avoids the use of harmful<br />chemicals and materials,</p>
+      <p begin="313.248s" xml:id="p125" end="314.744s">aims to improve air quality</p>
+      <p begin="314.768s" xml:id="p126" end="316.694s">and create productive environments,</p>
+      <p begin="316.718s" xml:id="p127" end="320.414s">and facilitates interactivity<br />among building occupants.</p>
+      <p begin="320.438s" xml:id="p128" end="322.544s">Even a small boost to worker productivity</p>
+      <p begin="322.568s" xml:id="p129" end="323.674s">can result in savings</p>
+      <p begin="323.698s" xml:id="p130" end="326.003s">that can offset the costs of improvements.</p>
+      <p begin="326.027s" xml:id="p131" end="328.214s">As part of its Greening strategy,</p>
+      <p begin="328.238s" xml:id="p132" end="330.504s">the government of Canada<br />will focus on the well-being</p>
+      <p begin="330.528s" xml:id="p133" end="333.034s">of its employees and<br />communities in which it operates</p>
+      <p begin="333.058s" xml:id="p134" end="334.864s">by creating sustainable workplaces</p>
+      <p begin="334.888s" xml:id="p135" end="337.614s">and mobilizing employees<br />on government greening.</p>
+      <p begin="337.638s" xml:id="p136" end="338.774s">The environmental benefits</p>
+      <p begin="338.798s" xml:id="p137" end="341.404s">related to improved indoor<br />environmental quality</p>
+      <p begin="341.428s" xml:id="p138" end="344.184s">include better air quality<br />inside the facility,</p>
+      <p begin="344.208s" xml:id="p139" end="346.344s">reduced volatile organic emissions,</p>
+      <p begin="346.368s" xml:id="p140" end="350.034s">and reduced carbon dioxide<br />and carbon monoxide emission.</p>
+      <p begin="350.058s" xml:id="p141" end="353.084s">The economic benefits of<br />enhanced environmental quality</p>
+      <p begin="353.108s" xml:id="p142" end="356.224s">are healthier and more<br />productive work environments,</p>
+      <p begin="356.248s" xml:id="p143" end="358.354s">higher organizational productivity,</p>
+      <p begin="358.378s" xml:id="p144" end="361.363s">lower absenteeism, and<br />reduced staff turnover,</p>
+      <p begin="361.387s" xml:id="p145" end="364.018s">and disability/health insurance costs.</p>
+      <p begin="367.178s" xml:id="p146" end="370.234s">Energy and facility managers<br />control more resources</p>
+      <p begin="370.258s" xml:id="p147" end="372.134s">that potentially impact sustainability</p>
+      <p begin="372.158s" xml:id="p148" end="374.274s">than most other professionals on site.</p>
+      <p begin="374.298s" xml:id="p149" end="376.574s">In the short term they<br />establish baselines,</p>
+      <p begin="376.598s" xml:id="p150" end="379.904s">initiate projects, facilitate<br />discussions with coworkers,</p>
+      <p begin="379.928s" xml:id="p151" end="383.644s">and identify opportunities for<br />teamwork and collaboration.</p>
+      <p begin="383.668s" xml:id="p152" end="386.534s">In the long-term they have the<br />potential to create momentum</p>
+      <p begin="386.558s" xml:id="p153" end="388.084s">and keep progress and focus</p>
+      <p begin="388.108s" xml:id="p154" end="390.964s">as ongoing sustainability projects evolve.</p>
+      <p begin="390.988s" xml:id="p155" end="393.394s">Through their leadership, a<br />tremendous change in energy</p>
+      <p begin="393.418s" xml:id="p156" end="395.318s">and environmental quality is possible.</p>
+      <p begin="397.958s" xml:id="p157" end="400.244s">Sustainability is a cyclical process</p>
+      <p begin="400.268s" xml:id="p158" end="401.444s">for continuous improvement</p>
+      <p begin="401.468s" xml:id="p159" end="403.504s">and still requires a continuous effort.</p>
+      <p begin="403.528s" xml:id="p160" end="405.194s">It should not be viewed as an end game</p>
+      <p begin="405.218s" xml:id="p161" end="406.794s">with a finish line to cross.</p>
+      <p begin="406.818s" xml:id="p162" end="409.104s">Do whatever you can with<br />the resources at hand,</p>
+      <p begin="409.128s" xml:id="p163" end="411.364s">set a goal to move beyond compliance,</p>
+      <p begin="411.388s" xml:id="p164" end="413.274s">and then improve upon your own benchmarks</p>
+      <p begin="413.298s" xml:id="p165" end="415.084s">as you work toward those goals.</p>
+      <p begin="415.108s" xml:id="p166" end="416.994s">Even if you can't meet<br />the goals of this year,</p>
+      <p begin="417.018s" xml:id="p167" end="418.354s">how close can you get?</p>
+      <p begin="418.378s" xml:id="p168" end="420.894s">Can you set your sights higher<br />and continually reevaluate</p>
+      <p begin="420.918s" xml:id="p169" end="423.044s">and improve your process?</p>
+      <p begin="423.068s" xml:id="p170" end="424.424s">Always be in a listening mode</p>
+      <p begin="424.448s" xml:id="p171" end="426.434s">to continually evaluate and look for new</p>
+      <p begin="426.458s" xml:id="p172" end="428.818s">or enhanced sustainable measures to apply.</p>
+      <p begin="429.098s" xml:id="p173" end="430.834s">Because individuals determine</p>
+      <p begin="430.858s" xml:id="p174" end="433.024s">how buildings are used and maintained,</p>
+      <p begin="433.048s" xml:id="p175" end="435.334s">sustainability initiatives must recognize</p>
+      <p begin="435.358s" xml:id="p176" end="437.184s">the critical connection between buildings</p>
+      <p begin="437.208s" xml:id="p177" end="438.694s">and the people who use them.</p>
+      <p begin="438.718s" xml:id="p178" end="441.994s">Organizing a sustainable<br />facility team or green team</p>
+      <p begin="442.018s" xml:id="p179" end="444.014s">is a proven way to engage individuals</p>
+      <p begin="444.038s" xml:id="p180" end="446.304s">with varying responsibilities<br />and perspectives</p>
+      <p begin="446.328s" xml:id="p181" end="448.874s">who share a stake in facility operations.</p>
+      <p begin="448.898s" xml:id="p182" end="450.924s">A green team can be formal or informal</p>
+      <p begin="450.948s" xml:id="p183" end="453.498s">but should always be multidisciplinary.</p>
+      <p begin="455.218s" xml:id="p184" end="456.175s">In Module 1,</p>
+      <p begin="456.199s" xml:id="p185" end="458.734s">we covered the triple bottom<br />line of sustainability,</p>
+      <p begin="458.758s" xml:id="p186" end="461.664s">the importance of leadership<br />in the federal sector,</p>
+      <p begin="461.688s" xml:id="p187" end="464.764s">the four fundamentals of<br />sustainable facility management,</p>
+      <p begin="464.788s" xml:id="p188" end="467.854s">integrating the four fundamentals<br />into a holistic plan,</p>
+      <p begin="467.878s" xml:id="p189" end="471.104s">and the leadership role of<br />the energy/facility manager</p>
+      <p begin="471.128s" xml:id="p190" end="472.674s">in the team process.</p>
+      <p begin="472.698s" xml:id="p191" end="473.655s">In the next module,</p>
+      <p begin="473.679s" xml:id="p192" end="476.218s">we will cover ways to<br />identify the best strategies</p>
+      <p begin="476.242s" xml:id="p193" end="478.242s">to implement sustainable<br />measures at your site.</p>
+    </div>
+  </body>
+</tt>

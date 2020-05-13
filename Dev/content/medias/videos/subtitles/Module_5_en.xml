@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="2.84s">Welcome to Module 5,<br />where we will learn about</p>
+      <p begin="2.84s" xml:id="p1" end="5.82s">Sustainability as a Cycle<br />for Continuous Improvement.</p>
+      <p begin="9.08s" xml:id="p2" end="11.74s">This final module will<br />discuss the implications</p>
+      <p begin="11.74s" xml:id="p3" end="14.9s">of revisiting and revising<br />goals and activities.</p>
+      <p begin="14.9s" xml:id="p4" end="17.08s">The actions related to<br />this step in the cycle</p>
+      <p begin="17.08s" xml:id="p5" end="20.16s">include tracking and<br />communicating progress,</p>
+      <p begin="20.16s" xml:id="p6" end="23.04s">revisiting goals and making<br />strategic adjustments,</p>
+      <p begin="23.04s" xml:id="p7" end="26.58s">and sharing lessons learned<br />and recognizing achievements.</p>
+      <p begin="28.54s" xml:id="p8" end="31.32s">Your team should plan to<br />collect new benchmarking data</p>
+      <p begin="31.32s" xml:id="p9" end="32.75s">at least every six months</p>
+      <p begin="32.75s" xml:id="p10" end="35.1s">to determine the progress<br />of your activities.</p>
+      <p begin="35.1s" xml:id="p11" end="37.5s">Facility data can be updated all at once</p>
+      <p begin="37.5s" xml:id="p12" end="41.12s">in Portfolio Manager using<br />available Excel templates.</p>
+      <p begin="41.12s" xml:id="p13" end="44.91s">Periodic progress checks such<br />as every three to six months</p>
+      <p begin="44.91s" xml:id="p14" end="48.1s">will allow you to compare<br />actual resource consumption data</p>
+      <p begin="48.1s" xml:id="p15" end="49.81s">with your team's stated goals,</p>
+      <p begin="49.81s" xml:id="p16" end="51.71s">determine measured effectiveness,</p>
+      <p begin="51.71s" xml:id="p17" end="55.82s">identify mid-course adjustments,<br />identify best practices,</p>
+      <p begin="55.82s" xml:id="p18" end="58.65s">make informed decisions<br />about future projects,</p>
+      <p begin="58.65s" xml:id="p19" end="62.26s">and recognize individuals and<br />teams for accomplishments.</p>
+      <p begin="62.26s" xml:id="p20" end="63.67s">During the tracking phase,</p>
+      <p begin="63.67s" xml:id="p21" end="65.91s">team members should<br />provide regular updates</p>
+      <p begin="65.91s" xml:id="p22" end="69.3s">on assigned tasks and keep<br />clear records of activities.</p>
+      <p begin="69.3s" xml:id="p23" end="72.88s">Be sure to archive meeting<br />minutes, progress reports,</p>
+      <p begin="72.88s" xml:id="p24" end="74.11s">expense receipts,</p>
+      <p begin="74.11s" xml:id="p25" end="76.82s">survey focus group<br />interview notes and results,</p>
+      <p begin="76.82s" xml:id="p26" end="78.67s">activity photographs and videos,</p>
+      <p begin="78.67s" xml:id="p27" end="81.253s">and presentations and<br />reports to management.</p>
+      <p begin="82.34s" xml:id="p28" end="85.29s">A mid-course adjustment that<br />fine tunes your activities</p>
+      <p begin="85.29s" xml:id="p29" end="87.3s">and shifts resources as necessary</p>
+      <p begin="87.3s" xml:id="p30" end="89.7s">does not need to be<br />expensive or time consuming.</p>
+      <p begin="89.7s" xml:id="p31" end="92.34s">Several strategic phone<br />calls, personal interviews,</p>
+      <p begin="92.34s" xml:id="p32" end="93.95s">or discussions with your team</p>
+      <p begin="93.95s" xml:id="p33" end="96.67s">or group of department<br />employees, can reveal much</p>
+      <p begin="96.67s" xml:id="p34" end="99.58s">about what's working<br />well, what's not, and why.</p>
+      <p begin="99.58s" xml:id="p35" end="101.72s">Include a diverse group of respondents,</p>
+      <p begin="101.73s" xml:id="p36" end="103.16s">both demographically different</p>
+      <p begin="103.16s" xml:id="p37" end="105.61s">and from different<br />workspaces or divisions.</p>
+      <p begin="105.61s" xml:id="p38" end="108.36s">Assure them that their responses<br />will remain confidential</p>
+      <p begin="108.36s" xml:id="p39" end="110.17s">and help improve the project.</p>
+      <p begin="110.17s" xml:id="p40" end="112.54s">Look for answers to the<br />following questions.</p>
+      <p begin="112.54s" xml:id="p41" end="114.32s">Are measures yielding results?</p>
+      <p begin="114.32s" xml:id="p42" end="117.14s">Is data being received and<br />tracked in a way that is useful</p>
+      <p begin="117.14s" xml:id="p43" end="119.58s">for planning purposes<br />and project execution?</p>
+      <p begin="119.58s" xml:id="p44" end="122.81s">Are new policies and procedures<br />clear and understandable?</p>
+      <p begin="122.81s" xml:id="p45" end="126.01s">Are lessons learned and best<br />practices being documented?</p>
+      <p begin="126.01s" xml:id="p46" end="129.05s">What obstacles remain to<br />achieving the goals set?</p>
+      <p begin="129.05s" xml:id="p47" end="130.43s">Listen carefully to answers</p>
+      <p begin="130.43s" xml:id="p48" end="132.21s">that may reveal necessary corrections</p>
+      <p begin="132.21s" xml:id="p49" end="134.2s">to communications or policies.</p>
+      <p begin="135.0s" xml:id="p50" end="136.5s">In addition to reporting,</p>
+      <p begin="136.51s" xml:id="p51" end="139.06s">it is critical that your<br />team regularly revisits</p>
+      <p begin="139.06s" xml:id="p52" end="141.92s">and revises the action plan<br />to learn from and improve</p>
+      <p begin="141.92s" xml:id="p53" end="143.38s">on current performance.</p>
+      <p begin="143.38s" xml:id="p54" end="145.39s">The key steps in reviewing the action plan</p>
+      <p begin="145.39s" xml:id="p55" end="148.39s">include soliciting feedback<br />on current programming</p>
+      <p begin="148.39s" xml:id="p56" end="150.62s">and new ideas from the energy action team,</p>
+      <p begin="150.62s" xml:id="p57" end="153.18s">management and employees<br />including new employees.</p>
+      <p begin="153.18s" xml:id="p58" end="155.32s">Be sure to include both<br />veteran and new employees</p>
+      <p begin="155.32s" xml:id="p59" end="156.55s">in this conversation.</p>
+      <p begin="156.55s" xml:id="p60" end="158.15s">Identifying the critical factors</p>
+      <p begin="158.15s" xml:id="p61" end="160.55s">that contribute to meeting<br />or missing annual goals</p>
+      <p begin="160.55s" xml:id="p62" end="162.84s">including the effect of tenant behavior.</p>
+      <p begin="162.84s" xml:id="p63" end="165.56s">Identifying and quantifying<br />added value benefits</p>
+      <p begin="165.56s" xml:id="p64" end="168.61s">resulting from your activities<br />such as employee comfort,</p>
+      <p begin="168.61s" xml:id="p65" end="170.744s">increased productivity<br />and job satisfaction,</p>
+      <p begin="170.744s" xml:id="p66" end="173.92s">and reduced operation<br />and maintenance expenses.</p>
+      <p begin="173.92s" xml:id="p67" end="176.34s">This is also a good<br />opportunity to assess the need</p>
+      <p begin="176.34s" xml:id="p68" end="177.5s">for additional training</p>
+      <p begin="177.5s" xml:id="p69" end="180.12s">about sustainability<br />policies and procedures,</p>
+      <p begin="180.12s" xml:id="p70" end="182.42s">such as new operations<br />and maintenance procedures</p>
+      <p begin="182.42s" xml:id="p71" end="184.52s">designed to promote sustainability;</p>
+      <p begin="184.52s" xml:id="p72" end="187.1s">administrative tasks that<br />support energy management</p>
+      <p begin="187.1s" xml:id="p73" end="189.65s">such as reporting, monitoring<br />and data collection;</p>
+      <p begin="189.65s" xml:id="p74" end="192.84s">and orientation programs that<br />illustrate desired behaviors</p>
+      <p begin="192.84s" xml:id="p75" end="194.22s">for new employees.</p>
+      <p begin="194.22s" xml:id="p76" end="197.34s">This is also a good time to<br />review internal team engagement.</p>
+      <p begin="197.34s" xml:id="p77" end="199.74s">Teams tend to start off<br />with terrific energy</p>
+      <p begin="199.74s" xml:id="p78" end="202.64s">fueled by the excitement of<br />taking on an important endeavor.</p>
+      <p begin="202.64s" xml:id="p79" end="205.61s">Without clear goals,<br />expectations, roles, timelines,</p>
+      <p begin="205.61s" xml:id="p80" end="208.39s">and resources, as well as<br />recognition and celebration</p>
+      <p begin="208.39s" xml:id="p81" end="211.683s">for progress made, a team<br />could quickly lose commitment.</p>
+      <p begin="212.584s" xml:id="p82" end="215.14s">Strategic, consistent communication</p>
+      <p begin="215.14s" xml:id="p83" end="217.52s">will strengthen your employees'<br />understanding, ability,</p>
+      <p begin="217.52s" xml:id="p84" end="220.03s">and willingness to support<br />your team's activities.</p>
+      <p begin="220.03s" xml:id="p85" end="222.61s">The sustainability team<br />should develop a strategy</p>
+      <p begin="222.61s" xml:id="p86" end="225.12s">to communicate their goals,<br />activities, and progress</p>
+      <p begin="225.12s" xml:id="p87" end="226.61s">to other building users.</p>
+      <p begin="226.61s" xml:id="p88" end="228.627s">It will take consistent<br />outreach and education</p>
+      <p begin="228.627s" xml:id="p89" end="232.2s">to foster a long-term culture<br />of energy conservation.</p>
+      <p begin="232.2s" xml:id="p90" end="234.88s">Keep outreach fresh by<br />relaying program goals</p>
+      <p begin="234.88s" xml:id="p91" end="236.7s">and accomplishments in new ways.</p>
+      <p begin="236.7s" xml:id="p92" end="239.7s">For example, develop an<br />intranet website or blog</p>
+      <p begin="239.7s" xml:id="p93" end="242.51s">to post updates, tips,<br />and special features;</p>
+      <p begin="242.51s" xml:id="p94" end="244.37s">use posters and visual displays</p>
+      <p begin="244.37s" xml:id="p95" end="246.71s">to highlight accomplishments and savings;</p>
+      <p begin="246.71s" xml:id="p96" end="248.82s">display a creative milestone marker</p>
+      <p begin="248.82s" xml:id="p97" end="251.34s">in a central public<br />space to post progress;</p>
+      <p begin="251.34s" xml:id="p98" end="253.12s">create a special feature in newsletters</p>
+      <p begin="253.12s" xml:id="p99" end="255.45s">to spotlight energy-saving employees;</p>
+      <p begin="255.45s" xml:id="p100" end="257.58s">submit articles to print and digital media</p>
+      <p begin="257.58s" xml:id="p101" end="259.71s">highlighting goals and activities;</p>
+      <p begin="259.71s" xml:id="p102" end="262.55s">schedule regular updates<br />on all-hands meetings;</p>
+      <p begin="262.55s" xml:id="p103" end="264.69s">and host an event in<br />conjunction with Earth Day</p>
+      <p begin="264.69s" xml:id="p104" end="267.663s">or another widely attended<br />annual event at your facility.</p>
+      <p begin="269.8s" xml:id="p105" end="271.76s">To maintain support for greening efforts,</p>
+      <p begin="271.76s" xml:id="p106" end="273.04s">you should brief management</p>
+      <p begin="273.04s" xml:id="p107" end="275.01s">on performance trends and progress.</p>
+      <p begin="275.01s" xml:id="p108" end="277.95s">Reporting to your managers<br />allows them to identify areas</p>
+      <p begin="277.95s" xml:id="p109" end="280.67s">for continued improvement<br />relative to their priorities</p>
+      <p begin="280.67s" xml:id="p110" end="283.01s">and reaffirm their<br />commitment to the project.</p>
+      <p begin="283.01s" xml:id="p111" end="285.181s">Reporting results can<br />take many different forms</p>
+      <p begin="285.181s" xml:id="p112" end="288.26s">but any report should be<br />tailored to your audience.</p>
+      <p begin="288.26s" xml:id="p113" end="290.42s">Management will be<br />interested in cost savings,</p>
+      <p begin="290.42s" xml:id="p114" end="292.86s">increased productivity, ancillary benefits</p>
+      <p begin="292.86s" xml:id="p115" end="295.59s">such as improved morale and<br />building occupant comfort,</p>
+      <p begin="295.59s" xml:id="p116" end="298.58s">and the need to meet<br />department and federal goals.</p>
+      <p begin="300.3s" xml:id="p117" end="302.34s">Prepare briefing or summary documents</p>
+      <p begin="302.34s" xml:id="p118" end="305.38s">intended for senior management<br />to report on progress.</p>
+      <p begin="305.38s" xml:id="p119" end="308.14s">These summary reports should<br />include an executive summary</p>
+      <p begin="308.14s" xml:id="p120" end="310.54s">of the planning and<br />implementation process,</p>
+      <p begin="310.54s" xml:id="p121" end="313.29s">the qualitative and quantitative findings,</p>
+      <p begin="313.29s" xml:id="p122" end="316.35s">factors that contribute to<br />meeting or not meeting goals,</p>
+      <p begin="316.35s" xml:id="p123" end="318.74s">the next steps for continued improvement,</p>
+      <p begin="318.74s" xml:id="p124" end="321.52s">how results will impact<br />future programming,</p>
+      <p begin="321.52s" xml:id="p125" end="324.44s">and opportunities to save<br />more resources and money.</p>
+      <p begin="324.44s" xml:id="p126" end="327.79s">Try to use anecdotal quotations<br />to support key findings.</p>
+      <p begin="327.79s" xml:id="p127" end="330.17s">Incorporate photographs<br />taken at activities</p>
+      <p begin="330.17s" xml:id="p128" end="333.06s">to illustrate your accomplishments<br />and use clear graphics</p>
+      <p begin="333.06s" xml:id="p129" end="336.64s">to illustrate energy and cost<br />savings in your pilot project.</p>
+      <p begin="338.38s" xml:id="p130" end="341.36s">The long-term success of<br />your energy action program</p>
+      <p begin="341.36s" xml:id="p131" end="342.76s">will hinge in large part</p>
+      <p begin="342.76s" xml:id="p132" end="345.99s">on employees' consistent<br />support and enthusiasm.</p>
+      <p begin="345.99s" xml:id="p133" end="348.39s">Develop a recognition<br />program at your facility</p>
+      <p begin="348.39s" xml:id="p134" end="350.14s">to reward individuals and groups</p>
+      <p begin="350.14s" xml:id="p135" end="352.86s">that have contributed to<br />your program's successes.</p>
+      <p begin="352.86s" xml:id="p136" end="354.51s">This can be formal or informal</p>
+      <p begin="354.51s" xml:id="p137" end="356.3s">and does not need to be expensive.</p>
+      <p begin="356.3s" xml:id="p138" end="358.78s">It is more important that<br />the recognition is public</p>
+      <p begin="358.78s" xml:id="p139" end="361.53s">and occurs on a regularly scheduled basis.</p>
+      <p begin="361.53s" xml:id="p140" end="363.86s">Consider honoring<br />outstanding contributions</p>
+      <p begin="363.86s" xml:id="p141" end="366.55s">by presenting in-house<br />energy management awards.</p>
+      <p begin="366.55s" xml:id="p142" end="368.22s">Offer certificates of achievement</p>
+      <p begin="368.22s" xml:id="p143" end="370.01s">or publish names of energy savers</p>
+      <p begin="370.01s" xml:id="p144" end="371.95s">in the organization's newsletters.</p>
+      <p begin="371.95s" xml:id="p145" end="374.54s">Recognition can be made<br />to individuals or teams</p>
+      <p begin="374.54s" xml:id="p146" end="376.11s">based on multiple criteria</p>
+      <p begin="376.11s" xml:id="p147" end="379.17s">such as most innovative<br />energy savings project,</p>
+      <p begin="379.17s" xml:id="p148" end="382.37s">most participation, greatest<br />energy use reduction,</p>
+      <p begin="382.37s" xml:id="p149" end="384.19s">and greatest cost savings.</p>
+      <p begin="384.19s" xml:id="p150" end="385.844s">Forms of recognition can vary.</p>
+      <p begin="385.844s" xml:id="p151" end="387.7s">Team members can be recognized</p>
+      <p begin="387.7s" xml:id="p152" end="390.12s">through formal<br />acknowledgement, certificates,</p>
+      <p begin="390.12s" xml:id="p153" end="393.16s">monetary awards and cash bonuses, awards,</p>
+      <p begin="393.16s" xml:id="p154" end="394.803s">and media attention.</p>
+      <p begin="396.86s" xml:id="p155" end="397.693s">In this course</p>
+      <p begin="397.693s" xml:id="p156" end="399.39s">we have reviewed a number<br />of critical measures</p>
+      <p begin="399.39s" xml:id="p157" end="401.31s">for implementing sustainable strategies</p>
+      <p begin="401.31s" xml:id="p158" end="403.44s">in existing federal facilities.</p>
+      <p begin="403.44s" xml:id="p159" end="405.18s">The content of this course covered</p>
+      <p begin="405.18s" xml:id="p160" end="407.76s">includes the Triple Bottom<br />Line of Sustainability</p>
+      <p begin="407.76s" xml:id="p161" end="410.65s">and Fundamentals of<br />Sustainability Management,</p>
+      <p begin="410.65s" xml:id="p162" end="412.34s">broadening routine practices</p>
+      <p begin="412.34s" xml:id="p163" end="415.32s">to include sustainability<br />measures and meeting goals,</p>
+      <p begin="415.32s" xml:id="p164" end="418.04s">forming a multidisciplinary<br />team to baseline</p>
+      <p begin="418.04s" xml:id="p165" end="420.54s">and benchmark projects to ensure progress,</p>
+      <p begin="420.54s" xml:id="p166" end="423.13s">selecting and implementing<br />sustainability measures</p>
+      <p begin="423.13s" xml:id="p167" end="425.97s">with multiple benefits<br />and cross-cutting impacts,</p>
+      <p begin="425.97s" xml:id="p168" end="428.27s">and creating a structure<br />for continuous improvement</p>
+      <p begin="428.27s" xml:id="p169" end="431.41s">and resources available for<br />assistance and training.</p>
+      <p begin="431.41s" xml:id="p170" end="433.36s">There are a number of strategic objectives</p>
+      <p begin="433.36s" xml:id="p171" end="434.45s">that should be considered</p>
+      <p begin="434.45s" xml:id="p172" end="437.17s">when evaluating sustainability policies.</p>
+      <p begin="437.17s" xml:id="p173" end="439.83s">Policies should establish<br />energy accountability</p>
+      <p begin="439.83s" xml:id="p174" end="441.77s">by instituting a chain of command,</p>
+      <p begin="441.77s" xml:id="p175" end="443.8s">defining roles in the organization,</p>
+      <p begin="443.8s" xml:id="p176" end="445.74s">and providing the authority for personnel</p>
+      <p begin="445.74s" xml:id="p177" end="448.91s">to develop and implement<br />energy-management procedures.</p>
+      <p begin="448.91s" xml:id="p178" end="451.68s">Ensure continuous improvement<br />by developing provisions</p>
+      <p begin="451.68s" xml:id="p179" end="454.59s">for evaluating and updated<br />energy management policies</p>
+      <p begin="454.59s" xml:id="p180" end="456.98s">to reflect changing needs and priorities.</p>
+      <p begin="456.98s" xml:id="p181" end="460.2s">Align with departmental<br />strategic sustainability goals.</p>
+      <p begin="460.2s" xml:id="p182" end="462.92s">Set performance goals that<br />link sustainability goals</p>
+      <p begin="462.92s" xml:id="p183" end="465.86s">to your department's fiscal and<br />mission-critical objectives,</p>
+      <p begin="465.86s" xml:id="p184" end="468.64s">and whenever possible<br />reinvest energy savings</p>
+      <p begin="468.64s" xml:id="p185" end="470.47s">in facility improvements.</p>
+      <p begin="470.47s" xml:id="p186" end="471.98s">Together we can lead by example</p>
+      <p begin="471.98s" xml:id="p187" end="474.64s">and create a more sustainable future.</p>
+      <p begin="476.72s" xml:id="p188" end="479.02s">NRCan and other federal organizations</p>
+      <p begin="479.02s" xml:id="p189" end="481.98s">provide valuable resources,<br />guidance, and training</p>
+      <p begin="481.98s" xml:id="p190" end="484.9s">to assist you in the development<br />of sustainable strategies.</p>
+      <p begin="484.9s" xml:id="p191" end="486.76s">Examples of available resources</p>
+      <p begin="486.76s" xml:id="p192" end="489.81s">include the Pan-Canadian<br />Framework on Clean Growth</p>
+      <p begin="489.81s" xml:id="p193" end="491.07s">and Climate Change,</p>
+      <p begin="491.07s" xml:id="p194" end="493.56s">the Federal Sustainable<br />Development Strategy,</p>
+      <p begin="493.56s" xml:id="p195" end="495.5s">the Greening Government Strategy,</p>
+      <p begin="495.5s" xml:id="p196" end="498.66s">and NRCan's Energy Management<br />Best Practices Guide</p>
+      <p begin="498.66s" xml:id="p197" end="501.16s">for Commercial and<br />Institutional Buildings.</p>
+      <p begin="501.16s" xml:id="p198" end="503.097s">These resources can be used to learn more</p>
+      <p begin="503.097s" xml:id="p199" end="506.31s">about active federal commitments<br />related to climate change</p>
+      <p begin="506.31s" xml:id="p200" end="508.64s">and strategies to meet these objectives.</p>
+      <p begin="509.72s" xml:id="p201" end="511.08s">Other useful resources</p>
+      <p begin="511.08s" xml:id="p202" end="514.84s">include ENERGY STAR Portfolio<br />Manager and RETScreen.</p>
+      <p begin="516.62s" xml:id="p203" end="518.52s">Lastly, if you have any questions</p>
+      <p begin="518.52s" xml:id="p204" end="521.78s">about sustainable strategies<br />for existing federal facilities</p>
+      <p begin="521.78s" xml:id="p205" end="524.37s">or are interested in other<br />training opportunities,</p>
+      <p begin="524.37s" xml:id="p206" end="526.15s">do not hesitate to get in contact</p>
+      <p begin="526.15s" xml:id="p207" end="527.87s">with the Office of Energy Efficiency</p>
+      <p begin="527.87s" xml:id="p208" end="530.35s">using the contact information provided.</p>
+      <p begin="530.35s" xml:id="p209" end="531.73s">Our email address is</p>
+      <p begin="531.73s" xml:id="p210" end="538.8s">nracan.greeninggovernment-gouvernementvert.rncan@canada.ca</p>
+      <p begin="538.8s" xml:id="p211" end="544.62s">Our website can be found at<br />http://nrcan.gc.ca/greeninggovernment</p>
+      <p begin="544.62s" xml:id="p212" end="546.34s">Thank you for participating.</p>
+    </div>
+  </body>
+</tt>

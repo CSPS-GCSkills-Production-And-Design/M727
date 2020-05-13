@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="fr-CA" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.1s" xml:id="p0" end="5.18s" xmlns="http://www.w3.org/ns/ttml">Nous commencerons par le module 1 : Garantir<br />une efficacité supérieure –</p>
+      <p begin="5.18s" xml:id="p1" end="8.48s" xmlns="http://www.w3.org/ns/ttml">Atteindre un rendement élevé dans les bâtiments fédéraux</p>
+      <p begin="9.48s" xml:id="p2" end="14.7s" xmlns="http://www.w3.org/ns/ttml">Il est possible d’évaluer une stratégie durable<br />en utilisant une méthode de « triple résultat ».</p>
+      <p begin="14.7s" xml:id="p3" end="19.84s" xmlns="http://www.w3.org/ns/ttml">Cette méthode se compose des<br />trois éléments suivants : gestion environnementale,</p>
+      <p begin="19.84s" xml:id="p4" end="25.92s" xmlns="http://www.w3.org/ns/ttml">responsabilité sociale et prospérité économique.<br />Les stratégies durables gagnantes intègrent</p>
+      <p begin="25.93s" xml:id="p5" end="27.2s" xmlns="http://www.w3.org/ns/ttml">les trois éléments.</p>
+      <p begin="27.2s" xml:id="p6" end="33.16s" xmlns="http://www.w3.org/ns/ttml">La gestion environnementale consiste à protéger<br />l’air, l’eau, la terre et les écosystèmes,</p>
+      <p begin="33.16s" xml:id="p7" end="37.44s" xmlns="http://www.w3.org/ns/ttml">ainsi qu’à conserver les ressources, notamment<br />les combustibles fossiles.</p>
+      <p begin="37.44s" xml:id="p8" end="42.13s" xmlns="http://www.w3.org/ns/ttml">La responsabilité sociale concerne l’amélioration<br />de la qualité de vie et de l’égalité</p>
+      <p begin="42.13s" xml:id="p9" end="47.04s" xmlns="http://www.w3.org/ns/ttml">des personnes, des collectivités et de la<br />société dans son ensemble.</p>
+      <p begin="47.04s" xml:id="p10" end="51.56s" xmlns="http://www.w3.org/ns/ttml">Enfin, la prospérité économique implique<br />la réduction les coûts, la création de</p>
+      <p begin="51.56s" xml:id="p11" end="56.88s" xmlns="http://www.w3.org/ns/ttml">valeur et la création d'opportunités économiques<br />pour les individus, les organisations,</p>
+      <p begin="56.88s" xml:id="p12" end="59.02s" xmlns="http://www.w3.org/ns/ttml">les communautés et les pays.</p>
+      <p begin="59.96s" xml:id="p13" end="64.54s" xmlns="http://www.w3.org/ns/ttml">Bien qu’un plan stratégique de rendement<br />durable revête de multiples facettes,</p>
+      <p begin="64.54s" xml:id="p14" end="67.8s" xmlns="http://www.w3.org/ns/ttml">ce cours se concentrera sur<br />quatre éléments fondamentaux.</p>
+      <p begin="67.8s" xml:id="p15" end="73.1s" xmlns="http://www.w3.org/ns/ttml">- Optimisation du rendement énergétique;<br />- Protection et conservation de l’eau;</p>
+      <p begin="73.1s" xml:id="p16" end="76.06s" xmlns="http://www.w3.org/ns/ttml">- Utilisation de produits et de matériaux<br />écologiques;</p>
+      <p begin="76.06s" xml:id="p17" end="79.7s" xmlns="http://www.w3.org/ns/ttml">- Amélioration de la qualité de l’environnement<br />intérieur.</p>
+      <p begin="81.06s" xml:id="p18" end="86.6s" xmlns="http://www.w3.org/ns/ttml">Le premier élément fondamental de la gestion<br />durable des installations est l’optimisation</p>
+      <p begin="86.6s" xml:id="p19" end="90.3s" xmlns="http://www.w3.org/ns/ttml">du rendement énergétique.<br />Les réserves de combustibles fossiles sont</p>
+      <p begin="90.3s" xml:id="p20" end="95.7s" xmlns="http://www.w3.org/ns/ttml">de moins en moins fiables, la sécurité énergétique<br />est de plus en plus préoccupante et les effets</p>
+      <p begin="95.7s" xml:id="p21" end="99.1s" xmlns="http://www.w3.org/ns/ttml">des changements climatiques à l’échelle<br />de la planète deviennent évidents.</p>
+      <p begin="99.1s" xml:id="p22" end="103.98s" xmlns="http://www.w3.org/ns/ttml">Il est essentiel que les bâtiments soient<br />durables et à rendement élevé pour diminuer</p>
+      <p begin="103.98s" xml:id="p23" end="109.14s" xmlns="http://www.w3.org/ns/ttml">la charge énergétique, augmenter l’efficacité<br />des ressources et maximiser les technologies</p>
+      <p begin="109.14s" xml:id="p24" end="114.54s" xmlns="http://www.w3.org/ns/ttml">d’énergie renouvelable rentables. Les organismes<br />fédéraux ne cessent de s’engager à réduire</p>
+      <p begin="114.54s" xml:id="p25" end="118.64s" xmlns="http://www.w3.org/ns/ttml">de façon importante notre dépendance aux<br />sources d’énergie étrangère et à</p>
+      <p begin="118.64s" xml:id="p26" end="121.16s" xmlns="http://www.w3.org/ns/ttml">l’énergie issue des combustibles fossiles.</p>
+      <p begin="121.16s" xml:id="p27" end="125.54s" xmlns="http://www.w3.org/ns/ttml">L’optimisation du rendement énergétique<br />commence par la réduction de la consommation</p>
+      <p begin="125.54s" xml:id="p28" end="130.92s" xmlns="http://www.w3.org/ns/ttml">d’énergie et des frais connexes, l’augmentation<br />de l’efficacité des ressources et l’optimisation</p>
+      <p begin="130.92s" xml:id="p29" end="136.16s" xmlns="http://www.w3.org/ns/ttml">du recours aux technologies d’énergie renouvelable<br />rentables. Il est important de fréquemment</p>
+      <p begin="136.16s" xml:id="p30" end="141.51s" xmlns="http://www.w3.org/ns/ttml">mesurer et vérifier la consommation d’énergie<br />afin d’effectuer un suivi adéquat du rendement</p>
+      <p begin="141.51s" xml:id="p31" end="145.39s" xmlns="http://www.w3.org/ns/ttml">au fil du temps.<br />Cette pratique essentielle est conforme à</p>
+      <p begin="145.39s" xml:id="p32" end="149.82s" xmlns="http://www.w3.org/ns/ttml">l’engagement du gouvernement fédéral mis<br />en avant dans la Stratégie pour un gouvernement</p>
+      <p begin="149.82s" xml:id="p33" end="154.54s" xmlns="http://www.w3.org/ns/ttml">vert selon laquelle le gouvernement du Canada<br />réduira les émissions de gaz à effet de</p>
+      <p begin="154.54s" xml:id="p34" end="160.28s" xmlns="http://www.w3.org/ns/ttml">serre des portées 1 et 2 de ses installations<br />et de ses parcs de véhicules de 80 %</p>
+      <p begin="160.28s" xml:id="p35" end="164.26s" xmlns="http://www.w3.org/ns/ttml">par rapport aux niveaux de 2005 d’ici 2050.</p>
+      <p begin="164.26s" xml:id="p36" end="169.84s" xmlns="http://www.w3.org/ns/ttml">Les mesures visant l’optimisation du rendement<br />énergétique peuvent entraîner de nombreux avantages.</p>
+      <p begin="169.84s" xml:id="p37" end="172.52s" xmlns="http://www.w3.org/ns/ttml">Les avantages sur l’environnement sont :</p>
+      <p begin="172.52s" xml:id="p38" end="177.6s" xmlns="http://www.w3.org/ns/ttml">la diminution de la consommation d’électricité<br />et de combustibles fossiles, la réduction</p>
+      <p begin="177.6s" xml:id="p39" end="182.62s" xmlns="http://www.w3.org/ns/ttml">des émissions de GES et de la pollution de<br />l’air liée à la production et à la distribution</p>
+      <p begin="182.62s" xml:id="p40" end="186.89s" xmlns="http://www.w3.org/ns/ttml">de combustibles fossiles.<br />Les avantages économiques sont :</p>
+      <p begin="186.89s" xml:id="p41" end="191.1s" xmlns="http://www.w3.org/ns/ttml">la réduction des coûts initiaux et des coûts<br />d’exploitation lorsqu’il est possible</p>
+      <p begin="191.1s" xml:id="p42" end="195.97s" xmlns="http://www.w3.org/ns/ttml">de diminuer la taille des systèmes grâce<br />à des solutions énergétiques intégrées,</p>
+      <p begin="195.97s" xml:id="p43" end="199.82s" xmlns="http://www.w3.org/ns/ttml">la réduction de la dépendance vis-à-vis<br />du pétrole importé,</p>
+      <p begin="199.82s" xml:id="p44" end="203.84s" xmlns="http://www.w3.org/ns/ttml">la diminution des coûts annuels d’électricité<br />et de combustibles,</p>
+      <p begin="203.84s" xml:id="p45" end="207.88s" xmlns="http://www.w3.org/ns/ttml">la baisse de la demande de pointe d’énergie<br />et des coûts connexes, et</p>
+      <p begin="207.88s" xml:id="p46" end="212.92s" xmlns="http://www.w3.org/ns/ttml">la réduction du nombre de nouvelles infrastructures<br />nécessaires en énergie.</p>
+      <p begin="214.78s" xml:id="p47" end="219.92s" xmlns="http://www.w3.org/ns/ttml">La protection et la conservation de l’eau<br />sont un autre élément essentiel de la gestion</p>
+      <p begin="219.92s" xml:id="p48" end="223.76s" xmlns="http://www.w3.org/ns/ttml">durable des installations.<br />Bien que deux tiers de la surface de la Terre</p>
+      <p begin="223.76s" xml:id="p49" end="229.02s" xmlns="http://www.w3.org/ns/ttml">soient recouverts d’eau, moins d’un demi<br />pour cent est disponible pour notre consommation.</p>
+      <p begin="229.02s" xml:id="p50" end="233.65s" xmlns="http://www.w3.org/ns/ttml">En créant un plan stratégique durable qui<br />permet de consommer l’eau judicieusement,</p>
+      <p begin="233.65s" xml:id="p51" end="236.92s" xmlns="http://www.w3.org/ns/ttml">nous pouvons réduire son utilisation, l’énergie connexe</p>
+      <p begin="236.92s" xml:id="p52" end="239.48s" xmlns="http://www.w3.org/ns/ttml">ainsi que les répercussions sur l’environnement.</p>
+      <p begin="239.48s" xml:id="p53" end="244.399s" xmlns="http://www.w3.org/ns/ttml">Au même titre que l’énergie, la consommation<br />de l’eau devrait être mesurée et vérifiée</p>
+      <p begin="244.4s" xml:id="p54" end="249.84s" xmlns="http://www.w3.org/ns/ttml">régulièrement afin de suivre les améliorations<br />au fil du temps et détecter les failles.</p>
+      <p begin="249.84s" xml:id="p55" end="253.88s" xmlns="http://www.w3.org/ns/ttml">Le gouvernement fédéral s’engage à protéger<br />et à conserver l’eau.</p>
+      <p begin="253.88s" xml:id="p56" end="257.66s" xmlns="http://www.w3.org/ns/ttml">Voici ce qu’il a formulé dans la Stratégie pour un gouvernement vert :</p>
+      <p begin="257.66s" xml:id="p57" end="261.24s" xmlns="http://www.w3.org/ns/ttml">« Le gouvernement du Canada réduira sa consommation<br />d’eau :</p>
+      <p begin="261.24s" xml:id="p58" end="267.02s" xmlns="http://www.w3.org/ns/ttml">en surveillant et en divulguant sa consommation<br />d’eau potable d’ici 2022; en utilisant</p>
+      <p begin="267.02s" xml:id="p59" end="271.08s" xmlns="http://www.w3.org/ns/ttml">les meilleures pratiques d’utilisation d’eau<br />dans les nouvelles constructions et les rénovations</p>
+      <p begin="271.08s" xml:id="p60" end="275.76s" xmlns="http://www.w3.org/ns/ttml">importantes; en concevant tous les nouveaux<br />bâtiments appartenant à l’État afin de</p>
+      <p begin="275.761s" xml:id="p61" end="278.23s" xmlns="http://www.w3.org/ns/ttml">gérer efficacement les eaux pluviales. »</p>
+      <p begin="278.23s" xml:id="p62" end="283.2s" xmlns="http://www.w3.org/ns/ttml">Les mesures prises pour préserver l’eau entraîneront les avantages sur l’environnement suivants :</p>
+      <p begin="283.2s" xml:id="p63" end="287.4s" xmlns="http://www.w3.org/ns/ttml">diminution de la consommation d’eau<br />potable et de la pollution rejetée dans nos</p>
+      <p begin="287.41s" xml:id="p64" end="292.72s" xmlns="http://www.w3.org/ns/ttml">aquifères et cours d’eau, préservation<br />des ressources en eau pour la faune et l’agriculture,</p>
+      <p begin="292.72s" xml:id="p65" end="295.78s" xmlns="http://www.w3.org/ns/ttml">et la restauration des systèmes écologiques<br />humides.</p>
+      <p begin="295.78s" xml:id="p66" end="300.9s" xmlns="http://www.w3.org/ns/ttml">La protection et la conservation de l’eau<br />entraîneront les avantages économiques suivants :</p>
+      <p begin="300.9s" xml:id="p67" end="306.08s" xmlns="http://www.w3.org/ns/ttml">Diminution des coûts annuels liés à la consommation d’eau, réduction des frais municipaux</p>
+      <p begin="306.08s" xml:id="p68" end="311.68s" xmlns="http://www.w3.org/ns/ttml">liés au traitement des eaux usées<br />et la baisse des coûts initiaux de certains appareils.</p>
+      <p begin="313.6s" xml:id="p69" end="318.02s" xmlns="http://www.w3.org/ns/ttml">Un bâtiment durable est construit avec des<br />matériaux qui réduisent les répercussions</p>
+      <p begin="318.02s" xml:id="p70" end="321.8s" xmlns="http://www.w3.org/ns/ttml">sur l’environnement au cours du cycle de<br />vie, comme les changements climatiques à</p>
+      <p begin="321.8s" xml:id="p71" end="326.58s" xmlns="http://www.w3.org/ns/ttml">l’échelle de la planète, l’épuisement<br />des ressources et la toxicité humaine.</p>
+      <p begin="326.58s" xml:id="p72" end="330.8s" xmlns="http://www.w3.org/ns/ttml">Les matériaux écologiques permettent de<br />réduire les coûts de traitement et d’élimination</p>
+      <p begin="330.8s" xml:id="p73" end="336.8s" xmlns="http://www.w3.org/ns/ttml">des déchets, de préserver l’environnement et de contribuer à la santé et à la sécurité des employés.</p>
+      <p begin="336.8s" xml:id="p74" end="341.28s" xmlns="http://www.w3.org/ns/ttml">Les matériaux durables permettent de réduire<br />les coûts au cours du cycle de vie ainsi</p>
+      <p begin="341.28s" xml:id="p75" end="345.78s" xmlns="http://www.w3.org/ns/ttml">que les déchets. Ils permettent de protéger<br />la santé et la sécurité des locataires,</p>
+      <p begin="345.78s" xml:id="p76" end="349.02s" xmlns="http://www.w3.org/ns/ttml">et ils diminuent le besoin de combustibles<br />fossiles.</p>
+      <p begin="349.02s" xml:id="p77" end="353.56s" xmlns="http://www.w3.org/ns/ttml">Le gouvernement du Canada s’engage à réduire<br />les répercussions sur l’environnement des</p>
+      <p begin="353.56s" xml:id="p78" end="358.28s" xmlns="http://www.w3.org/ns/ttml">matériaux de construction en utilisant des<br />techniques d’évaluation du cycle de vie</p>
+      <p begin="358.28s" xml:id="p79" end="363.02s" xmlns="http://www.w3.org/ns/ttml">afin de diminuer le carbone intrinsèque et<br />l’utilisation de matériaux nocifs dans</p>
+      <p begin="363.02s" xml:id="p80" end="365.309s" xmlns="http://www.w3.org/ns/ttml">la construction et la rénovation.</p>
+      <p begin="365.309s" xml:id="p81" end="369.999s" xmlns="http://www.w3.org/ns/ttml">Les avantages sur l’environnement sont :<br />réduction de le l’activité minière et</p>
+      <p begin="369.999s" xml:id="p82" end="375.069s" xmlns="http://www.w3.org/ns/ttml">de l’exploitation des ressources vierges;<br />diminution de la pression sur les écosystèmes</p>
+      <p begin="375.069s" xml:id="p83" end="379.78s" xmlns="http://www.w3.org/ns/ttml">à cause de l’élimination des déchets;<br />diminution de la consommation d’énergie</p>
+      <p begin="379.78s" xml:id="p84" end="384.759s" xmlns="http://www.w3.org/ns/ttml">en lien avec le transport, la fabrication<br />et le traitement des matériaux et des ressources.</p>
+      <p begin="384.76s" xml:id="p85" end="389.48s" xmlns="http://www.w3.org/ns/ttml">Les avantages économiques sont:<br />réduction des coûts initiaux en raison de</p>
+      <p begin="389.48s" xml:id="p86" end="394.64s" xmlns="http://www.w3.org/ns/ttml">l’exploitation locale de matériaux, de<br />la réutilisation de matériaux et de l’utilisation</p>
+      <p begin="394.65s" xml:id="p87" end="398.41s" xmlns="http://www.w3.org/ns/ttml">de matériaux recyclés;<br />baisse des coûts de traitement et d’élimination</p>
+      <p begin="398.41s" xml:id="p88" end="401.88s" xmlns="http://www.w3.org/ns/ttml">des déchets;<br />baisse des frais municipaux pour la construction</p>
+      <p begin="401.88s" xml:id="p89" end="404.9s" xmlns="http://www.w3.org/ns/ttml">et l’exploitation de sites d’enfouissement.</p>
+      <p begin="406.98s" xml:id="p90" end="409.18s" xmlns="http://www.w3.org/ns/ttml">L’un des autres éléments essentiels de</p>
+      <p begin="409.18s" xml:id="p91" end="414.8s" xmlns="http://www.w3.org/ns/ttml">la gestion durable des installations est l’amélioration<br />de la qualité de l’environnement intérieur.</p>
+      <p begin="414.8s" xml:id="p92" end="419.749s" xmlns="http://www.w3.org/ns/ttml">La gestion durable des installations permet<br />d’éviter l’utilisation de produits chimiques</p>
+      <p begin="419.749s" xml:id="p93" end="424.96s" xmlns="http://www.w3.org/ns/ttml">et de matériaux nocifs, vise à améliorer<br />la qualité de l’air et à créer des environnements</p>
+      <p begin="424.96s" xml:id="p94" end="429.52s" xmlns="http://www.w3.org/ns/ttml">productifs, et encourage l’interactivité<br />entre les occupants d’un bâtiment.</p>
+      <p begin="429.52s" xml:id="p95" end="434.68s" xmlns="http://www.w3.org/ns/ttml">Même une faible stimulation de la productivité<br />des travailleurs peut entraîner des économies</p>
+      <p begin="434.68s" xml:id="p96" end="437.96s" xmlns="http://www.w3.org/ns/ttml">qui compenseront le coût lié aux améliorations.</p>
+      <p begin="437.96s" xml:id="p97" end="443.489s" xmlns="http://www.w3.org/ns/ttml">Dans le cadre de sa stratégie verte, le gouvernement<br />du Canada se concentrera sur le bien-être</p>
+      <p begin="443.489s" xml:id="p98" end="447.85s" xmlns="http://www.w3.org/ns/ttml">de ses employés et des collectivités dans<br />lesquelles il est présent en concevant des</p>
+      <p begin="447.85s" xml:id="p99" end="452.98s" xmlns="http://www.w3.org/ns/ttml">lieux de travail durables et en mobilisant<br />les employés pour créer un gouvernement vert.</p>
+      <p begin="452.98s" xml:id="p100" end="457.3s" xmlns="http://www.w3.org/ns/ttml">Les avantages sur l’environnement liés<br />à l’améliorer la qualité de l’environnement</p>
+      <p begin="457.3s" xml:id="p101" end="461.28s" xmlns="http://www.w3.org/ns/ttml">intérieur sont:<br />amélioration de la qualité de l’air dans</p>
+      <p begin="461.28s" xml:id="p102" end="465.52s" xmlns="http://www.w3.org/ns/ttml">l’installation;<br />diminution des émissions organiques volatiles;</p>
+      <p begin="465.52s" xml:id="p103" end="470.18s" xmlns="http://www.w3.org/ns/ttml">réduction des émissions de dioxyde de carbone<br />et monoxyde de carbone.</p>
+      <p begin="470.18s" xml:id="p104" end="475.78s" xmlns="http://www.w3.org/ns/ttml">Les avantages économiques liés à l’amélioration<br />de la qualité de l’environnement intérieur sont :</p>
+      <p begin="475.78s" xml:id="p105" end="478.98s" xmlns="http://www.w3.org/ns/ttml">Des milieux de travail plus sains et plus productifs,</p>
+      <p begin="478.98s" xml:id="p106" end="481.98s" xmlns="http://www.w3.org/ns/ttml">amélioration de la productivité de l’organisation</p>
+      <p begin="481.98s" xml:id="p107" end="487.059s" xmlns="http://www.w3.org/ns/ttml">en raison de l’augmentation du rendement<br />des travailleurs, de la diminuer l’absentéisme</p>
+      <p begin="487.06s" xml:id="p108" end="492.23s" xmlns="http://www.w3.org/ns/ttml">et de la réduction du roulement du personnel;<br />réduction des coûts liés à l’invalidité</p>
+      <p begin="492.23s" xml:id="p109" end="494.0s" xmlns="http://www.w3.org/ns/ttml">et à l’assurance maladie.</p>
+      <p begin="495.18s" xml:id="p110" end="497.94s" xmlns="http://www.w3.org/ns/ttml">Les gestionnaires de l’énergie et des installations</p>
+      <p begin="497.94s" xml:id="p111" end="502.74s" xmlns="http://www.w3.org/ns/ttml">contrôlent plus de ressources susceptibles<br />d'avoir un impact sur le développement durable</p>
+      <p begin="502.74s" xml:id="p112" end="505.5s" xmlns="http://www.w3.org/ns/ttml">que la plupart des autres professionnels sur place.</p>
+      <p begin="505.5s" xml:id="p113" end="510.4s" xmlns="http://www.w3.org/ns/ttml">À court terme, ils établissent des points<br />de référence, lancent des projets, encouragent</p>
+      <p begin="510.4s" xml:id="p114" end="516.06s" xmlns="http://www.w3.org/ns/ttml">des discussions avec les collègues et identifient<br />des opportunités de travail d’équipe et de collaboration.</p>
+      <p begin="516.06s" xml:id="p115" end="521.52s" xmlns="http://www.w3.org/ns/ttml">À long terme, ils ont le potentiel de créer<br />une dynamique et de garder le cap sur l'évolution</p>
+      <p begin="521.52s" xml:id="p116" end="525.02s" xmlns="http://www.w3.org/ns/ttml">à mesure que les projets de durabilité en<br />cours évoluent.</p>
+      <p begin="525.02s" xml:id="p117" end="529.62s" xmlns="http://www.w3.org/ns/ttml">Grâce à leur leadership, il est possible<br />de modifier grandement la consommation de</p>
+      <p begin="529.62s" xml:id="p118" end="532.48s" xmlns="http://www.w3.org/ns/ttml">l’énergie et la qualité de l’environnement.</p>
+      <p begin="533.42s" xml:id="p119" end="540.02s" xmlns="http://www.w3.org/ns/ttml">La durabilité est un processus cyclique d'amélioration<br />continue et requiert donc un effort continu.</p>
+      <p begin="540.02s" xml:id="p120" end="544.35s" xmlns="http://www.w3.org/ns/ttml">Cela ne devrait pas être une fin en soi dans<br />le but de franchir une ligne d’arrivée.</p>
+      <p begin="544.35s" xml:id="p121" end="549.89s" xmlns="http://www.w3.org/ns/ttml">Faites tout ce que vous pouvez avec les ressources<br />dont vous disposez, fixez des objectifs « supérieurs</p>
+      <p begin="549.89s" xml:id="p122" end="555.2s" xmlns="http://www.w3.org/ns/ttml">à la conformité », puis apportez les améliorations<br />en fonction de vos propres repères à mesure</p>
+      <p begin="555.2s" xml:id="p123" end="557.48s" xmlns="http://www.w3.org/ns/ttml">que vous vous rapprochez de vos objectifs.</p>
+      <p begin="557.48s" xml:id="p124" end="561.64s" xmlns="http://www.w3.org/ns/ttml">Même si vous ne pouvez pas atteindre les<br />objectifs cette année, à quel point pouvez-vous</p>
+      <p begin="561.64s" xml:id="p125" end="567.58s" xmlns="http://www.w3.org/ns/ttml">vous en approcher? Pouvez-vous voir plus haut<br />et sans cesse réévaluer et améliorer votre processus?</p>
+      <p begin="567.58s" xml:id="p126" end="571.52s" xmlns="http://www.w3.org/ns/ttml">Soyez toujours à l’écoute afin<br />d’apporter des évaluations continuelles</p>
+      <p begin="571.52s" xml:id="p127" end="576.2s" xmlns="http://www.w3.org/ns/ttml">et de rechercher des mesures durables nouvelles<br />ou améliorées à appliquer.</p>
+      <p begin="576.88s" xml:id="p128" end="581.7s" xmlns="http://www.w3.org/ns/ttml">Considérant que les personnes déterminent<br />comment un bâtiment est utilisé et entretenu,</p>
+      <p begin="581.7s" xml:id="p129" end="586.429s" xmlns="http://www.w3.org/ns/ttml">les initiatives en matière de développement<br />durable doivent tenir compte du lien essentiel</p>
+      <p begin="586.429s" xml:id="p130" end="588.9s" xmlns="http://www.w3.org/ns/ttml">entre les bâtiments et leurs occupants.</p>
+      <p begin="588.9s" xml:id="p131" end="593.429s" xmlns="http://www.w3.org/ns/ttml">L'organisation d'une équipe d'installations<br />durables, ou « équipe verte», est un moyen</p>
+      <p begin="593.429s" xml:id="p132" end="598.349s" xmlns="http://www.w3.org/ns/ttml">éprouvé d'impliquer des personnes aux responsabilités<br />et aux points de vue différents qui partagent</p>
+      <p begin="598.349s" xml:id="p133" end="600.929s" xmlns="http://www.w3.org/ns/ttml">un intérêt dans les opérations de l'installation.</p>
+      <p begin="600.929s" xml:id="p134" end="607.72s" xmlns="http://www.w3.org/ns/ttml">Une équipe verte peut être formelle ou non,<br />mais devrait toujours être pluridisciplinaire.</p>
+      <p begin="607.72s" xml:id="p135" end="610.96s" xmlns="http://www.w3.org/ns/ttml">Dans le module 1, nous avons abordé les points<br />suivants :</p>
+      <p begin="610.96s" xml:id="p136" end="614.629s" xmlns="http://www.w3.org/ns/ttml">- La méthode de triple résultat en développement<br />durable;</p>
+      <p begin="614.629s" xml:id="p137" end="617.639s" xmlns="http://www.w3.org/ns/ttml">- L’importance du leadership du gouvernement<br />fédéral;</p>
+      <p begin="617.639s" xml:id="p138" end="622.269s" xmlns="http://www.w3.org/ns/ttml">- Les quatre éléments essentiels de la gestion<br />durable des installations;</p>
+      <p begin="622.269s" xml:id="p139" end="626.6s" xmlns="http://www.w3.org/ns/ttml">- L’intégration des quatre éléments essentiels<br />dans un plan holistique; et</p>
+      <p begin="626.6s" xml:id="p140" end="631.98s" xmlns="http://www.w3.org/ns/ttml">- Le rôle de leadership du gestionnaire de<br />l’énergie et des installations au sein des équipes.</p>
+      <p begin="631.98s" xml:id="p141" end="636.66s" xmlns="http://www.w3.org/ns/ttml">Dans le module suivant, nous traiterons des<br />moyens pour définir les meilleures stratégies</p>
+      <p begin="636.66s" xml:id="p142" end="641.64s" xmlns="http://www.w3.org/ns/ttml">visant à mettre en œuvre des mesures de<br />développement durable sur votre site.</p>
+    </div>
+  </body>
+</tt>
