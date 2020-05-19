@@ -1510,7 +1510,7 @@ Usage:
     top: -10px; }
   .zoomin:focus img {
     outline: 1px solid #a6c8ff;
-    /*CSPS-TD → CHEAP IE FIX*/ }
+    /*CSPS-TD ÔåÆ CHEAP IE FIX*/ }
   .zoomin:hover {
     color: inherit; }
     .zoomin:hover img {
@@ -3708,3 +3708,5 @@ ul.index-list > li {
 
 #wordmark {
   height: 30px; }
+
+/*# sourceMappingURL=main.css.map */
